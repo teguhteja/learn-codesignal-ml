@@ -1,0 +1,29 @@
+Lesson 1: Feature Engineering for ML
+Modify Tesla Stock Data Columns
+Debug the Tesla Stock Code
+Creating and Inspecting New Financial Features
+Create New Features for Tesla Stock Data
+Tesla Stock Feature Engineering
+Lesson 2: Scaling Features with StandardScaler
+Scaling a Single Feature with StandardScaler
+Identify and Fix the Code
+Scaling Financial Features with StandardScaler
+Implement Feature Scaling Using StandardScaler
+Final Data Scaling Implementation
+Lesson 3: Splitting Dataset into Training and Testing Set
+Adjust the Dataset Split Ratio
+Fix the Dataset Split
+Fill in the Blanks: Splitting and Scaling Data
+Splitting the Dataset into Training and Testing Sets
+Preprocess and Split Tesla Stock Data
+Lesson 4: Addressing Data Leakage in Time Series
+Adjusting TimeSeriesSplit to 5 Splits
+Fixing Time Series Data Split
+Ensure Proper Scaling in Time Series Splitting
+Feature Scaling and Time Series Split
+Addressing Data Leakage in Time Series
+Lesson 5: Creating Lag Features for Time Series Prediction
+Creating Lag Features for Two Days
+Fix the Lag Feature Code
+Adding Lag Features and Handling NaN Values
+Creating and Using Lag Features for Stock Price Prediction

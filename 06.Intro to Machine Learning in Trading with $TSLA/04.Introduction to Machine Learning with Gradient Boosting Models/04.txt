@@ -1,0 +1,28 @@
+Lesson 1 Basic Gradient Boosting Model Training
+Enhance Model by Adding the 'Close' Feature
+Debug and Fix the Gradient Boosting Model
+Fill in Missing Pieces for Model Training
+Complete Gradient Boosting Model Implementation
+Gradient Boosting Model Training with Tesla Data
+Lesson 2 Evaluating Model with Cross-Validation
+Changing the Number of Cross-Validation Folds
+Evaluate Cross-Validation
+Complete the Cross-Validation and Model Instantiation
+Complete Cross-Validation Evaluation
+Evaluating Gradient Boosting Model with Cross-Validation
+Lesson 3 Hyperparameter Tuning Using GridSearchCV
+Adjusting Cross-Validation Folds in GridSearchCV
+Hyperparameter Tuning Debugging with GridSearchCV
+Hyperparameter Tuning and Model Visualization
+GridSearchCV for Hyperparameter Tuning
+Hyperparameter Tuning with GridSearchCV
+Lesson 4 Feature Importance in Gradient Boosting Models
+Remove Volume Feature for Better Analysis
+Feature Importance Calculation in Gradient Boosting Models
+Calculate and Visualize Feature Importance in Gradient Boosting Model
+Computing and Visualizing Feature Importance
+Compute and Visualize Feature Importance in Gradient Boosting Model
+Lesson 5 Using Early Stopping to Prevent Overfitting in Gradient Boosting Models
+Apply Early Stopping Parameters to Model
+Incorporate Early Stopping and Visualization in Gradient Boosting
+Implementing a Gradient Boosting Regressor with Early Stopping

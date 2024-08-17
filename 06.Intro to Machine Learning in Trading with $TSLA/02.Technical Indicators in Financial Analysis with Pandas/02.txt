@@ -1,0 +1,28 @@
+Lesson 1: Calculating Simple Moving Average (SMA) for Tesla Stock Using Pandas
+Adjust the Simple Moving Average Window Size
+Fix the Code to Visualize Stock Prices and SMA
+Calculate and Visualize 20-day SMA for TSLA
+Add Missing Analysis for Tesla Stock SMA
+Calculating and Visualizing the 20-day Simple Moving Average for $TSLA
+Lesson 2: Calculating Exponential Moving Average (EMA) for Tesla Stock Using Pandas
+Calculate 15-day EMA for Tesla Stock
+Identifying and Fixing an Issue in EMA Calculation
+Calculate 200-day EMA for Tesla Stock
+Calculate and Visualize EMAs for Tesla Stock
+Calculate and Visualize the 20-day EMA for Tesla Stock
+Lesson 3: Comparing SMA and EMA with Tesla Stock Data
+Identify and Correct the Issue
+Complete the Code for SMA and EMA Calculation
+Fill in the Moving Averages
+Comparing SMA and EMA for Tesla Stock
+Lesson 4: Applying Technical Indicators to Identify Trends
+Plot Tesla Trends for 2020
+Analyzing Tesla Stock Trend Signals
+Calculate Moving Averages and Identify Crossover Signals
+Calculate SMAs and Identify Crossover Points
+Calculate EMA and Identify Trend Crosses for Tesla's Volume
+Lesson 5: Volume Weighted Average Price (VWAP): Calculation and Visualization Using Pandas
+Filter Data for the First Half of 2018
+Debug and Fix the VWAP Calculation
+Calculate and Visualize VWAP for Tesla Stock
+Calculate and Visualize VWAP for Tesla

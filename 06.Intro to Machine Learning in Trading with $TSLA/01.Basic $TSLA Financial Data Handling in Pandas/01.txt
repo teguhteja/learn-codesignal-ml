@@ -1,0 +1,22 @@
+Lesson 2: Basic Data Inspection in Pandas
+Fix the Dataset Inspection Code
+Complete the DataFrame Inspection
+Inspecting Tesla Stock Price Data
+Lesson 3: Time Series Data Handling in Pandas for Tesla Stock Analysis
+Sort DataFrame by Date in Descending Order
+Fix Time Series Data Handling in Pandas
+Convert and Set Date as Index for Time Series Data
+Convert Date and Set Index in Tesla DataFrame
+Handling Tesla Stock Time Series Data
+Lesson 4: Basic Plotting with Matplotlib
+Modify Figure Size and Plot Close Prices
+Plotting Tesla's Stock Prices
+Visualizing TSLA Low Prices
+Plot and Customize TSLA Trading Volume
+Plotting Tesla's Closing Prices Over Time
+Lesson 5: Filtering Data by Date Range in Pandas
+Filter and Display Tesla Stock Data for Q1 2020
+Identifying and Fixing Date Filter Issues
+Filter Tesla Stock Data for Q4 2019
+Filter Tesla Stock Data by Date Range
+Filter Tesla Stock Data by Date
