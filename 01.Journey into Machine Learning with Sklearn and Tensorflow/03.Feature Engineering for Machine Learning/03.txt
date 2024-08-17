@@ -1,0 +1,27 @@
+Lesson 1: Exploring Feature Engineering with the UCI Abalone Dataset
+Display Dataset Features
+Display Dataset Descriptive Features
+Display More Dataset Entries
+Lesson 2: Navigating Practical Challenges in Feature Engineering
+Implementing Median Imputation for Numeric Features
+Applying Label Encoding to Categorical Data
+Debugging the Feature Engineering Pipeline
+Applying Categorical Encoding and Median Imputation on the Abalone Dataset
+Lesson 3: Unlocking the Secrets of Feature Extraction with the Abalone Dataset
+Calculating the Area
+Volume As a Feature?
+What's Their Density?
+Calculate Relative Height
+Lesson 4: Strategies for Effective Feature Selection in Machine Learning
+Playing With Wrapper Method
+Implementing Embedded Feature Selection Method using Lasso
+Refining Feature Selection with f_classif
+Lesson 5: Harnessing Feature Combinations for Enhanced Machine Learning Models
+Create a New Feature by Multiplying Length and Diameter
+Debugging Feature Combinations Analysis Code
+Exploring New Feature Combinations in Abalone Dataset
+Lesson 6: Unveiling the Power of Feature Interaction in Machine Learning Model Accuracy
+Assessing the Impact of the 'Viscera_Shell' Feature on Model Performance
+Alter the Linear Regression Model for a Different Feature Combination
+Debugging 'Viscera_Shell' Feature
+Effect on Model Performance by Engineering a New Feature

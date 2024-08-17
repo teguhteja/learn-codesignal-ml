@@ -1,0 +1,51 @@
+Lesson 1: Introduction to Neural Networks: TensorFlow and the Digits Dataset
+Visualize an Image and Verify TensorFlow Version
+
+Exploring Binary Color Map for Digit Images
+
+Exploring Image Representation with Color Maps
+
+Lesson 2: Mastering Data Preprocessing for Neural Networks
+Displaying the Flattened Digits Dataset
+
+Shuffling Digits Dataset for Better Training
+
+Standardizing Data for Neural Networks
+
+Data Preprocessing: Fit or Fit-Transform?
+
+Data Preprocessing for Neural Networks
+
+Lesson 3: Building Neural Networks with TensorFlow: A Beginner's Guide
+Defining a Neural Network Model Architecture
+
+Fix the Neural Network Model Architecture
+
+Adding Hidden Layers to Neural Networks
+
+Lesson 4: Math Behind Neural Networks
+Implementing the Sigmoid Activation Function
+
+Implementing the ReLU Activation Function
+
+Neuron Output Calculation Fix
+
+Defining Second Layer of Neurons
+
+Lesson 5: Understanding and Applying Loss Functions and Optimizers in TensorFlow
+Exploring the Neural Network Architecture
+
+Applying Optimal Settings for Neural Network Compilation
+
+Correcting Neural Network Errors
+
+Building a Classification Neural Network
+
+Lesson 6: Training and Evaluating Neural Networks
+Observe the Learning Trajectory of a Neural Network
+
+Enhancing Neural Network Training with Epochs
+
+Adding a Second Layer to the Neural Network
+
+Modifying and Observing a Neural Network

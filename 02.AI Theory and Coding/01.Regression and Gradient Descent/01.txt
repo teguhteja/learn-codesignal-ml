@@ -1,0 +1,37 @@
+Lesson 1: Understanding and Implementing Simple Linear Regression from Scratch
+Unveiling the Magic of Sales Prediction
+
+Predicting Sales Using Simple Linear Regression Constants
+
+Calculating the Coefficients of Linear Regression
+
+Mysterious Prediction Model Failure
+
+Lesson 2: Implementing Multiple Linear Regression from Scratch
+Determining House Prices with Multiple Features
+
+Predicting Housing Prices with Multiple Linear Regression
+
+Calculating Coefficients in Multiple Linear Regression
+
+House Price Prediction with Multiple Linear Regression
+
+Lesson 3: Gradient Descent Optimization in Linear Regression
+Adjust the Learning Rate
+
+Applying Gradient Descent in Real Estate Pricing
+
+Implementing Gradient Descent in Real Estate Analysis
+
+Trying New Approach
+
+Lesson 4: Understanding Logistic Regression and Its Implementation Using Gradient Descent
+Sigmoid Function: From Input to Probability
+
+Implementing the Sigmoid Function
+
+Evaluating Spam Filter Accuracy with Logistic Regression
+
+Adding the Gradient to Logistic Regression
+
+Implementing the Sigmoid Function in Logistic Regression

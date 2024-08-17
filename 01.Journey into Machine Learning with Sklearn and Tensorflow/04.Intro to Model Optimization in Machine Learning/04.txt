@@ -1,0 +1,51 @@
+Lesson 1: Exploring the Wisconsin Breast Cancer Dataset
+Getting Acquainted with the Breast Cancer Dataset
+
+Unveiling the Unique Features in Dataset
+
+Debugging Class Counts in Dataset
+
+Unveiling Descriptive Statistics of Dataset
+
+Lesson 2: Hyperparameter Tuning in Logistic Regressions
+Correcting Data Scaling Issues
+
+Tuning Hyperparameters with GridSearchCV
+
+Navigating the Hyperparameter Space
+
+Lesson 3: Optimizing Decision Trees with Hyperparameter Tuning
+Widening the GridSearchCV Parameter Range
+
+Sailing Through Decision Tree Hyperparameters
+
+Navigating the GridSearch Space
+
+Exploring the Decision Tree Parameter Space
+
+Lesson 4: Regularization Techniques in Machine Learning: Enhancing Model Generalization
+Switching to L2 Regularization in Logistic Regression
+
+Mastering L2 Regularization in Logistic Regression
+
+Cracking the Regularization Code
+
+Mastering L1 Regularization Performance
+
+Applying L1 Regularization Mastery
+
+Lesson 5: Elevating Predictive Models with RandomForest and GradientBoosting Techniques
+Adjusting RandomForest Hyperparameters for Better Accuracy
+
+Prepare Data for Your Gradient Boosting Classifier
+
+Hyperparameters and the Art of Boosting
+
+Boost Your Classifier with Gradient Boosting
+
+Lesson 6: Mastering Model Evaluation: Performance Metrics & Selection in Machine Learning
+Scaling Features for Improved Accuracy
+
+Performance Boost with Data Scaling
+
+Deploying a Complete Machine Learning Pipeline

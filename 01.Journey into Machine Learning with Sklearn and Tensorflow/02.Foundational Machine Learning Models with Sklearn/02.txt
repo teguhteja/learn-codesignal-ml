@@ -1,0 +1,33 @@
+Lesson 1: Exploring Sklearn: Introduction to Machine Learning Basics
+Inspecting the Shape of the Iris Dataset
+Loading the Iris Dataset from Sklearn
+Splitting the Dataset into Training and Testing Data
+Fixing the Dataset Splitting Code
+Lesson 2: Exploring Linear Regression with Python and Sklearn
+Implementing a Linear Regression Model with 2 Features
+Model fitting and evaluation
+Assess Model Performance on Test Data
+Splitting the Dataset into Training and Testing Data
+Lesson 3: Logistic Regression with the Iris Dataset
+Splitting the Dataset into Training and Testing Data
+Generating Predictions using Logistic Regression Model
+Tune the Logistic Regression Model
+Implement Logistic Regression model training
+Lesson 4: Decision Tree Models for Decision Making
+Implement Decision Tree with Different Splitting Criterion
+Add Visualization for Confusion Matrix
+Decision Tree Tuning
+Calculate Decision Tree Model Accuracy
+Lesson 5: Evaluating Machine Learning Models: Metrics and Practices
+Crunching Numbers: Calculating Mean Absolute Error
+Precision in Logistic Regression Models
+Evaluating Accuracy of Decision Tree Model
+Lesson 6: Comparing Different Models
+Implement Linear Regression on the Iris Dataset
+Implementing Logistic Regression Model with Iris Dataset
+Improving Decision Tree Model with Parameter Tuning
+Lesson 7: Optimizing Machine Learning Models: A Practical Guide
+Adjust Hyperparameters and Optimize the Same Model
+Adjust Hyperparameters and Optimize with RandomSearchCV
+Enhance Decision Tree Classifier Performance
+Enhance Decision Tree Performance with RandomizedSearch
