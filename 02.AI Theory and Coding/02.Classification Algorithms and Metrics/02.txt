@@ -1,0 +1,61 @@
+Lesson 1: Understanding the Confusion Matrix, Precision, and Recall in Classification Metrics
+Calculating True Negatives and False Positives in Medical Diagnostics
+
+Precision and Recall in Medical Diagnostics
+
+Precision Calculation in Medical Diagnostics
+
+Medical Test Recall Calculation Correction
+
+Calculating Precision and Recall in Medical Diagnostics
+
+Lesson 2: Implementing and Interpreting AUCROC for Logistic Regression Models
+Evaluating the Diagnostic Test with AUC-ROC
+
+Fine-Tuning Thresholds for ROC Curve Analysis
+
+Diagnostic Test AUCROC Calculation Correction
+
+Calculating the AUC-ROC Metric
+
+Plotting the ROC curve
+
+Lesson 3: Implementing k-Nearest Neighbors Algorithm in Python
+Adjusting k in k-Nearest Neighbors Classifier
+
+Manhattan Distance in k-NN Classifier
+
+Fruit Ripeness Classification Conundrum
+
+Classifying Fruit Ripeness with k-NN
+
+Navigating the Cosmos: Implementing k-NN Majority Vote
+
+Lesson 4: Implementing the Naive Bayes Classifier from Scratch in Python
+Predicting the Weather with Naive Bayes
+
+Forecast Predictor: Calculating Prior Probabilities
+
+Calculating Normalized Values in Weather Data Analysis
+
+Laplace Smoothing in the Naive Bayes Classifier
+
+Predict the Play Day with Naive Bayes
+
+Lesson 5: Understanding and Implementing Decision Tree Splits
+Exploring Gini Index in Movies Dataset
+
+Calculating the Weighted Gini Index
+
+Debugging Gini Index Calculation in Movie Recommendations
+
+Implementing the Dataset Split Function
+
+Calculating the Gini Index for a Movie Recommendation System
+
+Lesson 6: Building a Decision Tree from Scratch in Python
+Building and Visualizing a Decision Tree from Scratch
+
+Creating Terminal Nodes for Decision Trees
+
+Recursive Tree Splitting Challenge
