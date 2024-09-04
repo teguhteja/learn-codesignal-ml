@@ -1,0 +1,46 @@
+Lesson 1: Stochastic Gradient Descent: Theory and Implementation in Python
+Observing Stochastic Gradient Descent in Action
+
+Tuning the Learning Rate in SGD
+
+Stochastic Sidesteps: Updating Model Parameters
+
+Updating the Linear Regression Model Params with SGD
+
+Lesson 2: Optimizing Machine Learning with Mini-Batch Gradient Descent
+Mini-Batch Gradient Descent in Action
+
+Calculating Gradients and Errors in MBGD
+
+Calculating Gradients for Mini-Batch Gradient Descent
+
+Adjust the Batch Size in Mini-Batch Gradient Descent
+
+Lesson 3: Accelerating Convergence: Implementing Momentum in Gradient Descent Algorithms
+Visualizing Momentum in Gradient Descent
+
+Adjusting Momentum in Gradient Descent
+
+Adding Momentum to Gradient Descent
+
+Optimizing the Roll: Momentum in Gradient Descent
+
+Lesson 4: Understanding and Implementing RMSProp in Python
+RMSProp Assisted Space Navigation
+
+Scaling the Optimizer: Adjusting RMSProp with Gamma
+
+Adjust the Decay Rate in RMSProp Algorithm
+
+Implement RMSProp Update
+
+Implement RMSProp's Squared Gradient Update
+
+Lesson 5: Advanced Optimization: Understanding and Implementing ADAM
+Optimizing Robot Movements with ADAM Algorithm
+
+Adjusting the Learning Rate in ADAM Optimization
+
+Optimize the Orbit: Tuning the ADAM Optimizer's Epsilon Parameter
+
+ADAM Optimizer: Implement the Coordinate Update

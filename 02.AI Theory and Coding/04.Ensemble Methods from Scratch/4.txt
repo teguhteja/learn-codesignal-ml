@@ -1,0 +1,35 @@
+Lesson 1: Implementing Bagging with Decision Trees in Python
+Ensemble Predictions with Bagging and Decision Trees
+
+Navigating the Data Cosmos with Bootstrapping and Prediction Functions
+
+Implementing Bootstrapping and Prediction in Ensemble Learning
+
+Predicting with Bagging and Decision Trees
+
+Observing Bagging with Decision Trees in Action
+
+Lesson 2: Deep Dive into Random Forest: From Concepts to Real-World Application
+Evaluating Random Forest Accuracy on Iris Dataset
+
+Adjusting the Depth of Our RandomForest
+
+Seeding the Forest: Random State Initialization
+
+Lesson 3: Demystifying AdaBoost: A Practical Guide to Strengthening Predictive Models
+AdaBoost Accuracy Demonstration
+
+Tweaking the AdaBoost Learning Rate
+
+Boosting the Weights in AdaBoost
+
+AdaBoost Prediction Challenge
+
+Lesson 4: Enhancing Machine Learning Predictions with Stacking Ensemble Techniques
+Launching the Stacking Model into Orbit
+
+Switching the Meta-Model in Stacking Ensemble
+
+Stacking Ensemble: Combining Base Model Predictions
+
+Assemble the Stacking Ensemble: Meta-Model Predictions
