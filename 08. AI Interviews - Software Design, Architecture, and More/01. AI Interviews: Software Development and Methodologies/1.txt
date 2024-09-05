@@ -1,0 +1,23 @@
+Lesson 1: Key Principles of Object-Oriented Programming (OOP)
+Explain Principles of OOP
+
+Lesson 2: SOLID Principles in Software Design
+Understanding SOLID Principles in Interviews
+
+Lesson 3: Principles of Agile Development Methodology
+Understanding Agile Development Principles
+
+Lesson 4: Differences Between Agile and Waterfall Methodologies
+Agile vs Waterfall Methodologies
+
+Lesson 5: Key Principles of Functional Programming
+Principles of Functional Programming
+
+Lesson 6: Importance of Design Patterns
+Understanding Design Patterns in Interviews
+
+Lesson 7: Steps in Continuous Integration and Continuous Deployment (CICD)
+Mastering Continuous Integration and Deployment
+
+Lesson 8: Working with Version Control Systems
+Managing Merge Conflicts Mastery

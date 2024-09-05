@@ -1,0 +1,54 @@
+Lesson 1: Setting Up a Basic Django Project
+Run Your Django Server
+
+Update Home View for Message Display
+
+Fix URL Configuration in Django
+
+Add Another View in Django
+
+Setting Up Your Django Project
+
+Lesson 2: Serving Static Files in Django
+Serving Static Files in Django
+
+Changing CSS and HTML Content
+
+Fix Static Files Serving Bug
+
+Add Static Files to Django
+
+Lesson 3: Basic Middleware and JSON Responses
+Middleware and JSON Responses Practice
+
+Log User's IP Address Efficiently
+
+Fix Middleware Logging Issue
+
+Enhanced Logging and JSON Response
+
+Add Another Middleware for IP Logging
+
+Implement Django Middleware and JSON
+
+Lesson 4: Adding URL Parameters and Query Parameters
+Handling URL and Query Parameters
+
+Update URL Parameters for Colors
+
+Fix Query Parameter Issue
+
+Handling Multiple Query Parameters in Django
+
+Add URL and Query Parameters
+
+Mastering URL and Query Parameters
+
+Lesson 5: Handling 404 Errors in Django
+Handling 404 Errors Gracefully
+
+Create a Custom 404 Message
+
+Fix Custom 404 Handler
+
+Custom 404 Error Handling

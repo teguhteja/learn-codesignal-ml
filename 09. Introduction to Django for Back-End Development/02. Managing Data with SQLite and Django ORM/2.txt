@@ -1,0 +1,48 @@
+Lesson 1: Installing and Connecting to SQLite3
+Run Your Django SQLite App
+
+Updating SQL Queries
+
+Retrieve Data with Web-slinging Superheroes
+
+Lesson 2: Defining and Exporting Django Models
+Run the Django Items Example
+
+Add a Category Field
+
+Fix the Django Song Model
+
+Adding a Genre Field
+
+Lesson 3: Integrating SQLite3 with Django ORM and Creating a Model
+Integrate SQLite3 with Django ORM
+
+Change Todo Model to Superhero Model
+
+Fix the Todo Model Bug
+
+Fill in Django Superpower Model
+
+Create a Celebrity Model
+
+Lesson 4: Creating Relationships Between Models
+Creating Relationships Between Models
+
+Add a Priority Model
+
+Fix the Relationships in Models
+
+Creating Song Model
+
+Creating Relationships Between Models
+
+Lesson 5: Validating Data with Django
+Run Data Validation in Django
+
+Update Validation Rule for Task
+
+Data Validation Bug Fixing
+
+Custom Validation for Todo Tasks
+
+Data Validation with Django Copies

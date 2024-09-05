@@ -1,0 +1,37 @@
+Lesson 1: User Authentication
+Run Code for User Authentication
+
+Verify Unique Email on Registration
+
+Complete User Registration Function
+
+Implement User Login Function
+
+Complete the user logout function
+
+Lesson 2: Protecting Routes with Middleware
+Protecting Routes with Middleware
+
+Protect Important Routes with Middleware
+
+Fix the Middleware Bug
+
+Protect Routes with Middleware
+
+Sending Requests with Token
+
+Lesson 3: Data Validation and Error Handling
+Data Validation and Error Handling
+
+Enhance Data Validation
+
+Improve Data Validation in To-Do
+
+Lesson 4: Implementing Pagination
+Implementing Pagination in Django
+
+Change Pagination to Show More Tasks
+
+Implementing Pagination Logic
+
+Implementing Pagination from Scratch

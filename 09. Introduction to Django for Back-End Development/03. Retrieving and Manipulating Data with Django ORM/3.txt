@@ -1,0 +1,43 @@
+Lesson 1: Retrieving All Records
+Retrieve All Todo Records
+
+Retrieve Only Incomplete Todos
+
+Running your Django ORM Code
+
+Modify Todo Retrieval Function
+
+Fix the Task Retrieval Bug
+
+Retrieve Movie Data with Django
+
+Lesson 2: Retrieving a Single Record by ID
+Retrieving Single Record by ID
+
+Retrieve Task by Name
+
+Retrieve Todo by ID or Name
+
+Retrieve Todo with Django ORM
+
+Fetch Todos by Category and Tag
+
+Lesson 3: Updating Records by ID
+Update Records with Django ORM
+
+Updating Todo Completion Status
+
+Update Movies with Django ORM
+
+Update Movie Availability by Title
+
+Lesson 4: Deleting Records by ID
+Deleting Todo Tasks by ID
+
+Delete Todo Item by Task Name
+
+Fix the Task Deletion Bug
+
+Deleting Completed Tasks Efficiently
+
+Delete Movies Using ID
