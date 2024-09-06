@@ -1,0 +1,70 @@
+
+Lesson 1: Unraveling Recursion Through Classic Problems
+Constructing an Alternate Fibonacci Sequence Function in Python
+
+Recursive Sum of Even-Indexed Elements in a Python List
+
+Factorial Calculation of List Elements Using Recursion
+
+Lesson 2: Mastering Binary Search: Implementation and Complexity Analysis in Python
+Implementing Binary Search in E-commerce Pricing Search
+
+Debugging Age Search Algorithm
+
+Implementing Binary Search in a Spelling Bee Competition
+
+Implementing Binary Search to Find a Student's Grade in a Class
+
+Lesson 3: Mastering Continuous Functions with Binary Search in Python
+Calculating the Fall Time of a Ball with Binary Search
+
+Modifying Binary Search to Find Specific Function Value
+
+Decoding the Misplaced Root of a Polynomial Function
+
+Determining the Optimal Coffee Temperature with Binary Search
+
+Implementing Binary Search on Continuous Function from Scratch
+
+Lesson 4: Cracking Advanced Interview Problems with Binary Search
+Rotated Array Search Challenge
+
+Finding the Range of a Target Float in a Sorted Array
+
+Leftmost Target Index Finder in Sorted Array
+
+Lesson 5: Mastering Quick Sort: Implementation and Complexity Analysis in Python
+Applying Quick Sort on a List of Random Numbers
+
+Sorting in Descending Order with Quick Sort
+
+Debugging Quick Sort Implementation
+
+Implementing Quick Sort on a List of Random Numbers
+
+Implementing Quick Sort for Descending Order from Scratch
+
+Lesson 6: Mastering Merge Sort: Implementation and Complexity Analysis in Python
+Sorting Randomly Generated Strings with Merge Sort
+
+Sorting Strings by Substrings with Merge Sort
+
+Deciphering Alien Messages using Merge Sort: A Debugging Story
+
+Sorting Alphanumeric Strings using Merge Sort
+
+Sorting Alphanumeric Characters using Merge Sort from Scratch
+
+Lesson 7: Mastering Sorting in Python: Practical Problem-Solving with Built-in Functions
+Cosmic Number Sorter
+
+Interstellar Sales Sorting Challenge
+
+Sorting Course Enrollment Tuples by ID in Descending Order
+
+Sorting a Dictionary by High Scores in Descending Order
+
+Lesson 8: Unveiling Advanced Sorting Algorithm Applications: K-th Ordinal Statistics and Inversion Counting
+Finding the Kth Largest Integer in a List
+
+Counting Specific Inversion Pairs in a Number List
