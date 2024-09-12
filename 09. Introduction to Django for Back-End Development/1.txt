@@ -1,0 +1,32 @@
+Introduction to Django for Back-End Development
+Learn to build robust back-end systems with Django. This path covers project setup, routing, SQLite3 integration, CRUD operations, and a full-featured To-Do app with authentication and real-time updates.
+
+First Steps Into Back-End Engineering with Django
+Begin your journey in back-end engineering by learning the essentials of Django. This course covers setting up a simple server, handling routes, serving static files, and managing basic middleware and errors.
+Lesson 1: Setting Up a Basic Django Project
+Lesson 2: Serving Static Files in Django
+Lesson 3: Basic Middleware and JSON Responses
+Lesson 4: Adding URL Parameters and Query Parameters
+Lesson 5: Handling 404 Errors in Django
+
+Managing Data with SQLite and Django ORM
+Master data management by integrating SQLite3 into your Django applications using Django's ORM. This course will guide you through setting up a database connection, creating and managing data models, and performing data validations.
+Lesson 1: Installing and Connecting to SQLite3
+Lesson 2: Defining and Exporting Django Models
+Lesson 3: Integrating SQLite3 with Django ORM and Creating a Model
+Lesson 4: Creating Relationships Between Models
+Lesson 5: Validating Data with Django
+
+Retrieving and Manipulating Data with Django ORM
+Dive deeper into CRUD operations with Django ORM in this course. Learn to efficiently retrieve, update, and delete records, and handle complex queries to manage data in your Django applications effortlessly.
+Lesson 1: Retrieving All Records
+Lesson 2: Retrieving a Single Record by ID
+Lesson 3: Updating Records by ID
+Lesson 4: Deleting Records by ID
+
+Building a Full-Featured To-Do List Application
+Apply your skills to build a robust To-Do list application using Django and SQLite3. This course covers user authentication, protecting routes with middleware, data validation, and implementing real-time updates with Django Channels.
+Lesson 1: User Authentication
+Lesson 2: Protecting Routes with Middleware
+Lesson 3: Data Validation and Error Handling
+Lesson 4: Implementing Pagination
