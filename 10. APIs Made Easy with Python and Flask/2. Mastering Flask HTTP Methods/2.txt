@@ -1,0 +1,48 @@
+Lesson 1: Retrieving Data with GET Requests
+Retrieving All Users
+
+Retrieve Single User by ID
+
+Debugging the GET Endpoints
+
+Completing Endpoints Responses
+
+Master Flask GET Endpoints
+
+Lesson 2: Inserting Data with POST Requests
+Complete the POST Endpoint
+
+Fix the POST Endpoint
+
+Handling an Extra Field
+
+Validate and Handle Missing Username
+
+Write Your Own POST Endpoint
+
+Lesson 3: Updating Data with PUT Requests
+Update User Data with PUT
+
+Handling Additional Fields to Update
+
+Fixing PUT Endpoint
+
+Complete the PUT Responses
+
+Write a Complete PUT Endpoint
+
+Lesson 4: Removing Data with DELETE Requests
+Setup a Delete Endpoint
+
+Return 204 on Successful Delete
+
+Fix the DELETE Endpoint Bug
+
+Delete Book Endpoint in Flask
+
+Lesson 5: Combining Methods into Single Endpoints
+Complete the Methods List
+
+Debug HTTP Methods
+
+Handling All the HTTP Methods

@@ -1,0 +1,39 @@
+Lesson 1: Creating a Basic Login Endpoint
+Run the Login Endpoint
+
+Complete the Login Responses
+
+Fix the Login Endpoint Bug
+
+Handling the Login Data
+
+Implement a Signin Endpoint
+
+Lesson 2: Generating JWT Tokens Upon Login
+Run and Generate a JWT Token
+
+Setting Up JWT Authentication
+
+Fix the JWT Bug
+
+Complete Your Flask JWT Login
+
+Lesson 3: Securing an Endpoint with JWT
+Secured Endpoint in Action
+
+Implementing the JWT Required Decorator
+
+Fix the JWT Protection Bug
+
+Secure a New Flask Endpoint
+
+Lesson 4: Setting Token Expiry and Refreshing Tokens
+Understanding Token Expiry and Refreshing
+
+Generate and Refresh Tokens
+
+Fix the Token Required Bugs
+
+Defining a Refresh Route
+
+Token Expiry and Refresh Mastery

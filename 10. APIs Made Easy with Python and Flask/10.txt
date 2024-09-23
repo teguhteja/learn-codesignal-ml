@@ -1,0 +1,30 @@
+APIs Made Easy with Python and Flask
+Unleash the power of Python APIs with Flask! Start by setting up your first server, move to creating dynamic endpoints and master HTTP methods. Effortlessly handle and validate data using Marshmallow, and finally secure your applications with JWT authentication. Let's boost your API building skills.
+
+Introduction to Flask Basics
+- Lesson 1: Running Your First Flask Application
+- Lesson 2: Launching a Flask Application with Gunicorn
+- Lesson 3: Creating a Simple GET Endpoint in Flask
+- Lesson 4: Returning JSON for Structured Responses
+- Lesson 5: Using Path Parameters in Dynamic Routes
+- Lesson 6: Working with URL Query Parameters
+
+Mastering Flask HTTP Methods
+Lesson 1: Retrieving Data with GET Requests
+Lesson 2: Inserting Data with POST Requests
+Lesson 3: Updating Data with PUT Requests
+Lesson 4: Removing Data with DELETE Requests
+Lesson 4: Removing Data with DELETE Requests
+
+Flask Data Modeling with Marshmallow
+Lesson 1: Defining Schemas and Serializing Data with Marshmallow
+Lesson 2: Handling Incoming Data with Marshmallow
+Lesson 3: Nested Schemas for Complex Data Structures
+Lesson 4: Advanced Data Validation with Marshmallow
+Lesson 5: Building Your Own Custom Validator
+
+Securing Flask Apps with JWT Authentication
+Lesson 1: Creating a Basic Login Endpoint
+Lesson 2: Generating JWT Tokens Upon Login
+Lesson 3: Securing an Endpoint with JWT
+Lesson 4: Setting Token Expiry and Refreshing Tokens

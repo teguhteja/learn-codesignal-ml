@@ -1,0 +1,48 @@
+Lesson 1: Defining Schemas and Serializing Data with Marshmallow
+Define and Use Marshmallow Schemas
+
+Remove a Field from the Schema
+
+Fix the Marshmallow Bug
+
+Defining User Schema with Marshmallow
+
+Serialize Data with Marshmallow
+
+Lesson 2: Handling Incoming Data with Marshmallow
+Validation Incoming Data with Marshmallow
+
+Fixing Fields Validation
+
+Catch the Validation Errors
+
+Full Product Data Validation in Flask
+
+Lesson 3: Nested Schemas for Complex Data Structures
+Complete the Nested Schemas Setup
+
+Fix Nested Schema Error
+
+Creating a Main Schema with Marshmallow
+
+Write and Integrate Nested Schemas
+
+Lesson 4: Advanced Data Validation with Marshmallow
+Advanced Validations for User Creation
+
+Tweak Age Validation Constraints
+
+Fix Advanced Validations for Users
+
+Write a Schema With Advanced Validation
+
+Lesson 5: Building Your Own Custom Validator
+Custom Field Validators in Flask
+
+Extend Custom Email Validation
+
+Fix Custom Validator Issue
+
+Implement the Custom Validator Logic
+
+Create Custom Validators for Products

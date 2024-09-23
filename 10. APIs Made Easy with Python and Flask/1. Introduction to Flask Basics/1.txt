@@ -1,0 +1,53 @@
+Lesson 1: Running Your First Flask Application
+Getting your First Flask App Running
+
+Change Server IP and Port
+
+Write a Flask App from Scratch
+
+Lesson 2: Launching a Flask Application with Gunicorn
+Launch Flask App with Gunicorn
+
+Change Flask Instance and Command
+
+Specify IP and Port with Gunicorn
+
+Lesson 3: Creating a Simple GET Endpoint in Flask
+Test Your First GET Endpoint
+
+Changing the Route URL
+
+Fix the GET Endpoint
+
+Complete the GET Endpoint
+
+Write Your Own Funny Endpoint
+
+Lesson 4: Returning JSON for Structured Responses
+Returning a JSON Response
+
+Add Status to JSON Response
+
+Fix the JSON Response
+
+Returning JSON Without Jsonify
+
+Write a JSON Endpoint
+
+Lesson 5: Using Path Parameters in Dynamic Routes
+Create Dynamic Routes with Flask
+
+Debugging a Dynamic Route
+
+Adding Multiple Path Parameters
+
+Create Dynamic Routes in Flask
+
+Lesson 6: Working with URL Query Parameters
+Insert the Query Parameter
+
+Fix the Query Parameter Bug
+
+Handle Multiple Query Parameters
+
+Writing a Query Parameter Route
