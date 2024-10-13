@@ -1,0 +1,39 @@
+Lesson 1: Working with Redis Streams
+Working with Redis Streams
+
+Read All Stream Messages
+
+Working with Event Streams
+
+Handle Math Operations in Redis
+
+Lesson 2: Managing Key Expiration
+Understanding Key Expiration in Redis
+
+Modify Redis Key Expiration
+
+Extending Key Expiration in Redis
+
+Creating Expiring Keys in Redis
+
+Writing Key Expiration in Redis
+
+Lesson 3: Pub/Sub Messaging in Redis
+Run Redis Pub/Sub Messaging Code
+
+Update to a New Pub/Sub Channel
+
+Debug Redis Pub/Sub Messaging
+
+Setting Up Redis Pub/Sub System
+
+Set Up Redis Pub/Sub Messaging
+
+Lesson 4: Snapshotting in Redis
+Creating Snapshots in Redis
+
+Using Redis BGSAVE Snapshot
+
+Trigger Redis Snapshots Manually
+
+Redis Snapshotting from Scratch

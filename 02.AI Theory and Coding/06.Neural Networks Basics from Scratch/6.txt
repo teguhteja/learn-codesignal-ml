@@ -1,0 +1,22 @@
+Lesson 1: Understanding Neural Networks: An Introduction to the Perceptron Algorithm
+Perceptron Logic Probe Decision-Making
+
+Perceptron Prediction Calibration
+
+Code the Perceptron's Decision Function
+
+Lesson 2: Understanding and Implementing Neural Network Activation Functions
+Step Function in Action
+
+Comparing Function: Sigmoid and Tanh
+
+Sigmoid Activation Function Implementation
+
+Lesson 3: Backpropagation Unveiled: Understanding the Mathematics and Code Behind Neural Network Learning
+Training a Neural Network to Solve XOR
+
+Implement Prediction in the Neural Network
+
+Implement Weight Update in Neural Network
+
+Implement Sigmoid Derivative and Prediction Function in a Neural Network

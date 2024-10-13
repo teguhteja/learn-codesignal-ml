@@ -1,0 +1,36 @@
+Lesson 1: Managing User Data with Expiration
+Implement the add_user Method
+
+Managing User Data in Redis
+
+Update Expiration Time
+
+Extend User Data Expiration
+
+Lesson 2: Using Sorted Sets for Leaderboards
+Implementing Sorted Sets for Leaderboards
+
+Retrieve the Top N Users
+
+Getting User Rank and Score
+
+Lesson 3: Handling Transactions with Pipelines
+Handling User Data with Pipelines
+
+Using Pipelines for Transactions
+
+Handling Data with Redis Pipelines
+
+Lesson 4: Utilizing Redis Streams for Event Logging
+Check to Avoid Duplicate Users
+
+Logging User Activities with Redis
+
+Logging Activities in Redis Streams
+
+Lesson 5: Implementing Pub/Sub for Notifications
+Publish Messages to a Channel
+
+Handle Incoming Messages with Pub/Sub
+
+Handling Tic-Tac-Toe Notifications

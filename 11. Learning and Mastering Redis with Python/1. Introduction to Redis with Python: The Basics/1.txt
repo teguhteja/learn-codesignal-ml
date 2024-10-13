@@ -1,0 +1,60 @@
+Lesson 1: Connecting to a Redis Server
+Connecting to Redis Server
+
+Change Key and Value in Redis
+
+Multiline Strings in Redis
+
+Fix the Redis Connection
+
+Add Missing Redis Connection Details
+
+Connect and Retrieve From Redis
+
+Lesson 2: Working with Numbers
+Working with Redis Numbers
+
+Fix the Redis Script
+
+Adding Missing Redis Code Blocks
+
+Write Redis Numbers from Scratch
+
+Lesson 3: Operations with Numbers
+Practice Redis Numeric Operations
+
+Modify Redis Numeric Operations
+
+Fix Redis Numeric Operations Bug
+
+Increment and Decrement Values in Redis
+
+Writing Numeric Operations in Redis
+
+Lesson 4: Lists in Redis
+Managing Redis Lists
+
+Using the Lindex Command
+
+Modify Redis List to Numbers
+
+Retrieving Redis Lists Content
+
+Find and Fix Redis List Bugs
+
+Fill in the Redis List Code
+
+Creating Redis Lists from Scratch
+
+Lesson 5: Hashes in Redis
+Running Your First Redis Hash
+
+Change Hash to Store New User
+
+Redis Hash: Retrieve Specific Field
+
+Fix Redis Hash Bug
+
+Redis Hash Practice Exercise
+
+Creating Redis Hash from Scratch

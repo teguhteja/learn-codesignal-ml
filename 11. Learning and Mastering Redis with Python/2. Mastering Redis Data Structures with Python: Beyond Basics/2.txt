@@ -1,0 +1,45 @@
+Lesson 1: Sets in Redis
+Run Your First Redis Set
+
+Calculating Set Size
+
+Fix the Redis Set Code
+
+Unique World Heritage Sites
+
+Managing Cities in Redis Sets
+
+Tracking Unique Movies with Redis
+
+Lesson 2: Sorted Sets in Redis
+Retrieve Top Players from Leaderboard
+
+Fix Redis Leaderboard Code
+
+Retrieve Lowest Scores from Leaderboard
+
+Adding and Retrieving Top Players
+
+Working with Superhero Scores
+
+Create a Redis Leaderboard
+
+Lesson 3: Bitmaps in Redis
+Track User Activity in Redis
+
+Track Video Tutorial Activity
+
+Tracking Artist Activity with Bitmaps
+
+Tracking User Activity with Bitmaps
+
+Lesson 4: Geospatial Indexes in Redis
+Geospatial Indexing in Action
+
+Changing Geospatial Coordinates in Redis
+
+Change Distance Unit to Miles
+
+Adding and Measuring Geo Coordinates
+
+Geospatial Indexing from Scratch

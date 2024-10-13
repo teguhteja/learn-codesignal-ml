@@ -1,0 +1,47 @@
+Lesson 1: Batching Commands with Pipelines
+Running a Redis Transaction
+
+Adding a Decrement in Pipeline
+
+Debug Redis Pipeline Errors
+
+Complete the Redis Pipeline
+
+Write a Redis Pipeline Script
+
+Improve Efficiency with Redis Pipelines
+
+Lesson 2: Implementing Atomic Transactions with Watch
+Watch and Update User Balance
+
+Updating User Balance with Redis
+
+Abort Transaction on Negative Balance
+
+Update Likes with Redis Transactions
+
+Update Points with Redis Transactions
+
+Lesson 3: Enhancing Transactions with Unwatch
+Concurrent Transactions with Watch and Unwatch
+
+Adding Transaction Limits
+
+Enhance Redis Transaction Control
+
+Enhancing Redis Transaction Control
+
+Update Player Points Atomically
+
+Lesson 4: Redis Lua Scripting for Transactions
+Running Lua Scripting in Redis
+
+Modify the Lua Script
+
+Complete a Redis Lua Script
+
+Decrement Book Copies in Redis
+
+Write a Redis Lua Script
+
+Complete the Player Score Script
