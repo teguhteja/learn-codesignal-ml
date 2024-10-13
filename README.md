@@ -1,47 +1,44 @@
-# Project: learn-codesignal-ml
+# Learn CodeSignal ML
 
-This project is aimed at helping users learn machine learning concepts through CodeSignal. CodeSignal is a platform that provides coding challenges and assessments to help developers improve their skills.
+A comprehensive collection of machine learning and web development resources from CodeSignal's learning paths, implemented in Jupyter notebooks.
 
-## Table of Contents
-- [Project: learn-codesignal-ml](#project-learn-codesignal-ml)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
+## Project Overview
 
-## Introduction
-In this project, we will explore various machine learning algorithms and techniques using CodeSignal. We will cover topics such as data preprocessing, model training, evaluation, and deployment. By following the exercises and challenges provided by CodeSignal, users will gain hands-on experience in implementing machine learning models.
+This repository contains Jupyter notebooks covering various topics from CodeSignal's course paths (https://learn.codesignal.com/course-paths). Initially focused on machine learning, the project has expanded to include web development with Python.
 
-## Installation
-To get started with this project, you will need to have Python installed on your machine. You can download Python from the official website: [Python.org](https://www.python.org/)
+## Key Topics
 
-Once you have Python installed, you can clone this repository using the following command:
+1. Machine Learning with Sklearn and TensorFlow
+2. AI Theory and Coding
+3. Dimensionality Reduction in Python
+4. Prompt Engineering
+5. TensorFlow Deep Dive
+6. Machine Learning in Trading (using $TSLA)
+7. Algorithms and Data Structures in Python
+8. AI Interviews - Software Design & Architecture
+9. Django for Back-End Development
+10. API Development with Python and Flask
+11. Redis Mastery with Python
 
-```
-git clone https://github.com/teguhteja/learn-codesignal-ml.git
-```
+## Why This Project?
 
-After cloning the repository, navigate to the project directory:
+- **Practical Learning**: Hands-on implementation of theoretical concepts
+- **Diverse Topics**: Covers ML, AI, web development, and more
+- **Industry Relevance**: Focuses on in-demand skills and technologies
+- **Open Source**: Encourages collaboration and knowledge sharing
 
-```
-cd learn-codesignal-ml
-```
+## How to Use
 
-Next, you will need to install the required dependencies. You can do this by running the following command:
+1. Clone the repository
+2. Open the Jupyter notebooks
+3. Explore the markdown explanations and code examples
+4. Experiment with the code and adapt it to your projects
 
-```
-pip install -r requirements.txt
-```
+## Contributions
 
-## Usage
-will be added later
-
-Feel free to explore the code and modify it according to your needs. You can also contribute to this project by submitting pull requests with improvements or additional exercises.
-
-## Contributing
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the GitHub repository. If you would like to contribute code, you can fork the repository and submit a pull request.
+Contributions are welcome! Feel free to submit pull requests with improvements, additional exercises, or bug fixes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+This project is open-source and available under the MIT License.
+
