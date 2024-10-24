@@ -18,16 +18,16 @@ Creating Expiring Keys in Redis
 
 Writing Key Expiration in Redis
 
-Lesson 3: Pub/Sub Messaging in Redis
-Run Redis Pub/Sub Messaging Code
+Lesson 3: Pub-Sub Messaging in Redis
+Run Redis Pub-Sub Messaging Code
 
-Update to a New Pub/Sub Channel
+Update to a New Pub-Sub Channel
 
-Debug Redis Pub/Sub Messaging
+Debug Redis Pub-Sub Messaging
 
-Setting Up Redis Pub/Sub System
+Setting Up Redis Pub-Sub System
 
-Set Up Redis Pub/Sub Messaging
+Set Up Redis Pub-Sub Messaging
 
 Lesson 4: Snapshotting in Redis
 Creating Snapshots in Redis
