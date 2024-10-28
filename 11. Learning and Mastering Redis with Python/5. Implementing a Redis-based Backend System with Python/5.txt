@@ -28,9 +28,9 @@ Logging User Activities with Redis
 
 Logging Activities in Redis Streams
 
-Lesson 5: Implementing Pub/Sub for Notifications
+Lesson 5: Implementing Pub-Sub for Notifications
 Publish Messages to a Channel
 
-Handle Incoming Messages with Pub/Sub
+Handle Incoming Messages with Pub-Sub
 
 Handling Tic-Tac-Toe Notifications
