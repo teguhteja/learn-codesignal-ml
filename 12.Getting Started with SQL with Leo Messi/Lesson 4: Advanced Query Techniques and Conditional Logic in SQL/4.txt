@@ -1,0 +1,43 @@
+Lesson 1: Logical Operations with AND in SQL Queries
+Fix SQL Query Syntax Error
+
+Logical Operations in SQL Queries
+
+Refining SQL Queries with Conditions
+
+Logical Operations with AND/OR in SQL Queries
+
+Retrieve Specific Match Details
+
+Lesson 2: Utilizing Conditional Operators - LIKE, IN, and BETWEEN
+First Half Match Events
+
+Filtering Match Events with BETWEEN
+
+Finding Matches from 2005
+
+Utilizing Conditional Operators in SQL
+
+Utilize SQL Conditional Operators
+
+Lesson 3: Mastering Subqueries for Data Analysis
+Fixing Errors in Subqueries
+
+Subqueries in Action
+
+Refining Event Timing Queries
+
+Mastering Subqueries for Data Analysis
+
+Subquery Magic in Action
+
+Lesson 4: Complex Queries and Conditional Logic
+Categorize Matches with IF Function
+
+Categorize Matches by Date
+
+Categorize Match Events by Minutes
+
+Creating and Querying Match Statistics in SQL
+
+Categorizing Match Events with SQL

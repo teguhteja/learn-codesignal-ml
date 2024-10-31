@@ -1,0 +1,56 @@
+Lesson 1: Introduction to Databases, SQL and Writing First Query
+Running Your First SQL Queries
+
+Unveiling all Records from a Seasons Table
+
+Unveiling Specific Season Details
+
+Unveiling the database's tables
+
+Exploring Database Tables with SQL
+
+Lesson 2: Navigating the SQL SELECT Statement
+Selecting Specific Columns in SQL
+
+Select and Rename Columns
+
+Fix the SQL Query
+
+Renaming Columns with SQL
+
+Navigating Advanced SQL Queries
+
+Lesson 3: Application of WHERE Clause
+Select Matches After 2005
+
+Selecting Specific Matches Using SQL
+
+Filtering Soccer Matches Effortlessly
+
+Fix the SQL Query Bug
+
+Selecting Matches by Year
+
+Lesson 4: Mastering SELECT Statements with Logical Operators
+Refine Match Data Selection
+
+Refine Your SQL Queries
+
+Refine Match Data Selection
+
+Fetch Match Events by Duration
+
+Fetch Messi's Matches
+
+Lesson 5: Understanding ORDER BY Clause for Sorting Data
+Ordering Match Results by Date
+
+Sorting Match Records by ID
+
+Sorting Match Results Ascending
+
+Sort Match Results Numerically
+
+Sorting Match Results Correctly
+
+Sorting Match Data by Date

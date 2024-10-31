@@ -1,0 +1,47 @@
+Learning SQL Joins with Leo Messi
+Explore the dynamic world of SQL Joins by analyzing data from Messi's soccer career. This course will demonstrate how to connect different tables to reveal the in-depth narratives of Messi's matches, competitions, and performance MatchEvents.
+
+Lessons and practices
+Lesson 1: Learning SQL Joins with Leo Messi
+Change to Find Away Matches
+
+Fix Errors in SQL Joins
+
+Adding Matchday Condition
+
+Find Matches Against French Clubs
+
+Joining Tables for Home Matches
+
+Lesson 2: Exploring INNER JOIN with Messi's Match Data
+Exploring Matches and Events Relationships with SQL INNER JOIN
+
+Filtering and Ordering Matches Data with SQL INNER JOIN
+
+Debugging SQL Query to Fetch Specific Matches
+
+Filtering Matches by Match date
+
+Unveiling the Matches and Events with INNER JOIN
+
+Lesson 3: Understanding Advanced SQL Joins with Messi's Match Data
+Exploring Left Joins with Leo Messi's Matches Data
+
+Exploring RIGHT JOIN in SQL
+
+Correcting the RIGHT JOIN Query
+
+Linking Players and Teams with LEFT JOIN
+
+SQL Query Using LEFT JOIN to Match Players with Their Teams
+
+Lesson 4: SQL FULL JOIN Mastery with Messi's Matches
+Exploring Matches and Match Events
+
+Simulating FULL JOIN
+
+Full Roster Exploration with SQL Full Join
+
+Emulating FULL JOIN in PostgreSQL
+
+Full Join in Soccer Data

@@ -1,0 +1,54 @@
+Lesson 1: Mastering the COUNT Function
+Counting Rows in SQL
+
+Counting Rows in Matches Table
+
+Fix the SQL Query
+
+Counting Rows in a Table
+
+Counting Unique Competitions
+
+Lesson 2: Utilizing DISTINCT for Uniqueness Exploration
+Extracting Season IDs Query
+
+Finding Unique Season IDs
+
+Fix the Unique Season Query
+
+Unique Match Venues Retrieval
+
+Unique Season Identification Task
+
+Lesson 3: Mastering the SUM Function for Aggregate Calculations
+Summing Events by Clubs
+
+Summing Events by Season
+
+Fix the Aggregate Function Query
+
+Summarize Events by Club
+
+Mastering SQL Aggregate Functions
+
+Lesson 4: Analyzing Trends with GROUP BY
+Exploring Seasonal Team Performance
+
+Analyzing Seasonal Team Performance
+
+Analyze Team Performance by Seasons
+
+Analyzing Team Match Performance
+
+Counting Events by Match Date for Specific Years
+
+Lesson 5: Applying SQL Aggregate Functions to Soccer Data
+Fix SQL Aggregation Query
+
+Fix the Aggregate Query
+
+Calculate Average Trophies Won Per Season
+
+Calculate Total Trophies Won
+
+Aggregate Seasonal Trophies
