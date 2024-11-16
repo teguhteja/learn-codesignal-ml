@@ -1,0 +1,23 @@
+Lesson 1: Exploring Arrays in Go: Storage, Access, and Characteristics
+Array Basics in Go: Tracking Study Hours
+Modify the Study Tracker to Reflect Fifth Day Hours
+Accessing Elements in an Array
+Study Schedule Tracker in Go
+Study Schedule Tracker Debugging
+Lesson 2: Understanding Multidimensional Arrays in Go
+Unveiling the Sweet Surprise
+Switching Perspectives: Access the Bottom Right Chocolate Flavor
+Add a Print Statement for the Top-Right Chocolate
+Assorted Sweets Display in a Go Array
+Lesson 3: Creating and Manipulating Slices in Go: A Beginner's Guide
+Manage a Restaurant Menu with Go Slices
+Update the Menu: Remove a Dish Using Slices in Go
+Add a New Dish to the Restaurant Menu Slice
+Updated Restaurant Menu Display
+Manage the Restaurant Menu with Go Slices
+Lesson 4: Navigating the World of Go Maps: A Guide for Beginners
+Update Classroom Map Records in Go
+Classroom Capacity Correction
+Update Emma's Grade in the Classroom Map
+Update and Retrieve Student Grades in Classroom Map
+Creating a Classroom Management and Grading System in Go

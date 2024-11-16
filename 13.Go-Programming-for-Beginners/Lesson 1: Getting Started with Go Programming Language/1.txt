@@ -1,0 +1,50 @@
+Getting Started with Go Programming Language
+This course provides an introduction and basic understanding of the Go programming language. Participants will consolidate their understanding of key Go Syntax, scripting, and problem-solving functionalities.
+Lessons and practices
+Lesson 1: Getting Started with Go: Syntax and Your First Program
+Running Your First Go Program
+Embarking on Your Go Odyssey
+Debugging Go Syntax Errors
+Welcome Aboard: Your First Go Program
+Lesson 2: Understanding Variables and Constants in Go
+Exploring Go: Variables and Constants of Our Planet
+Defining and Using Constants in Go
+Navigating Go Variables: Earth's Orbit and Solar System Count Debugging Challenge
+Defining Constants in Go: The Speed of a Cheetah
+Understanding Variables and Constants in Go
+Discovering a New Planet: Update the Variable
+Lesson 3: Understanding Basic Data Types in Go
+Go Data Types in Action: System Performance Evaluation
+Fuel Tank Precision Update
+System Report Generator Debugging
+Data Center Resource Calculation in Go
+Lesson 4: Understanding Go Comparison Operators: A Dive into Conditional Logic
+Determining the Need for Refueling on Our Space Journey
+Assessing Submarine Safety: Critical Depth Check
+Submarine Speed Comparison
+Add Comparison Operators to the Spaceship Program
+Voyage Calculations: Charting Distances to Venus and Neptune in Go
+Lesson 5: Mastering Arithmetic and Logical Operations in Go
+Election Vote Counting and Validation in Go
+Exploring Integer Overflow in Go
+Pre-Launch Logical Check Correction
+Galactic Arithmetic and Logic in Go
+Galactic Fuel Management Calculation
+Lesson 6: Understanding Data Type Conversion in Go
+Temperature Conversion in Go: Celsius to Fahrenheit
+Go Data Type Conversion Challenge: Rounding Planetary Distances
+Convert Temperature Reading to String for Logging in Go
+Galactic Data Type Conversion Challenge
+Add Asteroid Size Conversion to String in Go
+Lesson 7: Navigating Go's Conditional Cosmos: Steering Through if-else and Beyond
+Exoplanet Habitat Classification Challenge
+Diagnosing the Weather Station's Temperature Logic
+Weather Report: Programming Conditional Statements in Go
+Satellite Orbit Adjustment Decision Based on Fuel Level
+Add Orbit Classification to the Cosmic Body Identifier
+Lesson 8: String Manipulation in Go: Mastering Concatenation Operations
+Exploring String Formatting in Go
+String Building with Go's Builder
+Text Formatting with String Concatenation in Go
+Formatting Strings with fmt.Printf in Go
+Add Score Display with Custom Message Using String Formatting in Go

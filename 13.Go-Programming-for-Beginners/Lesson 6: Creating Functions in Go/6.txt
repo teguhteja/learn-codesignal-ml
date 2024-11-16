@@ -1,0 +1,25 @@
+Lesson 1: Exploring Functions in Go
+Calculating the Total Meal Cost in Go
+Refactoring Sales Tax Calculation in Go Functions
+Go Function for Food Orders
+Cosmic Diner Order Calculator in Go
+Lesson 2: Calling Functions and Managing Multiple Return Values in Go
+Commencing Apollo 11 Mission in Go
+Repairing the Spacecraft's Planet Scanner Code
+Cosmic Payload Inspection in Go
+Cosmic Greeting in Go
+Spacecraft Pre-Launch Oxygen Check
+Add Temperature Check for Spacecraft Launch Readiness
+Lesson 3: Navigating Go's Built-in Functions and Packages
+Sorting Planetary Distances
+Adjust Telescopic Data Rounding Method
+Calculate the Absolute Distance to a Star in Light-Years
+Navigating the Galaxy with Go's Built-in Functions
+Counting Celestial Bodies in Go
+Lesson 4: Embracing Variadic Functions in Go
+Surveying the Stars with Variadic Functions in Go
+Navigating the Stars with a New Commander
+Mission Announcement Code Check
+Greet the Moons of the Solar System
+Add Launch Checklist Functionality in Go
+Exploring Planets with Variadic Functions in Go

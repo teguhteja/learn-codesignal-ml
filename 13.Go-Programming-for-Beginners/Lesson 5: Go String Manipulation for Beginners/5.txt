@@ -1,0 +1,30 @@
+Lesson 1: Mastering Go's Printf for Effective String Formatting
+Formatting Output in Go: Scientific Experiment Record
+Formatting Scientific Observations with Printf
+Print Lab Experiment Details in Go
+Lesson 2: Mastering String Operations in Go
+String Concatenation in Go: Creating a Book Catalog Entry
+Comparing Book Titles in Go
+Exploring String Comparison in Go
+Add Book Length Calculation to Library Catalog System
+Standardize Book Titles in the Library Catalog
+Trimming Book Titles in the Library Catalog
+Lesson 3: Special Character Sequences in Go
+Exploring Special Characters in Go Strings
+Escaping Characters in Strings
+Formatting Text with Special Characters in Go
+Manipulating Strings with Escape Sequences in Go
+Formatting Document Sections in Go
+Lesson 4: Mastering String Search and Replace in Go
+Promoting Go in Online Chats
+Moderating Chat Messages in Go
+Formatting Chat Messages in Go
+Formatting Chat Messages in Go
+Censoring Forbidden Words in Go
+Replace the First Word
+Add Last Word Replacement Logic to Chat Moderator Program
+Lesson 5: Splitting and Joining Strings in Go
+String Transformation of a Shakespearean Quote in Go
+Dramatize Shakespeare with String Manipulation in Go
+String Shortening Challenge in Go
+Manipulating Strings with Split and Join in Go

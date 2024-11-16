@@ -1,0 +1,25 @@
+Lesson 1: Crafting Custom Data Types: An Introduction to Structs in Go
+Create a Library Book Struct in Go
+Enhancing Struct Initialization with Field Names
+Add a Struct for a Book in Go
+Displaying Books in a Digital Library
+Modeling a Library Using Structs in Go
+Lesson 2: Understanding Methods in Go: Extending Data Types with Functionality
+Automobile Expo Display: Showcasing Struct Methods in Go
+Enhance the Automobile Accelerate Method
+Add Drive Method Implementation to Car Struct in Go
+Write a Go Program for Car Struct with a Display Method
+Lesson 3: Understanding Interfaces in Go: How to Define and Implement Them
+Interface Implementation in Go: Athlete Training Sessions
+Add Interface Training Method to Athlete Struct in Go
+Implementing Athletic Coaching Interface in Go
+Add Training Methods for Athletes
+Lesson 4: Composing Code in Go: A Beginner's Guide to Structs and Interfaces
+Exploring Composition with Schools and Students in Go
+Modify Student Struct Field in Go
+Add Department Affiliation to Teacher Struct in Go
+Compose School and Student Structures in Go
+Lesson 5: Understanding Polymorphism in Go: From Theory to Practice
+Polymorphic Zoo: Animal Expressions in Go
+Add Behaviors to Zoo Simulator Animals in Go
+Add the Elephant Struct to the Zoo Simulator

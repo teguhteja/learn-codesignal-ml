@@ -1,0 +1,29 @@
+Lesson 1: Understanding Go Error Messages
+Debugging the Ingredient Counter
+Correcting a Type Mismatch Error in Go
+Debugging Pancake Recipe Costs in Go
+Galactic Kitchen Debugging Challenge
+Cosmic Pie Ingredient Debugging Challenge
+Lesson 2: Mastering Go Syntax Errors
+Syntax Sleuth in Go
+Syntax Error Hunt in Go
+Syntax Restoration for Galactic Communications
+Fixing the Message to the Universe in Go
+Debugging the Message to the Universe in Go
+Lesson 3: Navigating Logical Errors in Go
+Fix the Factorial Function
+Fix the Latte Order Logic
+Correcting Coffee Confusion at Go Galactic Cafe
+Coffee Order Calculus Correction
+Beverage Volume Calculator Logic Fix
+Lesson 4: Mastering Runtime Error Handling in Go
+Safe Division in Go Without Panicking
+Debug the Division Checker Function
+Preventing Division by Zero in Go
+Add Array Index Safety Check
+Handling Nil Pointer in Go
+Lesson 5: Mastering Error Handling in Go
+Space Expedition: Managing Fuel Allocation Error
+Handling File Not Found Error in Go
+Safe Space Journey: Implement Division Error Handling
+Handling Key Absence in Go Maps: Earth to Mars Mass Ratio Calculation
