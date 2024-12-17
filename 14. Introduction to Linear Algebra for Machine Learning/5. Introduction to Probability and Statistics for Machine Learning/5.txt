@@ -1,0 +1,33 @@
+Introduction to Probability and Statistics for Machine Learning
+Probability and statistics form the foundation for understanding data and making informed decisions in machine learning. This course will focus on key concepts and techniques that hold significant importance in the realm of deep learning.
+Lessons and practices
+Lesson 1: Probability Basics
+Probability of Rolling a 2 on a Die
+Probability of Rolling 6 on Two Dice
+Calculating Probability of Rolling a 6 or 5 on a Dice
+Rolling a 6 on One Die and Not a 6 on the Other Die
+Calculate Probability of Even or Divisible by Six Rolls
+Conditional Probability of Drawing a Heart Given an Ace
+Lesson 2: Descriptive Statistics
+Calculate Average Monthly Temperature and Standard Deviation
+Calculating Mean and Standard Deviation for Monthly Sales Data
+Calculate the Median of Salaries
+Increase the Standard Deviation of a Dataset
+Analyzing Drug Effectiveness with Descriptive Statistics
+Comparing Mean Temperatures of Two Cities
+Lesson 3: Probability Distributions
+Adjust and Plot PDFs with Different Standard Deviations
+Adjusting Mean Values and Plotting PDF
+Generate and Visualize Uniform Distribution Sample
+Plotting PDF and CDF of Exponential Distribution
+Plotting and Analyzing the CDF of a Normal Distribution
+Plotting the CDF of Uniform Distribution for Sunlight Hours
+Lesson 4: Hypothesis Testing
+Hypothesis Testing for Exam Scores
+Perform a One-Sample T-Test on Daily Water Intake
+Two Sample T-Test for Teaching Methods
+Lesson 5: Linear Regression Analysis
+Best-Fit Line for House Prices
+Predict Saucer Sightings for Future Months
+Best-Fit Line for Temperature and Ice Cream Sales
+Predict House Prices Using Linear Regression

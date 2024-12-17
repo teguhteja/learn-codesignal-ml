@@ -1,0 +1,41 @@
+Mathematical Foundations for Deep Learning
+Unlock the power of machine learning with our expertly crafted courses in Linear Algebra, Calculus, Optimization Algorithms, and Probability & Statistics. Gain hands-on experience with essential mathematical tools and techniques, making complex models intuitive and optimization more effective.
+Go to path
+
+Introduction to Linear Algebra for Machine Learning
+Linear algebra is the backbone of deep learning. This course provides a fundamental understanding of vectors, matrices, and their operations, which are essential for building and optimizing complex machine learning models.
+Lesson 1: Basics of Vectors and Matrices
+Lesson 2: Basic Vector Operations
+Lesson 3: Basic Matrix Operations
+Lesson 4: Dot Product and Matrix Multiplication
+Lesson 5: Determinant and Linear Dependency
+
+Introduction to Calculus for Machine Learning
+Calculus is essential for understanding optimization in machine learning. This course introduces you to the fundamental concepts of calculus such as functions, limits, derivatives, and integrals.
+Lesson 1: Understanding Functions
+Lesson 2: Understanding Limits
+Lesson 3: Basic Derivatives
+Lesson 4: Exploring the Derivative as a Function
+Lesson 5: Basic Integrals
+
+Advanced Calculus for Machine Learning
+Advanced calculus concepts are crucial for understanding optimization and gradients in machine learning, particularly in multivariable scenarios. This course builds upon basic calculus to cover multivariable functions, their derivatives, and numerical methods for gradients.
+Lesson 1: Exploring Second Derivative
+Lesson 2: Multivariable Functions
+Lesson 3: Derivatives for Multivariable Functions
+Lesson 4: Understanding Gradient
+
+Foundations of Optimization Algorithms
+Optimization is critical in machine learning to minimize loss functions. This course covers basic to advanced optimization algorithms, equipping you with the techniques needed to fine-tune machine learning models.
+Lesson 1: Newton's Method for Optimization
+Lesson 2: Basic Gradient Descent
+Lesson 3: Gradient Descent with Momentum
+Lesson 4: Adaptive Learning Rate Methods
+
+Introduction to Probability and Statistics for Machine Learning
+Probability and statistics form the foundation for understanding data and making informed decisions in machine learning. This course will focus on key concepts and techniques that hold significant importance in the realm of deep learning.
+Lesson 1: Probability Basics
+Lesson 2: Descriptive Statistics
+Lesson 3: Probability Distributions
+Lesson 4: Hypothesis Testing
+Lesson 5: Linear Regression Analysis

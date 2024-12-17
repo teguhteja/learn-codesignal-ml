@@ -1,0 +1,36 @@
+Introduction to Calculus for Machine Learning
+Calculus is essential for understanding optimization in machine learning. This course introduces you to the fundamental concepts of calculus such as functions, limits, derivatives, and integrals.
+Lessons and practices
+Lesson 1: Understanding Functions
+Evaluate Exponential Function
+Define and Evaluate a Linear Function
+Define and Plot a Cubic Function
+Define and Plot a Sine Function
+Modify Quadratic Function to Vertex at Origin
+Modeling Temperature Change Over a Day
+Plotting Maintenance Cost of a Garden
+Plotting a Complex Mathematical Function
+Lesson 2: Understanding Limits
+Compute Limit of Linear Function
+Limit of Absolute Value Function as x Approaches 0
+Calculating Limits for a Rational Function at an Undefined Point
+Approaching From Both Sides
+Lesson 3: Basic Derivatives
+Approximate Derivative of Cubic Function
+Calculate the Derivative of a Function at Given Points
+Calculate and Compare Derivatives of a Linear Function
+Plot and Calculate Derivative of a Quadratic Function
+Calculate the Derivative of a Decaying Exponential Function
+Calculate Acceleration Using Derivatives
+Lesson 4: Exploring the Derivative as a Function
+Plotting a Constant Function and Its Derivative
+Plotting a Linear Function and Its Derivative
+Plotting a Quadratic Function and Its Derivative
+Plotting a Cubic Function and Its Derivative
+Plot Quadratic Function and Its Derivative to Find Minimum
+Lesson 5: Basic Integrals
+Adjust the Limits of Integration
+Complete the Trapezoidal Rule Integral and Plot the Graph
+Compare Areas Under Two Functions Using Trapezoid Rule
+Car Fuel Consumption Integral Calculation
+Calculate the Integral from Negative Infinity to Infinity

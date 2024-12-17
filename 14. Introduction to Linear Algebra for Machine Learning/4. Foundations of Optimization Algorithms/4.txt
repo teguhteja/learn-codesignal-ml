@@ -1,0 +1,24 @@
+Foundations of Optimization Algorithms
+Optimization is critical in machine learning to minimize loss functions. This course covers basic to advanced optimization algorithms, equipping you with the techniques needed to fine-tune machine learning models.
+Lessons and practices
+Lesson 1: Newton's Method for Optimization
+Optimize the Quadratic Function using Newton's Method
+Minimize and Plot Optimization Path using Newton's Method
+Minimize Function and Plot Optimization Paths from Different Initial Guesses
+Minimize or Maximize?
+Lesson 2: Basic Gradient Descent
+Finding Minimum of a Complex Function Using Gradient Descent
+Changing Starting Points in Gradient Descent
+Experimenting with Learning Rate in Gradient Descent
+Minimize a 3-Variable Function Using Gradient Descent
+Implement Gradient Descent with Tolerance Stopping Criterion
+Lesson 3: Gradient Descent with Momentum
+Applying Momentum in Gradient Descent
+Gradient Descent with Momentum: Minimize and Plot Contour
+Adjust Momentum to Observe Convergence Speed
+Plotting Gradient Descent with Momentum
+Gradient Descent with Momentum from Multiple Initial Points
+Lesson 4: Adaptive Learning Rate Methods
+Implementing Adagrad for Function Optimization
+Optimization Paths using Adagrad from Multiple Initial Points
+Minimize and Plot Paths with Adagrad and Gradient with Momentum

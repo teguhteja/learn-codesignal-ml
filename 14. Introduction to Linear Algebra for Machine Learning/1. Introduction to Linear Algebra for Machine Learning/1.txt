@@ -1,0 +1,30 @@
+Introduction to Linear Algebra for Machine Learning
+Linear algebra is the backbone of deep learning. This course provides a fundamental understanding of vectors, matrices, and their operations, which are essential for building and optimizing complex machine learning models.
+
+Lesson 1: Basics of Vectors and Matrices
+Vectors and Matrices in Python
+Modify the Column Vector
+Fix the Matrix
+Defining the Matrix
+Find the Dimensions of a Matrix
+Creating a 3D Matrix from Two 2x2 Matrices
+Lesson 2: Basic Vector Operations
+Calculate Weekly Total Sales Using Vector Addition
+Predicting Expenses with Inflation and Scalar Multiplication
+Perform Price Adjustments on Product List
+Combine Student Scores Using Vector Addition
+Lesson 3: Basic Matrix Operations
+Total Sales Calculation per Product Using Matrix Addition
+Adjust Monthly Budgets by Percentage Increase
+Calculating Average Daily Temperatures
+Exploring the Transposition
+Lesson 4: Dot Product and Matrix Multiplication
+Calculating Dot Product of Forces in 3D Space
+Change Vectors to Achieve Zero Dot Product
+Check If Matrix Multiplication Is Possible and Compute the Result
+Matrix-Vector Multiplication
+Lesson 5: Determinant and Linear Dependency
+Calculate Determinant and Check for Linear Dependency
+Define a Matrix with Zero Determinant
+Find the Determinant of a 3x3 Matrix
+Solvability Check Using Determinants

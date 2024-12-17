@@ -1,0 +1,25 @@
+Advanced Calculus for Machine Learning
+Advanced calculus concepts are crucial for understanding optimization and gradients in machine learning, particularly in multivariable scenarios. This course builds upon basic calculus to cover multivariable functions, their derivatives, and numerical methods for gradients.
+Lessons and practices
+Lesson 1: Exploring Second Derivative
+Plotting a Function and Its Derivatives
+Plot and Analyze the Derivatives
+Visualizing Second Derivative for a Quadratic Function
+Plotting Sigmoid Function and Its Derivatives
+Lesson 2: Multivariable Functions
+Define and Visualize a Multivariable Function
+Plotting a Multivariable Sine-Cosine Function
+Calculate the Area of a Rectangle Using Multivariable Function
+Calculating Total Revenue with Multivariable Functions
+Define and Plot a 2-Variable Function as a Contour
+Visualize Two Variable Function with Contourf and 3D Plot
+Lesson 3: Derivatives for Multivariable Functions
+Calculating Partial Derivatives for a Given Function
+Computing Partial Derivatives for a 3-Variable Function Using Finite Difference
+Calculating Partial Derivatives in Stock Trading
+Lesson 4: Understanding Gradient
+Plot and Analyze Gradient Vector of a Given Function
+Calculating and Plotting the Negative Gradient
+Visualize and Compute Gradients of a Function at Multiple Points
+Calculating Gradients at Multiple Points Near the Function's Maximum
+Calculating Gradient at the Function's Maximum
