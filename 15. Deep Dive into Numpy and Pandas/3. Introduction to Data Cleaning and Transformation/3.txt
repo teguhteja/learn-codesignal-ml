@@ -1,0 +1,24 @@
+Lesson 1: Deep Dive into Conditional Selection
+Identifying Top Students in Math or History
+Flexing with Logical Operators
+Academic Prospects: Filtering Excellence
+Math Grade Review with Conditional Selection
+Lesson 2: Handling Missing Values
+Filling the Academic Gaps
+Median Touch-Up in Gradebook Data
+Filling in the Blanks: Average Grade Calculation
+Identifying Missing Values in Student Scores Dataset
+Filling the Void: Handling Missing Grades
+Cleaning Up the Data Galaxy
+Lesson 3: Creating New Columns in Pandas
+Inventory Reorder Indicator
+Inventory Calculation Correction
+Adding Stock Order Column to Inventory DataFrame
+Add a Store Location Column to Inventory Data
+Lesson 4: Data Cleaning and Transformation
+Standardizing T-Shirt Sizes in Data Analysis
+Normalize Apparel Sizes in Data Set
+Outlier Detection in Fashion Retail Prices
+Fashion Size Outlier Removal
+Scaling Sizes in Fashion Retail
+Scaling Dress Prices in Fashion Retail Data

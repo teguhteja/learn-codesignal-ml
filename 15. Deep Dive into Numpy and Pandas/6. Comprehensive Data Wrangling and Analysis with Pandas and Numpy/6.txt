@@ -1,0 +1,19 @@
+Lesson 1: Complex Groupby Operations in Pandas
+Passenger Fare Statistics on the Titanic
+Detailed Titanic Statistics by Group
+Analyze Titanic Data with Groupby
+Analyzing Titanic Data with Groupby
+Lesson 2: Data Scaling Techniques
+Standard Scaling for the Age Column
+Apply Min-Max Scaling to 'fare' Column
+Standard Scaling of Titanic 'Fare' Column
+Lesson 3: Comprehensive Preprocessing With Multiple Techniques: Part 1
+Drop Irrelevant Columns from Titanic Dataset
+Dropping Columns and Handling Missing Values
+Encoding Categorical Data
+Preprocess Titanic Data by Handling Missing Values and Scaling
+Lesson 4: Comprehensive Analysis With Multiple Techniques: Part 2
+Groupby Titanic Data by Class
+Analyzing Survival Rates Among Different Age Groups
+Analyzing Titanic's Fare Data
+Complete the Titanic Data Analysis

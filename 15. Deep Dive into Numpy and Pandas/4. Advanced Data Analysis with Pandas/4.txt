@@ -1,0 +1,21 @@
+Lesson 1: Merging Datasets
+Merging Student Data with Outer Join
+Change Merge Join Type
+Merging Student Information and Performance Data
+Merging Student Data with Outer Join
+Lesson 2: Grouping Basics
+Average Sales by Region
+Calculate Total Sales by Region
+Calculate Total Sales by Region
+Counting Sales Entries by Region
+Lesson 3: Data Aggregation
+Analyzing Store Performance Using Data Aggregation
+Change Aggregation Function to Max
+Aggregating Units Sold Per Store
+Aggregate Products by Store
+Lesson 4: Data Correlation
+House Age and Price Correlation
+Correlation of House Features
+Finding Correlations in House Data
+Finding Specific Correlation
+Calculate Correlation Between House Price and Size

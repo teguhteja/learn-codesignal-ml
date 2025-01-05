@@ -1,0 +1,30 @@
+Lesson 1: Loading and Viewing Data in Pandas
+Exploring Grocery Store Data
+Peek at the Inventory's End
+Grocery Store Inventory DataFrame
+Summon the Data: Creating a DataFrame in Pandas
+Complete the Grocery Store DataFrame
+Grocery Store Inventory Management
+Lesson 2: Understanding Your Data
+Student Math Scores Statistical Summary
+Exploring the Median of Student Math Scores
+Calculating Statistics in a DataFrame
+Creating a DataFrame and Summarizing Statistics in Pandas
+Lesson 3: Indexing and Selecting Data in Pandas
+Exploring School Cities in a DataFrame
+Practicing Integer-based Indexing with iloc[]
+Data Retrieval Accuracy in School Records
+Indexing Galactic Academy Data
+Setting the Index in a DataFrame
+Lesson 4: Filtering Data in Pandas
+School Data Filtering: Who's in Sixth Grade?
+Filtering School Records with Pandas
+Schools Data Filter Debugging
+Data Filtering with Multiple Grades
+Navigating the Stars: Sophomore Achievers
+Charting the Schools - Data Filtering in Pandas
+Lesson 5: Basic Data Analysis
+Average Pet Clinic Visits by Species
+Sorting Pandas Data by Type in Reverse Order
+Aggregating and Sorting Pet Care Data
+Counting Critters in Pet Care Data

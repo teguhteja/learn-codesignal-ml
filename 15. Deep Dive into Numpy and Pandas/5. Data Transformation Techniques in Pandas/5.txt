@@ -1,0 +1,20 @@
+Lesson 1: Handling Categorical Data
+Converting 'embarked' to Categorical in Titanic Dataset
+Fix the Titanic Data Transformation
+Handle and Encode Categorical Data
+One-Hot Encode the Embarked Column
+Lesson 2: Working with Dates and Times
+Analyzing Monthly Sales Trends
+Extract Year from Sale Date
+Analyzing Sales Data Over Time
+Analyze Retail Sales Data Using Datetime Operations
+Lesson 3: Sorting and Ranking Data
+Organizing a Library by Publication Year
+Sorting Books in Descending Order
+Ranking Library Books Based on Ratings
+Sorting Library Books by Pages
+Lesson 4: Introduction to Pivot Tables
+Analyzing Toy Prices with Pivot Tables
+Change the Aggregation Function
+Toy Store Sales Pivot Table
+Pivot Table Analysis for Toy Store Data

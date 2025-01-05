@@ -1,0 +1,172 @@
+1
+NumPy Basics
+This course introduces you to the powerful NumPy library, which is the backbone for numerical and scientific computations in Python. You will learn how to create, manipulate, and operate on arrays, understand their key properties, and use array-based operations for efficient computations.
+Lesson 1: Introduction to NumPy and Array Creation Techniques
+Space Fruit Salad Array Count
+Salad Recipe Array Initialization
+Array Creation for a Fruit Salad Recipe
+Creating a NumPy Array for Salad Ingredients
+Lesson 2: Basic Array Operations in NumPy
+Retail Sales Growth Calculation
+Applying Discounts with NumPy
+Calculating Total Revenue in Retail Sales
+Calculating Discounted Prices with NumPy
+Lesson 3: Array Indexing and Slicing in NumPy
+Spectrogram Time Slice Analysis
+Spectrogram Slicing Mission
+Spectrogram Slice Adjustments
+Accessing Elements in 2D NumPy Arrays
+Decoding the Amplitude: Write NumPy Array Operations
+Lesson 4: Array Shape and Reshape
+Reshaping the Puzzle Floor
+Reshape the Game Pieces
+Reshape the Toy Array
+Reshape the Universe of Toys and Games
+Lesson 5: Boolean Indexing and Fancy Indexing in NumPy
+Warm and Selected Days Data Analysis
+Chilly Weather Selector
+Weather Analysis Code Correction
+Exploring Weather Patterns with NumPy
+Lesson 6: Basic Statistical Operations in NumPy
+Class Performance Statistics with NumPy
+Statistical Insight: Finding the Mode
+Exploring Classroom Performance with NumPy
+2
+5 lessons
+25 practices
+Pandas Basics and DataFrame Manipulation
+This course gently introduces you to the world of data manipulation using Pandas, how to load datasets, view their basic characteristics, and perform simple operations. Each code example progressively adds a new skill, aimed at beginners ready to explore data analysis with real-world datasets.
+Lesson 1: Loading and Viewing Data in Pandas
+Exploring Grocery Store Data
+Peek at the Inventory's End
+Grocery Store Inventory DataFrame
+Summon the Data: Creating a DataFrame in Pandas
+Complete the Grocery Store DataFrame
+Grocery Store Inventory Management
+Lesson 2: Understanding Your Data
+Student Math Scores Statistical Summary
+Exploring the Median of Student Math Scores
+Calculating Statistics in a DataFrame
+Creating a DataFrame and Summarizing Statistics in Pandas
+Lesson 3: Indexing and Selecting Data in Pandas
+Exploring School Cities in a DataFrame
+Practicing Integer-based Indexing with iloc[]
+Data Retrieval Accuracy in School Records
+Indexing Galactic Academy Data
+Setting the Index in a DataFrame
+Lesson 4: Filtering Data in Pandas
+School Data Filtering: Who's in Sixth Grade?
+Filtering School Records with Pandas
+Schools Data Filter Debugging
+Data Filtering with Multiple Grades
+Navigating the Stars: Sophomore Achievers
+Charting the Schools - Data Filtering in Pandas
+Lesson 5: Basic Data Analysis
+Average Pet Clinic Visits by Species
+Sorting Pandas Data by Type in Reverse Order
+Aggregating and Sorting Pet Care Data
+Counting Critters in Pet Care Data
+3
+4 lessons
+20 practices
+Introduction to Data Cleaning and Transformation
+Dive deeper into data selection and manipulation, learning how to filter datasets based on specific conditions, clean data by handling missing values, and create new derived features from existing data. Each step builds your skillset, preparing you to tackle more complex data cleaning challenges.
+Lesson 1: Deep Dive into Conditional Selection
+Identifying Top Students in Math or History
+Flexing with Logical Operators
+Academic Prospects: Filtering Excellence
+Math Grade Review with Conditional Selection
+Lesson 2: Handling Missing Values
+Filling the Academic Gaps
+Median Touch-Up in Gradebook Data
+Filling in the Blanks: Average Grade Calculation
+Identifying Missing Values in Student Scores Dataset
+Filling the Void: Handling Missing Grades
+Cleaning Up the Data Galaxy
+Lesson 3: Creating New Columns in Pandas
+Inventory Reorder Indicator
+Inventory Calculation Correction
+Adding Stock Order Column to Inventory DataFrame
+Add a Store Location Column to Inventory Data
+Lesson 4: Data Cleaning and Transformation
+Standardizing T-Shirt Sizes in Data Analysis
+Normalize Apparel Sizes in Data Set
+Outlier Detection in Fashion Retail Prices
+Fashion Size Outlier Removal
+Scaling Sizes in Fashion Retail
+Scaling Dress Prices in Fashion Retail Data
+4
+4 lessons
+17 practices
+Advanced Data Analysis with Pandas
+Elevate your data analysis skills by mastering advanced Pandas functionalities, including multi-level indexing, merging datasets, and performing sophisticated group-by operations. This course helps you unlock the true potential of your data through more intricate analysis techniques.
+Lesson 1: Merging Datasets
+Merging Student Data with Outer Join
+Change Merge Join Type
+Merging Student Information and Performance Data
+Merging Student Data with Outer Join
+Lesson 2: Grouping Basics
+Average Sales by Region
+Calculate Total Sales by Region
+Calculate Total Sales by Region
+Counting Sales Entries by Region
+Lesson 3: Data Aggregation
+Analyzing Store Performance Using Data Aggregation
+Change Aggregation Function to Max
+Aggregating Units Sold Per Store
+Aggregate Products by Store
+Lesson 4: Data Correlation
+House Age and Price Correlation
+Correlation of House Features
+Finding Correlations in House Data
+Finding Specific Correlation
+Calculate Correlation Between House Price and Size
+5
+4 lessons
+16 practices
+Data Transformation Techniques in Pandas
+This course focuses on transforming your data to better suit analysis needs, including handling categorical data, performing date and time manipulations, and applying advanced filtering and sorting techniques. Through hands-on examples, you'll learn to reshape your datasets for optimized analysis.
+Lesson 1: Handling Categorical Data
+Converting 'embarked' to Categorical in Titanic Dataset
+Fix the Titanic Data Transformation
+Handle and Encode Categorical Data
+One-Hot Encode the Embarked Column
+Lesson 2: Working with Dates and Times
+Analyzing Monthly Sales Trends
+Extract Year from Sale Date
+Analyzing Sales Data Over Time
+Analyze Retail Sales Data Using Datetime Operations
+Lesson 3: Sorting and Ranking Data
+Organizing a Library by Publication Year
+Sorting Books in Descending Order
+Ranking Library Books Based on Ratings
+Sorting Library Books by Pages
+Lesson 4: Introduction to Pivot Tables
+Analyzing Toy Prices with Pivot Tables
+Change the Aggregation Function
+Toy Store Sales Pivot Table
+Pivot Table Analysis for Toy Store Data
+6
+4 lessons
+15 practices
+Comprehensive Data Wrangling and Analysis with Pandas and Numpy
+This advanced course synthesizes all previous concepts, focusing on intricate data wrangling, analysis, and transformation techniques using Pandas and Numpy. You'll learn to execute complex groupings, pivot table manipulations, and merging datasets for richer insights. The capstone project solidifies these skills, enabling you to conduct sophisticated data analysis tasks efficiently.
+Lesson 1: Complex Groupby Operations in Pandas
+Passenger Fare Statistics on the Titanic
+Detailed Titanic Statistics by Group
+Analyze Titanic Data with Groupby
+Analyzing Titanic Data with Groupby
+Lesson 2: Data Scaling Techniques
+Standard Scaling for the Age Column
+Apply Min-Max Scaling to 'fare' Column
+Standard Scaling of Titanic 'Fare' Column
+Lesson 3: Comprehensive Preprocessing With Multiple Techniques: Part 1
+Drop Irrelevant Columns from Titanic Dataset
+Dropping Columns and Handling Missing Values
+Encoding Categorical Data
+Preprocess Titanic Data by Handling Missing Values and Scaling
+Lesson 4: Comprehensive Analysis With Multiple Techniques: Part 2
+Groupby Titanic Data by Class
+Analyzing Survival Rates Among Different Age Groups
+Analyzing Titanic's Fare Data
+Complete the Titanic Data Analysis

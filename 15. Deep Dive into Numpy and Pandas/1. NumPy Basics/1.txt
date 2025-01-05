@@ -1,0 +1,30 @@
+Lesson 1: Introduction to NumPy and Array Creation Techniques
+Space Fruit Salad Array Count
+Salad Recipe Array Initialization
+Array Creation for a Fruit Salad Recipe
+Creating a NumPy Array for Salad Ingredients
+Lesson 2: Basic Array Operations in NumPy
+Retail Sales Growth Calculation
+Applying Discounts with NumPy
+Calculating Total Revenue in Retail Sales
+Calculating Discounted Prices with NumPy
+Lesson 3: Array Indexing and Slicing in NumPy
+Spectrogram Time Slice Analysis
+Spectrogram Slicing Mission
+Spectrogram Slice Adjustments
+Accessing Elements in 2D NumPy Arrays
+Decoding the Amplitude: Write NumPy Array Operations
+Lesson 4: Array Shape and Reshape
+Reshaping the Puzzle Floor
+Reshape the Game Pieces
+Reshape the Toy Array
+Reshape the Universe of Toys and Games
+Lesson 5: Boolean Indexing and Fancy Indexing in NumPy
+Warm and Selected Days Data Analysis
+Chilly Weather Selector
+Weather Analysis Code Correction
+Exploring Weather Patterns with NumPy
+Lesson 6: Basic Statistical Operations in NumPy
+Class Performance Statistics with NumPy
+Statistical Insight: Finding the Mode
+Exploring Classroom Performance with NumPy
