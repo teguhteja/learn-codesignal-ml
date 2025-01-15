@@ -1,0 +1,25 @@
+Hierarchical Clustering Deep Dive
+Unpack the complexity of hierarchical clustering, learning to construct and interpret dendrograms for valuable data insights, and apply your knowledge to real-world data.
+Lessons and practices
+Lesson 1: Hierarchical Clustering: An In-Depth Guide with Python Implementation
+Constellation Clustering with Iris Data
+Visualizing Flower Clusters using Agglomerative Clustering
+Manipulating the number of clusters
+Navigating the Stars: Computing Euclidean Distances in Clustering
+Merging Clusters in the Stars
+Lesson 2: Understanding and Implementing Distance Metrics in Hierarchical Clustering
+Clustering Constellations: Observing Distance Metrics in Action
+Exploring Feature Space with Clustering Visualization
+Distance Metric Transformation
+Implementing Distance Measures in Clustering
+Charting the Cosmic Distances
+Lesson 3: Understanding Linkage Criteria in Hierarchical Clustering
+Exploring Star Clusters: The Impact of Different Linkage Methods
+Exploring Cluster Numbers in Hierarchical Clustering
+Exploring Cluster Configurations in Hierarchical Clustering
+Merging Clusters in the Cosmos
+Lesson 4: Understanding Dendrograms with Python in Hierarchical Clustering
+Visualizing City Connections with a Dendrogram
+Exploring New Horizons with the 'Complete' Linkage Method
+Cosmic Hierarchies: Visualizing the Clustered Stars
+Plot the Path: Creating a Dendrogram

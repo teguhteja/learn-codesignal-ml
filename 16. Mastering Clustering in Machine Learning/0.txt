@@ -1,0 +1,28 @@
+Mastering Clustering in Machine Learning
+Explore unsupervised learning in this path focused on Clustering. Start with data preprocessing, learn algorithms like K-means, DBSCAN, and Hierarchical Clustering, and master validation techniques to evaluate model performance from scratch.
+
+Zoom
+1
+4 lessons
+12 practices
+K-means Clustering Decoded
+Unlock the secrets of K-means clustering, the backbone of unsupervised learning. You will group data into clusters, identify cluster centroids, and refine cluster quality.
+See details
+2
+4 lessons
+18 practices
+Hierarchical Clustering Deep Dive
+Unpack the complexity of hierarchical clustering, learning to construct and interpret dendrograms for valuable data insights, and apply your knowledge to real-world data.
+See details
+3
+3 lessons
+13 practices
+Density-Based Clustering Simplified
+Explore the nuanced world of density-based clustering. Learn to navigate through DBSCAN, focusing on connectivity and density functions to identify unique cluster shapes.
+See details
+4
+6 lessons
+22 practices
+Cluster Performance Unveiled
+Explore an in-depth analysis of clustering model validation, delving into techniques that evaluate, refine, and optimize the performance of clustering algorithms. We'll discuss the Silhouette Score, Davis-Bouldin Index, and Cross-Tabulation Analysis, learning how to implement these practices to identify optimal clustering structures.
+See details

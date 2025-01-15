@@ -1,0 +1,19 @@
+Density-Based Clustering Simplified
+Explore the nuanced world of density-based clustering. Learn to navigate through DBSCAN, focusing on connectivity and density functions to identify unique cluster shapes.
+Lessons and practices
+Lesson 1: Understanding DBSCAN: A Guide to Density-Based Clustering in Python
+Clustering the Cosmos with DBSCAN
+Adjusting DBSCAN Epsilon Parameter
+Adding DBSCAN Labels and Expansion Logic
+Visualizing DBSCAN Clusters
+Lesson 2: Exploring DBSCAN Clustering with Python and scikit-learn
+Visualizing Clusters in the Starry Cosmic Dance
+Adjusting DBSCAN Parameters
+Adding DBSCAN Model Initialization and Fitting
+Crafting DBSCAN Clusters and Visualization From Scratch
+Plotting DBSCAN Cluster Results
+Lesson 3: Tuning DBSCAN Parameters
+Visualizing Clusters: Tuning DBSCAN Parameters
+Adjusting DBSCAN Metric Parameter
+Adding a New Metric and Visualizing DBSCAN Clusters
+Crafting Clusters with DBSCAN and Different Metrics

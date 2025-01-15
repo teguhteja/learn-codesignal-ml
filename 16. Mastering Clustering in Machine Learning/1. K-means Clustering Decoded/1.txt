@@ -1,0 +1,19 @@
+K-means Clustering Decoded
+Unlock the secrets of K-means clustering, the backbone of unsupervised learning. You will group data into clusters, identify cluster centroids, and refine cluster quality.
+Lessons and practices
+Lesson 1: Mastering K-means Clustering with Python: From Theory to Practical Implementation
+Spectral Clustering of Stars
+Mystery Glitch in the Iris Galaxy
+Cluster Centroids Initialization
+Lesson 2: Visualizing K-means Clustering on an Iris Dataset with Matplotlib
+Visualizing Iris Clusters with K-means and Matplotlib
+Color Remix in Cluster Visualization
+Painting Clusters in Space
+Lesson 3: Mastering K-means Clustering and the Rand Index with Python
+Visualizing Clusters with K-Means and Rand Index Evaluation
+Adjusting the Number of Clusters in KMeans
+Measuring the Cluster Performance
+Lesson 4: Mastering K-means Clustering: Selection of Clusters and Centroid Initialization
+Visualizing K-means Clustering on an Iris-like Dataset
+Plotting the Cosmos: Add the K-means Visualization
+Charting the Course with K-Means Clustering
