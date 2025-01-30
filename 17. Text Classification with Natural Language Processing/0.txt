@@ -1,0 +1,23 @@
+1
+5 lessons
+25 practices
+Collecting and Preparing Textual Data for Classification
+Learn how to collect and prepare specific textual datasets essential for your text classification project. You'll delve into the practices of gathering and cleaning text data, and explore advanced textual processing techniques.
+See details
+2
+5 lessons
+25 practices
+Feature Engineering for Text Classification
+Dive deeper into the transformation of raw text data into features that machine learning models can understand. Through a practical, hands-on approach, you'll learn everything from tokenization, generating Bag-of-Words and TF-IDF representations, to handling sparse features and applying Dimensionality Reduction techniques.
+See details
+3
+6 lessons
+30 practices
+Introduction to Modeling Techniques for Text Classification
+This course paves the way for your journey in NLP modeling. Delve deep into the world of text classification algorithms starting with Naive Bayes, Support Vector Machines, Decision Trees, and Random Forests. But that's not all! You'll also get familiar with stratified cross-validation, a key tool for handling imbalanced classes in text data.
+See details
+4
+6 lessons
+30 practices
+Advanced Modeling for Text Classification
+Explore advanced text classification techniques, including ensemble methods and deep learning, to enhance model performance using Python and TensorFlow.

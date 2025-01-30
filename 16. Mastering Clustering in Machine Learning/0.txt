@@ -7,22 +7,115 @@ Zoom
 12 practices
 K-means Clustering Decoded
 Unlock the secrets of K-means clustering, the backbone of unsupervised learning. You will group data into clusters, identify cluster centroids, and refine cluster quality.
-See details
+K-means Clustering Decoded
+Unlock the secrets of K-means clustering, the backbone of unsupervised learning. You will group data into clusters, identify cluster centroids, and refine cluster quality.
+Lessons and practices
+Lesson 1: Mastering K-means Clustering with Python: From Theory to Practical Implementation
+Spectral Clustering of Stars
+Mystery Glitch in the Iris Galaxy
+Cluster Centroids Initialization
+Lesson 2: Visualizing K-means Clustering on an Iris Dataset with Matplotlib
+Visualizing Iris Clusters with K-means and Matplotlib
+Color Remix in Cluster Visualization
+Painting Clusters in Space
+Lesson 3: Mastering K-means Clustering and the Rand Index with Python
+Visualizing Clusters with K-Means and Rand Index Evaluation
+Adjusting the Number of Clusters in KMeans
+Measuring the Cluster Performance
+Lesson 4: Mastering K-means Clustering: Selection of Clusters and Centroid Initialization
+Visualizing K-means Clustering on an Iris-like Dataset
+Plotting the Cosmos: Add the K-means Visualization
+Charting the Course with K-Means Clustering
+
 2
 4 lessons
 18 practices
 Hierarchical Clustering Deep Dive
 Unpack the complexity of hierarchical clustering, learning to construct and interpret dendrograms for valuable data insights, and apply your knowledge to real-world data.
-See details
+Hierarchical Clustering Deep Dive
+Unpack the complexity of hierarchical clustering, learning to construct and interpret dendrograms for valuable data insights, and apply your knowledge to real-world data.
+Lessons and practices
+Lesson 1: Hierarchical Clustering: An In-Depth Guide with Python Implementation
+Constellation Clustering with Iris Data
+Visualizing Flower Clusters using Agglomerative Clustering
+Manipulating the number of clusters
+Navigating the Stars: Computing Euclidean Distances in Clustering
+Merging Clusters in the Stars
+Lesson 2: Understanding and Implementing Distance Metrics in Hierarchical Clustering
+Clustering Constellations: Observing Distance Metrics in Action
+Exploring Feature Space with Clustering Visualization
+Distance Metric Transformation
+Implementing Distance Measures in Clustering
+Charting the Cosmic Distances
+Lesson 3: Understanding Linkage Criteria in Hierarchical Clustering
+Exploring Star Clusters: The Impact of Different Linkage Methods
+Exploring Cluster Numbers in Hierarchical Clustering
+Exploring Cluster Configurations in Hierarchical Clustering
+Merging Clusters in the Cosmos
+Lesson 4: Understanding Dendrograms with Python in Hierarchical Clustering
+Visualizing City Connections with a Dendrogram
+Exploring New Horizons with the 'Complete' Linkage Method
+Cosmic Hierarchies: Visualizing the Clustered Stars
+Plot the Path: Creating a Dendrogram
+
 3
 3 lessons
 13 practices
 Density-Based Clustering Simplified
 Explore the nuanced world of density-based clustering. Learn to navigate through DBSCAN, focusing on connectivity and density functions to identify unique cluster shapes.
-See details
+Density-Based Clustering Simplified
+Explore the nuanced world of density-based clustering. Learn to navigate through DBSCAN, focusing on connectivity and density functions to identify unique cluster shapes.
+Lessons and practices
+Lesson 1: Understanding DBSCAN: A Guide to Density-Based Clustering in Python
+Clustering the Cosmos with DBSCAN
+Adjusting DBSCAN Epsilon Parameter
+Adding DBSCAN Labels and Expansion Logic
+Visualizing DBSCAN Clusters
+Lesson 2: Exploring DBSCAN Clustering with Python and scikit-learn
+Visualizing Clusters in the Starry Cosmic Dance
+Adjusting DBSCAN Parameters
+Adding DBSCAN Model Initialization and Fitting
+Crafting DBSCAN Clusters and Visualization From Scratch
+Plotting DBSCAN Cluster Results
+Lesson 3: Tuning DBSCAN Parameters
+Visualizing Clusters: Tuning DBSCAN Parameters
+Adjusting DBSCAN Metric Parameter
+Adding a New Metric and Visualizing DBSCAN Clusters
+Crafting Clusters with DBSCAN and Different Metrics
+
 4
 6 lessons
 22 practices
 Cluster Performance Unveiled
 Explore an in-depth analysis of clustering model validation, delving into techniques that evaluate, refine, and optimize the performance of clustering algorithms. We'll discuss the Silhouette Score, Davis-Bouldin Index, and Cross-Tabulation Analysis, learning how to implement these practices to identify optimal clustering structures.
-See details
+Cluster Performance Unveiled
+Explore an in-depth analysis of clustering model validation, delving into techniques that evaluate, refine, and optimize the performance of clustering algorithms. We'll discuss the Silhouette Score, Davis-Bouldin Index, and Cross-Tabulation Analysis, learning how to implement these practices to identify optimal clustering structures.
+Lessons and practices
+Lesson 1: Mastering Cluster Validation with Silhouette Scores and Visualization in Python
+Visualizing Clusters and Calculating Silhouette Score
+Crafting the Distance Function
+Calculating the Average Silhouette Score
+Silhouette Score: Write the Code from Scratch
+Lesson 2: Mastering the Davies-Bouldin Index for Clustering Model Validation
+Stellar Squadron Organization: Calculating the Davies-Bouldin Index
+Crafting the Cluster Tightness Function
+Calculating the Davies-Bouldin Index for Cluster Analysis
+Calculating Cluster Tightness for Davies-Bouldin Index
+Lesson 3: Cross-Tabulation Analysis in Clustering: A Python Approach
+Exploring Cluster Assignments with Cross-Tabulation
+Cross-Tabulation Power Unleashed
+Implementing Cross-Tabulation Analysis with Pandas
+Lesson 4: Evaluating K-Means Clustering Performance with Python Metrics
+Evaluating Clustering Performance on Iris Dataset
+Adjusting Cluster Count in KMeans Clustering
+Calculating and Evaluating the Davies-Bouldin Index
+Cluster Validation Odyssey: From K-means to Metrics
+Lesson 5: Assessing Hierarchical Clustering Models with Scikit-learn Metrics
+Evaluating Hierarchical Clustering with Silhouette and Davies-Bouldin Scores
+Exploring Cluster Quantities in Hierarchical Clustering
+Calculating Clustering Effectiveness
+Crafting Clusters and Validating Performance
+Lesson 6: Evaluating Cluster Analysis in Python: Using DBSCAN and Validity Indices
+Unveiling Star Clusters with DBSCAN
+Adjusting DBSCAN Parameters
+Gauging the Cluster Vastness

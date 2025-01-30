@@ -1,0 +1,27 @@
+Feature Engineering for Text Classification
+Dive deeper into the transformation of raw text data into features that machine learning models can understand. Through a practical, hands-on approach, you'll learn everything from tokenization, generating Bag-of-Words and TF-IDF representations, to handling sparse features and applying Dimensionality Reduction techniques.
+Lessons and practices
+Lesson 1: Tokenization: The Gateway to Text Classification
+Filter Punctuation from Tokenized Review
+Filtering Word Tokens from a Sentence
+Completing Code for Data Loading and Tokenizing
+Tokenizing and Filtering a Movie Review
+Tokenizing First Review and Printing Tokens
+Lesson 2: Implementing Bag-of-Words Representation
+Customizing Bag-of-Words Representation
+Applying CountVectorizer on Sentences
+Bag-of-Words Transformation on IMDB Reviews Dataset
+Creating Bag-of-Words Representation Yourself
+Turn Rich Text into Bag-of-Words Representation
+Lesson 3: Implementing TF-IDF for Feature Engineering in Text Classification
+Change TF-IDF Vector for Different Sentence
+Implementing TF-IDF Vectorizer on Provided Text
+Understanding Sparse Matrix Components
+Applying TF-IDF Vectorizer On Reviews Dataset
+Implementing TF-IDF Vectorizer from Scratch
+Lesson 4: Efficient Text Data Representation with Sparse Matrices
+Switching from CSC to CSR Representation
+Creating a Coordinate Format Matrix with Duplicates
+Performing Vectorized Operations on Sparse Matrices
+Creating CSR Matrix from Larger Array
+Performing Subtraction Operation on Sparse Matrix

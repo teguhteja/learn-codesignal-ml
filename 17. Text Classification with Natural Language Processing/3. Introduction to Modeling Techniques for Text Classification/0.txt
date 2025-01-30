@@ -1,0 +1,39 @@
+Introduction to Modeling Techniques for Text Classification
+This course paves the way for your journey in NLP modeling. Delve deep into the world of text classification algorithms starting with Naive Bayes, Support Vector Machines, Decision Trees, and Random Forests. But that's not all! You'll also get familiar with stratified cross-validation, a key tool for handling imbalanced classes in text data.
+Lessons and practices
+Lesson 1: Preprocessing Text Data: Train-Test Split and Stratified Cross-Validation
+Implement Stratified Cross-Validation in Train-Test Split
+Analyzing Spam and Ham Distribution in Train-Test Split
+Exploring the Spam Dataset
+Stratified Train-Test Split for Text Data
+Stratified Train-Test Split and Class Distribution Analysis
+Lesson 2: Mastering Text Classification with Naive Bayes in Python
+Tuning Alpha Parameter in Naive Bayes Model
+Fill in the Blanks: Building Naive Bayes Model
+Fill in the Blanks: Predicting Using Naive Bayes Model
+Visualize Naive Bayes Model Predictions
+Evaluate Naive Bayes Model with Confusion Matrix
+Lesson 3: Mastering Support Vector Machines for Effective Text Classification
+Switching SVM Kernel to Polynomial
+Building and Training a Linear SVM Classifier
+Predicting and Evaluating with SVM Model
+Training and Predicting with SVM Model
+Complete SVM Text Classification Model from Scratch
+Lesson 4: Decision Trees in NLP: Mastering Text Classification
+Adjust Max Depth of Decision Tree Classifier
+Implementing Decision Tree Classifier
+Generate the Classification Report
+Implementing and Visualizing Decision Tree Classifier
+Building and Evaluating a Decision Tree Model
+Lesson 5: Mastering Random Forest for Text Classification
+Adjusting Parameters of RandomForest Classifier
+Fill the Blanks in the RandomForestClassifier Script
+Insert Code to Evaluate RandomForest Classifier
+Creating and Training RandomForest Classifier
+Train and Evaluate RandomForest Classifier
+Lesson 6: Mastering Logistic Regression for Text Classification
+Adjusting Regularization in Logistic Regression Model
+Initialize and Train Logistic Regression Model
+Prediction and Evaluation of Logistic Regression Model
+Improving Logistic Regression Model with Regularization
+Implementing Logistic Regression on Text Data

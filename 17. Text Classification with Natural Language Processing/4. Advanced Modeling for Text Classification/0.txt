@@ -1,0 +1,39 @@
+Advanced Modeling for Text Classification
+Explore advanced text classification techniques, including ensemble methods and deep learning, to enhance model performance using Python and TensorFlow.
+Lessons and practices
+Lesson 1: Ensemble Methods in NLP: Mastering Bagging for Text Classification
+Exploring the Last Documents and Categories
+Finding Documents with Specific Category Count
+Implement Bagging Classifier and Evaluate Model Performance
+Bagging Classifier with Different Parameters Evaluation
+Text Classification Using Bagging Classifier
+Lesson 2: Ensemble Methods in NLP: Mastering the Voting Classifier
+Switch to Soft Voting in Classifier Ensemble
+Implementing and Training a Voting Classifier
+Incorporating Soft Voting in Ensemble Classifier Model
+Creating the Voting Classifier Model
+Building a Soft Voting Classifier from Scratch
+Lesson 3: Boosting Text Classification Power with Gradient Boosting Classifier
+Tuning Learning Rate for Gradient Boosting Classifier
+Implementing and Training a Gradient Boosting Classifier
+Setting Learning Rate and Making Predictions with GradientBoostingClassifier
+Building a Gradient Boosting Classifier Model
+Implementation of Gradient Boosting Classifier
+Lesson 4: Text Preprocessing for Deep Learning with TensorFlow
+Adjusting Tokenizer Parameters
+Tokenizer Text Processing Practice
+Filling the Gaps in Text Preprocessing Code
+Initiating the Tokenizer Process
+Tokenizing Text Data with TensorFlow
+Lesson 5: Understanding and Building Neural Networks for Text Classification
+Improve Neural Network Performance with Additional Layer
+Inserting the Missing Model Layer
+Preparing the Tokenizer, Data, and Model
+Extend the Neural Network Model
+Creating and Training a Neural Network Model
+Lesson 6: Mastering Text Classification with Simple RNNs in TensorFlow
+Changing Activation Function in Dense Layer
+Configuring SimpleRNN and Dense Layers in Model
+Fill in the blanks: Building a Simple RNN with TensorFlow
+Adding Layers to the RNN Model
+Implement Simple RNN for Text Classification

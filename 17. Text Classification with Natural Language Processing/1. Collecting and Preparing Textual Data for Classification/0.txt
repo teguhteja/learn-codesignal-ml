@@ -1,0 +1,33 @@
+Collecting and Preparing Textual Data for Classification
+Learn how to collect and prepare specific textual datasets essential for your text classification project. You'll delve into the practices of gathering and cleaning text data, and explore advanced textual processing techniques.
+Lessons and practices
+Lesson 1: Introduction to Textual Data Collection in NLP
+Explore More of the 20 Newsgroups Dataset
+Uncover the End of 20 Newsgroups Dataset
+Fetch Specific Categories from Dataset
+Fetching the Third Article from Dataset
+Exploring Text Length in Newsgroups Dataset
+Lesson 2: Mastering Text Cleaning for NLP: Techniques and Applications
+Update String and Clean Text
+Filling in Python Functions and Regex Patterns
+Mastering Text Cleaning with Python Regex
+Implement Text Cleaning on Dataset
+Mastering Text Cleaning with Python Regex on a Dataset
+Lesson 3: Removing Stop Words and Stemming in Text Preprocessing
+Switch from LancasterStemmer to PorterStemmer
+Removing Stop Words and Punctuation from Text
+Stemming Words with PorterStemmer
+Implementing Stopword Removal and Stemming Function
+Cleaning and Processing the First Newsgroup Article
+Lesson 4: Unleashing the Power of n-grams in Text Classification
+Generating Bigrams and Trigrams with NLP
+Generating Bigrams and Trigrams from Text Data
+Generating Bigrams and Trigrams from Two Texts
+Creating Bigrams from Preprocessed Text Data
+Unigrams and Bigrams from Clean 20 Newsgroups Dataset
+Lesson 5: Understanding Named Entity Recognition in NLP
+Changing the Sentence for Named Entity Recognition
+Implementing Tokenization and POS Tagging
+Applying Named Entity Recognition to a Sentence
+Implementing a Named Entity Extraction Function
+Applying NER and POS Tagging to Dataset
