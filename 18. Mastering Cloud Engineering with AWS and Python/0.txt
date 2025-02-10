@@ -1,0 +1,29 @@
+4 lessons
+13 practices
+Introduction to AWS SDK for Python
+Tailored for professionals versed in AWS and Python, this course delves into the practicalities of Boto3, the AWS SDK for Python. Explore Boto3's capabilities through hands-on exercises designed to teach you how to automate AWS services effectively and interestingly.
+See details
+2
+5 lessons
+22 practices
+Mastering Amazon S3 with AWS SDK for Python
+In this course, we focus on Amazon S3, an essential service for storing and retrieving data in the AWS cloud. Students will learn how to create and manage S3 buckets, handle S3 objects, and utilize advanced features of S3 with Python and Boto3. Prior experience with AWS SDK (Python) or familiarity with cloud computing is expected for optimal comprehension.
+See details
+3
+6 lessons
+28 practices
+Introduction to DynamoDB with AWS SDK for Python
+Designed for beginners to NoSQL, this course introduces DynamoDB and its integration with Python through Boto3. Students will learn to set up DynamoDB, manage tables, and perform CRUD operations, gaining practical skills in cloud database management.
+See details
+4
+5 lessons
+23 practices
+Mastering Messaging with AWS SDK for Python
+This course is structured to introduce AWS messaging services separately for clear understanding and practical application. Starting with the basics of SQS and SNS, the course progresses through creating, configuring, and effectively using these services with Python and Boto3.
+See details
+5
+5 lessons
+25 practices
+AWS Secrets Management with AWS SDK for Python
+In this course, students will delve into the practical aspects of AWS KMS, Secrets Manager, and SSM Parameter Store, learning effective ways to manage application secrets. By the end of the course, students will have hands-on experience with these AWS services, and will be capable of integrating their features using Python and Boto3.
+See details

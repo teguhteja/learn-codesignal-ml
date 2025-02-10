@@ -1,0 +1,30 @@
+Mastering Amazon S3 with AWS SDK for Python
+In this course, we focus on Amazon S3, an essential service for storing and retrieving data in the AWS cloud. Students will learn how to create and manage S3 buckets, handle S3 objects, and utilize advanced features of S3 with Python and Boto3. Prior experience with AWS SDK (Python) or familiarity with cloud computing is expected for optimal comprehension.
+Lessons and practices
+Lesson 1: Mastering Amazon S3: Creating Sessions and Clients with Boto3
+Creating AWS Session and Initializing Amazon S3
+Working with AWS Sessions and Amazon S3
+Creating an AWS Session and S3 Resource and Client
+Lesson 2: Mastering S3 Bucket Management with AWS SDK for Python
+Managing Cloud Storage with Boto3 in Python
+Relocate Galactic Data Bucket to Optimize Network
+Add Intergalactic Data Archive Buckets Using Boto3
+Add Galactic Data Archive Bucket Creation and Deletion in S3
+Space Bucket Manager: Create, List, and Delete S3 Buckets with Boto3
+Lesson 3: Managing AWS S3 Objects: Upload, Download, and Delete with Python and Boto3
+Simulate S3 Photo Management Operations with Boto3
+Uploading files to AWS S3 with Boto3
+Digital Gallery Download: Retrieving Images from AWS S3
+Exploring CodeSignal Learn Course Logos in S3 with Boto3
+Clearing S3 Buckets: A Clean Sweep with Boto3
+Implementing Full-Cycle S3 Bucket Management
+Lesson 4: Mastering Multi-Part Uploads in Amazon S3 with Boto3 and Python
+Multipart Upload of Different Sized Chunks to Amazon S3
+Multipart Upload Mastery - Segmenting the Cosmos
+Multipart Upload of a Large Dataset to Amazon S3
+Lesson 5: Mastering File Versioning and Management in Amazon S3 with Boto3
+Version Control with AWS S3 in Python
+Enabling S3 Bucket Versioning
+Implementing File Version Control in AWS S3
+Preserving Logo Versions in AWS S3 Bucket
+Exciting Journey with Versioning in S3

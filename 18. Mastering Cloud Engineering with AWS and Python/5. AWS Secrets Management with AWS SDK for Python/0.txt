@@ -1,0 +1,33 @@
+AWS Secrets Management with AWS SDK for Python
+In this course, students will delve into the practical aspects of AWS KMS, Secrets Manager, and SSM Parameter Store, learning effective ways to manage application secrets. By the end of the course, students will have hands-on experience with these AWS services, and will be capable of integrating their features using Python and Boto3.
+Lessons and practices
+Lesson 1: Securing AWS Resources: An Introduction to AWS Secrets Manager, SSM, and KMS
+Initializing AWS Secret Management Services
+Creating AWS Clients with Custom Session
+Initializing AWS Services Clients
+Lesson 2: Mastering AWS Secrets Manager with Boto3: Creating, Retrieving, and Rotating Secrets
+Working with AWS Secrets Manager
+Creating a Secret in AWS Secrets Manager Secret
+Rotating AWS Secrets with Boto3
+Deleting a Secret
+Mastering AWS Secrets Manager: Write it all!
+Lesson 3: Advanced Secrets Management in AWS with Python SDK
+All Advanced Secrets Manager Operations
+Enhancing Password Complexity for AWS Secrets
+Updating Secrets with Auto-Generated Passwords
+Tagging Secrets with Creator Information
+Retrieving Different Versions of a Secret
+Restoring a Deleted Secret
+Lesson 4: Managing Secrets and Configurations with AWS SSM Parameter Store
+Running AWS SSM Parameter Store Operations
+Creating and Fetching AWS SSM Parameters
+Modifying and Verifying SSM Parameter Values
+Managing Parameters with AWS SSM Overwrite Feature
+Deleting Single and Multiple Parameters in AWS
+Mastering AWS SSM Parameter Store Operations
+Lesson 5: Managing Encryption Keys with AWS KMS and Boto3
+Creating a Customer Master Key in AWS KMS
+Generating a Data Key with KMS
+Describing a Customer Master Key Metadata
+Enabling Rotation for AWS KMS Keys
+Mastering Key Management in AWS KMS

@@ -1,0 +1,31 @@
+Mastering Messaging with AWS SDK for Python
+This course is structured to introduce AWS messaging services separately for clear understanding and practical application. Starting with the basics of SQS and SNS, the course progresses through creating, configuring, and effectively using these services with Python and Boto3.
+Lessons and practices
+Lesson 1: Mastering AWS Messaging Fundamentals with Boto3
+Creating AWS Resources with Placeholders and LocalStack
+Changing AWS Region in a Session
+Setting Up AWS Session and Services with Boto3
+Mastering AWS Sessions, SQS, and SNS
+Lesson 2: Creating and Configuring SQS Queues with Boto3
+Creating a Simple SQS Queue
+Configuring SQS Queue Attributes
+Fixing FIFO Queue Creation
+Creating SQS queues with custom attributes
+Mastering Queue Creation with Amazon SQS
+Lesson 3: Mastering SQS Operations: Sending, Receiving, and Deleting Messages
+Running and Understanding SQS Operations
+Modifying Message Attributes in SQS
+Receiving And Deleting The Messages
+Adding Multiple Messages to SQS FIFO Queue
+Reading and Deleting Messages from an SQS FIFO Queue
+Lesson 4: Creating and Configuring AWS SNS Topics with Python and Boto3
+Running SNS Topic Creation Scripts
+Setting Display Name for AWS SNS Topics
+Listing Topics in SNS with Pagination
+Creating and Setting SNS Topic Using Python Boto3
+Lesson 5: Mastering AWS Messaging: Sending and Receiving Messages with SNS and SQS
+Creating SNS Topic and SQS Queue
+Subscribing SQS to an SNS Topic
+Publishing and Receiving Messages with SNS and SQS
+Subscribing Multiple SQS Queues to a Single SNS Topic
+Heartbeat Monitoring with SQS and SNS

@@ -1,0 +1,37 @@
+Introduction to DynamoDB with AWS SDK for Python
+Designed for beginners to NoSQL, this course introduces DynamoDB and its integration with Python through Boto3. Students will learn to set up DynamoDB, manage tables, and perform CRUD operations, gaining practical skills in cloud database management.
+Lessons and practices
+Lesson 1: Setting Up Your DynamoDB Environment with Boto3 in Python
+Initiating DynamoDB with Boto3 in Python
+Switch to Default DynamoDB Session
+Integrating Default DynamoDB Session with Boto3
+Working with DynamoDB Sessions in Boto3
+Lesson 2: Creating and Configuring DynamoDB Tables with AWS SDK for Python
+Creating a DynamoDB Table with Boto3
+Switching DynamoDB Billing Modes
+Fixing DynamoDB Table Creation Script
+Expanding DynamoDB Table Structure
+Managing DynamoDB Tables with Python
+Lesson 3: Creating Data in DynamoDB: Inserting Items with PutItem and BatchWriteItem Operations
+Running DynamoDB Operations in Python
+Modifying Data in a DynamoDB Table
+Adding a New Record to DynamoDB Table
+Batch Writing Items into a DynamoDB Table
+Mastering AWS DynamoDB with Python
+Lesson 4: Mastering Data Retrieval in DynamoDB: GetItem and BatchGetItem
+Running Scripts and Manipulating DynamoDB Tables
+Ensuring Strong Consistency in DynamoDB Read Operations
+Mastering Single Item Retrieval
+Retrieving Multiple Items in DynamoDB
+Mastering DynamoDB Operations in Python
+Lesson 5: Manipulating Data in DynamoDB: Update and Delete Operations
+Running Full DynamoDB Operations Sequence
+Multi-Attribute Update with DynamoDB
+Mastering Deletion Operations in DynamoDB
+Manipulating DynamoDB with Boto3 in Python
+Lesson 6: Retrieving Multiple Objects Efficiently in DynamoDB
+Exploring Query and Scan Operations in DynamoDB
+Refining DynamoDB Queries for Specific Data
+Filtering DynamoDB Scan Results
+Writing Query Commands in DynamoDB
+Scanning DynamoDB with Filtered Expressions

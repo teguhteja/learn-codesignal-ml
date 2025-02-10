@@ -1,0 +1,20 @@
+Introduction to AWS SDK for Python
+Tailored for professionals versed in AWS and Python, this course delves into the practicalities of Boto3, the AWS SDK for Python. Explore Boto3's capabilities through hands-on exercises designed to teach you how to automate AWS services effectively and interestingly.
+Lessons and practices
+Lesson 1: Boto3 Essentials: Managing AWS Resources with Python
+Exploring AWS Services with Boto3
+Understanding Boto3 Sessions
+Secure AWS Session Initialization in Python
+Initializing AWS EC2 Resources with Boto3 in Python
+Lesson 2: Introduction to Boto3 Client Configurations
+Configuring Boto3 for Automatic Retries and Custom Endpoints
+Add Custom Retry Strategy to Boto3 S3 Client
+Add Custom Endpoint to Boto3 S3 Client
+Lesson 3: Navigating Boto3 Exceptions: Mastering Error Handling in AWS Operations
+Running AWS S3 Operations with Boto3 Exception Handling
+Handling Boto3 Client Exceptions
+Handling Internal Boto3 Exceptions
+Lesson 4: Managing Logs with AWS SDK for Python
+Running AWS Debug Logging and S3 Operations
+Elevating AWS Python Logging to DEBUG Level
+Adding Debug Level Logging to AWS Operations
