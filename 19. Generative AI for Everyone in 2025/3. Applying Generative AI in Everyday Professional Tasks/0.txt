@@ -1,0 +1,19 @@
+Applying Generative AI in Everyday Professional Tasks
+Discover how to leverage generative AI to enhance your daily professional tasks, from content creation and writing to information summarization and streamlining routine activities. This course provides practical techniques for integrating AI assistance into your workflow to boost efficiency and productivity.
+Lessons and practices
+Lesson 1: AI for Writing and Content Creation
+Writing Assistant: Effective or Not?
+From Blank Page to First Draft: Beat Writer’s Block
+Choosing Effective AI-Generated Headlines to Overcome Writer's Block
+Lesson 2: Summarizing and Analyzing Information with AI
+Spot the Missing Information: Evaluating AI Summaries
+Summary Showdown: Spot the Better Prompt
+From Data Dump to Digestible Summary
+Lesson 3: Streamlining Daily Tasks with AI Assistance
+Efficiency Audit: Smart or Sloppy?
+From Meeting Chaos to Clear Actions
+Decision Time: Should You Automate with GenAI?
+Lesson 4: Enhancing Professional Communication with AI
+From Generic to Compelling: Craft a Client Proposal
+Spot the Proposal Flaws: AI-Generated Financial Claims
+Persuasive Prompting: Crafting Tailored AI Messages for Impactful Presentations

@@ -1,0 +1,20 @@
+Generative AI in 2025 - Overview and Practice
+Discover the impact of generative AI in 2025 through an exploration of its workings, real-world applications, future trends, and limitations. This course demystifies generative AI and equips you with insights to navigate an AI-driven future.
+Lessons and practices
+Lesson 1: Demystifying Generative AI
+Spotting Generative AI: Real-World Applications
+Myth-Busting: How Does Generative AI Really Learn?
+Generative AI at Work: Boosting Creativity and Efficiency
+Lesson 2: Interacting with Generative AI
+Mastering Prompt Design: Effective vs. Ineffective Examples
+AI Appropriateness: Navigating Ethics and Limits
+Boundary Check: AI’s Real-Time Limits
+Lesson 3: Enhancing AI Outputs
+Quality Check: Evaluating AI Outputs
+Flaw Detective: Spotting Errors and Biases
+Prompt Refinement: From Good to Great Outputs
+Lesson 4: The Future and Challenges of Generative AI
+Trend Matcher: Aligning Future AI Trends with Examples
+AI Blueprint: Designing Tomorrow’s Projects
+Risk Radar: Mapping Ethical and Practical Dangers
+Sharing Generative AI Concepts

@@ -1,0 +1,23 @@
+Generative AI - The Next Frontier: Voice, Video, and More
+Explore the expanding frontier of generative AI beyond text and images into voice and video content. This course introduces you to AI-driven voice and video generation, multimodal applications, and prepares you for future trends in AI content creation.
+Lessons and practices
+Lesson 1: Voice Generation Basics
+AI Voice Tool or Not?
+TTS Tool Matchup: Selecting the Right AI Voice Engine for Each Scenario
+Ethical Voice Use: Appropriate or Not?
+Lesson 2: Creating Voice Content with AI
+Script Doctor: Fix the Instructions
+Master Voice Parameters: Match Real-World Scenarios
+Crafting an Effective AI Voice Prompt
+Lesson 3: Introduction to AI Video Generation
+Prompt Check: Effective vs. Vague Video Instructions
+Collaboration Fix: Human vs. AI Video Editing
+Prompt Refinement: Enhancing AI-Generated Videos
+Lesson 4: Multimodal AI Applications
+Project Check: Effective Multimodal Use?
+Matching Multimodal Projects with AI Tools
+Decision Point: Should You Fully Automate Content with Multimodal AI?
+Lesson 5: Looking Ahead: The Future of Generative AI
+Future Impact Match-Up
+Future Applications: Envisioning AI in Your Life
+Exploring Your Vision of Generative AI's Future

@@ -1,0 +1,18 @@
+Lessons and practices
+Lesson 1: Understanding Large Language Models (LLMs)
+Tool Match-Up: Choosing the Right LLM
+Myth-Busting: How LLMs Really Work
+LLM Capabilities: What Can They Enhance?
+Lesson 2: Crafting Effective Prompts
+Prompt Check: Effective or Not?
+Prompt Makeover: From Vague to Specific
+Prompt Crafting: From Goals to Effective Instructions
+Lesson 3: Enhancing AI Conversations
+Context Check: Spot the Lost Thread
+Dialogue Repair: Keeping Conversations on Track
+Brainstorming Boost: Iterate for Better Ideas
+Lesson 4: Optimizing Interactions and Ethical Practices
+Off-Target Alert: Diagnose AI Missteps
+Prompt Tune-Up: Fixing Unhelpful Responses
+Ethical Edge Cases: Choose the Responsible Path
+Assisting a Colleague: Mastering Communication with AI Language Models

@@ -1,0 +1,19 @@
+Making Things Shine - Practice and Learn Image Generation with AI
+Learn to create stunning images from text prompts using AI tools like DALL-E and Midjourney. This course guides you through the process of AI image generation, including crafting effective descriptions, refining outputs, and applying AI-generated images in practical contexts like presentations and social media.
+Lessons and practices
+Lesson 1: Introduction to AI Image Generators
+AI Image Generator or Not?
+Prompt Check: Effective vs. Vague Descriptions
+Ethical Image Use: Appropriate or Not?
+Lesson 2: Creating Visual Content with Text Prompts
+Spot the Missing Element
+Match the Style to the Prompt
+Upgrade the Prompt!
+Lesson 3: Enhancing and Refining AI-Generated Images
+Identify the Appropriate Editing Technique
+Pick the Right Parameter: Fine-Tuning AI Images
+Refining Your Image: Applying Specific Prompt Adjustments
+Lesson 4: Practical Applications of AI Image Generation
+Align AI-Generated Visuals to Real-World Use Cases
+Prompt Crafting: Designing an AI-Generated Image for Marketing
+Creative Conversation: Exploring AI Image Generation with a Colleague
