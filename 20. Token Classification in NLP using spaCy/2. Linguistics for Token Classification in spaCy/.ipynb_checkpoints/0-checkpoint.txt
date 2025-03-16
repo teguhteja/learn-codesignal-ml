@@ -1,0 +1,26 @@
+Lesson 1: Exploring Syntactic Dependencies and Token Shapes in NLP
+Filtering Syntactic Dependencies and Token Shapes
+Filtering Specific Syntactic Dependencies and Token Shapes
+Creating Sentence with Unique Dependency and Shape
+Syntactic Dependencies and Token Shapes Filtering
+Filtering Syntactic Dependencies and Numerically Initiated Token Shapes
+Lesson 2: Understanding Semantic Similarity in NLP with spaCy
+Semantic Similarity with Custom Sentences
+Semantic Similarity Between Two Specific Sentences
+Semantic Similarity Between Unrelated Sentences
+Finding the Most Dissimilar Sentences
+Lesson 3: Recognizing Language Morphology for Advanced Token Classification in NLP Using spaCy
+Extracting Specific Morphological Features for Verbs
+Extract Number Feature from Noun Tokens
+Create a Sentence with Specific Morphological Features
+Discovering Feature-Rich Sentence in Text Analysis
+Lesson 4: Unveiling the Essentials of Entity Recognition with spaCy
+Filtering Out Organization Entities
+Identifying Specific Entities in Custom Text
+Extracting 'ORG' and 'GPE' Entities with Spacy
+Unique Geopolitical Entities in Reuters Dataset
+Lesson 5: Expanding the spaCy NLP Pipeline with Custom Components
+Modify Phonetic Key Function in spaCy
+Implement Verb Count Pipeline Component
+Creating a Vowel Detection Custom Extension in spaCy
+Implement Same POS Counting Pipeline Component

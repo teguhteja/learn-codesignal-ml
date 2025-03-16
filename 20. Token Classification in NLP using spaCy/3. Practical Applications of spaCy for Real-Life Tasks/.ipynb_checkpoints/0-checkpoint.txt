@@ -1,0 +1,13 @@
+Lesson 1: Text Classification for Spam Detection Using spaCy
+Spam Detection: Modify Test Texts
+Enhance Training Data for Model
+Add Extra Category to Classifier
+Build a Spam Classifier Pipeline
+Lesson 2: Named Entity Recognition in User Reviews Using spaCy
+Filter Reviews Discussing Prices
+Sorting Reviews by Dates
+Identifying Locations and Averaging Scores
+Lesson 3: Information Extraction from Legal Documents Using spaCy
+Extract Key Entities from Text
+Filter Entities With spaCy
+Entity Recognition and Counting

@@ -1,0 +1,30 @@
+Lesson 1: Exploring Natural Language Processing Foundations with the Reuters Corpus
+Counting Unique Categories in Reuters Dataset
+Explore 'Tea' Category in Reuters Corpus
+Fetch Text and Categories for 'Coffee' in Reuters Corpus
+Exploring the 'Gas' Category in Reuters Corpus
+Exploring Reuters Corpus by Category
+Lesson 2: Installing and Getting Started with spaCy for NLP
+Changing the String for Tokenization
+Tokenize Sentences with Missing Code
+Tokenizing First Reuters Document with spaCy
+Calculating Unique Tokens in Document
+Tokenizing Multiple Reuters Documents with spaCy
+Lesson 3: Mastering Advanced Tokenization Techniques in NLP with spaCy
+Filter Non-Alphabetic Stopword Tokens
+Identifying Out-of-Vocabulary and Digital Tokens
+Counting Stop Word Tokens
+Identifying Token Capitalization in Text
+Filtering Tokens Using a Simple Pipeline
+Lesson 4: Lemmatization Nuances in Natural Language Processing with spaCy
+Change the Sentence for Lemmatization
+Lemmatizing Reuters Dataset with spaCy
+Lemmatization on Reuters Dataset with spaCy
+Integrating Lemmatization into Text Processing Pipeline
+Lemmatization with spaCy on the Reuters Dataset
+Lesson 5: Understanding and Implementing POS Tagging with spaCy
+Refining Output Format of POS Tagging
+POS tagging on a Real-world Text Document
+Analyzing Verb Usage in Reuters News
+Frequency Analysis on Adjectives Using POS Tagging
+Exploring Word Usages with POS Tagging
