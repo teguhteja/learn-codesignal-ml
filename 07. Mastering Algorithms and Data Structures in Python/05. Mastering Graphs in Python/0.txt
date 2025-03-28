@@ -1,0 +1,24 @@
+Lesson 1: Building and Analyzing Graphs with the Adjacency Matrix
+Exploring Social Network Connections with an Adjacency Matrix
+Change the Social Network Connections
+Debugging the Friend Suggestions Algorithm
+Adding Overlapping Teams Relationships Using an Adjacency Matrix
+Lesson 2: Building and Analyzing Graphs with the Adjacency List
+Building and Manipulating a Social Network with Adjacency Lists
+Adding a New Band Collaboration to the Graph
+Fixing the Bus Route Map
+Adding a New Route to the Tour Map
+Lesson 3: Understanding and Implementing Depth-First Search (DFS) for Graphs
+Exploring States with Depth-First Search
+Adjusting the Start Node for DFS Traversal
+Debug and Correct the DFS Traversal
+Implementing DFS Traversal for University Courses
+Lesson 4: Discovering Connected Components in a Graph Using Depth-First Search
+Undirected Graph Cycle Counting Algorithm Creation
+Lesson 5: Unveiling the Breadth-First Search Algorithm for Graph Traversal
+Breadth-First Search in Action: Organizing a Space Party
+Changing the Starting Point of BFS Traversal
+Debugging BFS Traversal Algorithm
+Implementing BFS Traversal from a Specific Start Node
+Lesson 6: Finding the Shortest Path in Graphs with BFS Algorithm
+Interstellar Shortest Path Finding in a Connected Graph

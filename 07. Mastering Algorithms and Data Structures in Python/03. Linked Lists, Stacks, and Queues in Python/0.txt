@@ -1,0 +1,29 @@
+Lessons and practices
+Lesson 1: Mastering Stacks: Concepts, Implementation, and Problem-Solving in Python
+Implementing Undo and Redo feature in a Text Editor using Stacks
+Enhancing User Experience with More Informative Messages
+Debugging Stack Operations in a Library System
+Adding the "Peek" Operation in Stack Implementation
+Lesson 2: Operating Stacks in Python: Practical Problem-Solving Approach
+Balancing the Wild Brackets in a String
+Rotational String Manipulation Using Stack Data Structure
+"Reverse Order Postfix Expression Evaluation"
+Lesson 3: Mastering Stack Applications: Interview Problems Solved Efficiently
+Predicting Cooler Days Using Temperature Data Analysis
+Designing an Advanced Stack with Maximum Element Functionality
+Lesson 4: Understanding and Implementing Queues: Exploring Core Concepts, Python Implementation, and Time Complexity
+Implementing and Using a Queue Data Structure in Python
+Adding More Issues to the Queue
+Unjamming the Task Queue
+Adding Additional Orders to Catering Queue
+Lesson 5: Applying Queue Operations: Tackling Interview Questions in Python
+Shuffling Elements in a Deque by nth Position
+Space Journey Sensor Readings: Calculating Moving Average in Python
+Lesson 6: Mastering Linked Lists: Understanding, Implementing, and Manipulating in Python
+Exploring Circular Linked Lists in Python
+Altering the Flow of a Doubly Linked List
+Fixing LinkedList Size Property
+Adding a Node to an Alien Communication Network in Python
+Lesson 7: Unraveling Linked Lists: Mastering Traversal and Length Calculation in Python
+Reversing and Summing Element Values in a Singly Linked List
+Parity Check for Singly Linked List Elements
