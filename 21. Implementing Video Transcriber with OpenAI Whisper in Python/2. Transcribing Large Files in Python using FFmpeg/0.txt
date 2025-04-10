@@ -1,0 +1,13 @@
+Lesson 1: Introduction to FFmpeg
+Retrieving Media Duration is Easy with FFmpeg!
+Adjust ffprobe Implementation
+Extract and Display Duration For All Media Files
+Lesson 2: Splitting and Processing Large Files with FFmpeg
+Observe FFmpeg Power
+Retrieve Media File Chunk Length
+Split and Transcribe Your Media
+Lesson 3: Error Handling and Cleanup in FFmpeg Transcription
+Observe the Large Media Files Transcribing Process
+Improve Transcribing Mechanism for Shorter Media Files
+Implement Error-Resistant Temporary Chunks Cleanup
+Implement a Transcribe Method From Scratch

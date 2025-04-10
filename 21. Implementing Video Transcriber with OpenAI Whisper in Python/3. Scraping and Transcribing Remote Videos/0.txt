@@ -1,0 +1,12 @@
+Lesson 1: Implementing Google Drive Video Downloads Using gdown
+Verify and Extract Google Drive File ID
+Observe the GoogleDrive Downloading Service
+Complete the Google Drive Downloading Service
+Lesson 2: Implementing LinkedIn Video Downloader with yt-dlp
+Extract and Verify LinkedIn Video ID
+Make LinkedIn Downloading work
+Finish LinkedIn Downloader Implementation
+Lesson 3: Generating Video Summaries with OpenAI API
+Practice Chat Completion Endpoint
+Apply Prompt Engineering for Transcription Summary Generation
+Implementing Transcription Summary for the Video

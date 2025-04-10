@@ -1,0 +1,12 @@
+Lesson 1: Configuring Your Development Environment for OpenAI API
+Running your first OpenAI API script
+Integrate your own OpenAI API key
+Integrate OpenAI API and Test It
+Lesson 2: Making Your First Whisper API Request
+Add Missing Code for Whisper API Transcription
+Audio Transcription Enhancement with OpenAI Whisper API
+Transcribing Audio with Whisper API
+Lesson 3: Implementing Error Handling and Retries with Python Decorators
+Enhance Function with Retry Mechanism Using Decorators
+Add Error Handling and Retry Mechanism to Transcription Function
+Implement Robust Transcription with Error Handling and Retry Logic
