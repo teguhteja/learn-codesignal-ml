@@ -1,0 +1,22 @@
+Lesson 1: Setting Up a Basic Chat Interface with FastAPI and HTML
+Render a Chat HTML Template with FastAPI and Jinja2
+Building the Chat Elements
+Enhance Chat with JavaScript
+Adding Enter Key Message Functionality
+Implement Chat Reset Functionality
+Lesson 2: Integrating API Requests for Dynamic Chat Interaction
+Dynamic Chat Interaction in Action
+Initializing Chat Sessions with Fetch API
+Sending Messages to the Backend API
+Lesson 3: Simplifying User Input with Message Suggestions
+Adding Your First Suggestion Button
+Making Suggestion Buttons Interactive
+Modifying Button Prompts for Clarity
+Expanding Your Chat Suggestion Options
+Lesson 4: Styling the Chatbot Interface with CSS
+Linking CSS Styles
+Styling Suggestion Buttons for Better UX
+Styling the Chat Conversation Flow
+Styling Input Area for User Interaction
+Lesson 5: Celebrating Your Learning Journey
+What's Next?

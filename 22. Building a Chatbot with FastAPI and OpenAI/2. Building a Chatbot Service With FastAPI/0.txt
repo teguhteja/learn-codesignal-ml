@@ -1,0 +1,27 @@
+Lesson 1: Developing a Robust System Prompt
+Creating a System Prompt Loader for a Chatbot
+Testing Error Handling for System Prompt Loading
+Updating Contextual Information
+Guiding Chatbot Interactions
+Adding Constraints to Chatbot Responses
+Enhancing Chatbot Requirements
+Lesson 2: Implementing a Chat Manager for Efficient Data Handling
+Implementing ChatManager Methods for Chat Session Management
+Implementing the Get Conversation Method
+Enhancing ChatManager with Message Storage
+Managing and Retrieving Chat Conversations
+Lesson 3: Handling AI Interactions with the Chat Service Layer
+Implementing Chat Session Creation in ChatService
+Implementing Message Processing in Chat Service
+Enhancing AI Response Generation in Chat Service
+Enhancing AI Context Retention in Multi-Turn Conversations
+Managing Multiple Chat Sessions for a User
+Lesson 4: Streamlining User Interaction with Chat Controller
+Ensuring Unique User Sessions
+Creating a New Chat Session with ChatController
+Implementing the Send Message Method in ChatController
+Lesson 5: Building a RESTful API for Your Chatbot Service Using FastAPI
+Creating a Simple RESTful API with FastAPI
+Integrating Session Management in a RESTful API with FastAPI
+Create a Chat Route with FastAPI
+Define a Message Route with FastAPI

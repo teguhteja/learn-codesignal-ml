@@ -1,0 +1,29 @@
+Lesson 1: Sending a Simple Message to OpenAI
+Modifying Your First API Request to Get a Fun Fact
+Switching Models to Improve Reasoning Accuracy
+Fixing a Bug in API Response Handling
+Requesting Multiple AI Responses with the n Parameter
+Completing a Basic OpenAI API Interaction
+Lesson 2: Exploring Model Parameters
+Exploring Default AI Behavior with Basic Parameters
+Controlling Response Length with max_tokens Parameter
+Adding Temperature Parameter to Control AI Creativity
+Exploring High Temperature Settings in AI Response Generation
+Implementing Presence Penalty to Encourage Topic Diversity
+Reducing Repetition with Frequency Penalty Parameter
+Lesson 3: Message Types and Conversation History
+Initializing Conversation History with a User Message
+Passing Conversation History to the AI Assistant
+Building a Conversation History with OpenAI API
+Visualizing Conversation History
+Enhancing the Conversation Management
+Lesson 4: Personalizing AI's Behavior with System Prompts
+Creating Custom AI Personas with System Prompts
+Maintaining AI Persona Across Multiple Interactions
+Fixing the System Prompt Role Bug
+Creating a Custom AI Persona with System Prompts
+Lesson 5: Managing Multiple Chat Sessions with OpenAI
+Creating a Chat Session Management Function
+Implementing a Chat Session Message Handler
+Integrating OpenAI's GPT-4 Model with a Chatbot for Dynamic Responses
+Managing Multiple Chat Sessions
