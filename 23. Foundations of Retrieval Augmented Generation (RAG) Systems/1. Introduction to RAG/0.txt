@@ -1,0 +1,11 @@
+Lesson 1: Foundations: From IR to RAG
+Lesson 2: RAG in Action: A Simple Workflow
+Implementing Simple Document Retrieval
+Fix the Retrieval Bug
+Fix the RAG Generation Bug
+RAG: Retrieving Multiple Relevant Documents
+Building a Simple RAG Pipeline
+Lesson 3: Fighting Hallucinations: RAG's Role in Trustworthy LLMs
+Reveal Document Relevance Scores
+Enhance RAG Retrieval Function
+Handle Missing Data in RAG
