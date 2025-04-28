@@ -1,0 +1,21 @@
+Lesson 1: Chunking Text for Retrieval-Augmented Generation Systems
+Mastering Document Chunking Basics
+Preserve Sentence Boundaries in Chunks
+Enhance Text Chunking Skills
+Organize Chunks with Metadata
+Enhance Text with Keyword Detection
+Lesson 2: Storing and Managing Text Chunks in Vector Databases
+Loading and chunking text
+Building a ChromaDB Collection
+Dynamic Chunk Management in ChromaDB
+Dynamic Document Management in ChromaDB
+Lesson 3: Retrieving and Prompt Building in RAG Systems
+Enhance Your Retrieval Function
+Crafting Context-Rich LLM Prompts
+Metadata-Based Retrieval Enhancement
+Refine Retrieval with Distance Threshold
+Lesson 4: Metadata-Based Filtering in RAG Systems
+Where Clauses
+Crafting Metadata Enhanced Search
+Enhance Metadata Filtering Skills
+Enhance Search with Fallback Mechanism
