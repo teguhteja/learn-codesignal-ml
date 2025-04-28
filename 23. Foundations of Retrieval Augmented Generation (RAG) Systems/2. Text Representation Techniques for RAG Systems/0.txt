@@ -1,0 +1,20 @@
+Lesson 1: Introduction to Text Representation: Bag-of-Words model
+Text Cleaning with Python
+Building a Vocabulary Dictionary
+Transform Text into Numeric Vectors
+Bag-of-Words Vectorization Task
+Lesson 2: Generating and Comparing Sentence Embeddings
+Creating Sentence Embeddings
+Comparing Sentence Embeddings
+Finding the Most Similar Sentences
+Exploring Sentence Similarity Changes
+Ranking Sentences by Similarity
+Lesson 3: Visualizing Sentence Embeddings with t-SNE
+Visualize Sentence Clusters
+Explore t-SNE Perplexity Effects
+Adding a New Category
+Lesson 4: Comparing Bag-of-Words and Embeddings-Based Semantic Search
+Building a Bag of Words
+Enhance Bag-of-Words with Bigrams
+Bag of Words Search Task
+Semantic Search with Embeddings
