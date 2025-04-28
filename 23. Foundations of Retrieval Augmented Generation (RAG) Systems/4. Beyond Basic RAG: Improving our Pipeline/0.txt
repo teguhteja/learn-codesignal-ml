@@ -1,0 +1,19 @@
+Lesson 1: Constrained Generation in Retrieval-Augmented Systems
+Constrained Prompt Completion Challenge
+Mastering the Strict Prompt Strategy
+Citation Prompt Strategy Implementation
+Reimplement Constrained Generation Function
+Smart Context Management
+Lesson 2: Iterative Retrieval for Enhanced RAG Pipelines
+Inverted Distance Similarity Score
+Limit Chunks in Iterative Retrieval
+Enhance Iterative Retrieval Process
+Lesson 3: Handling Overlaps and Summarization in RAG Pipelines
+Detecting Overlapping Text Chunks
+Fix the Summarization Logic
+Crafting the Final Answer
+Lesson 4: Combining Lexical and Embedding-Based Retrieval in RAG Systems
+Enhance Hybrid Retrieval Function
+Fix BM25 Normalization Bug
+Refine Your Retrieval System
+Building a BM25 Index
