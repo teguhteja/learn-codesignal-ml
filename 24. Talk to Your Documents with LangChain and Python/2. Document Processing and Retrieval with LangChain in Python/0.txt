@@ -1,0 +1,22 @@
+Lesson 1 : Loading and Splitting Documents with LangChain
+Loading and Inspecting PDF Documents
+Switching to Text File Loading
+Experiment with Document Splitting Parameters
+Exploring Different Text Splitters
+Loading and Splitting PDF Documents
+Lesson 2 : Generating Document Embeddings with OpenAI
+Creating Document Embeddings with OpenAI
+Experiment with Embedding Parameters
+Fix the Embedding Model Bug
+Exploring Embedding Dimensions
+Lesson 3 : Retrieving Relevant Information with Similarity Search
+Exploring Vector Store Details
+Formulate a Query for the Similarity Search
+Adjusting Document Retrieval Quantity
+Similarity Search with FAISS
+Lesson 4 : Asking Questions with Retrieved Context and Templates
+Creating a Chat Prompt Template
+Combining Document Chunks for Context
+Crafting a Prompt Template with Retrieved Context
+Integrating Chat Model with Context
+Guiding Model Responses with System Message

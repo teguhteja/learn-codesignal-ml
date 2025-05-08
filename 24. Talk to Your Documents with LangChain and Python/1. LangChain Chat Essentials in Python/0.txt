@@ -1,0 +1,25 @@
+Lesson 1: Sending a Message with LangChain
+Crafting Your Own AI Question
+Fixing a Common LangChain Mistake
+Building a Complete LangChain Script
+Switching Providers with LangChain Interface
+Lesson 2: Customizing Model Parameters in LangChain
+Choosing Your AI Brain
+Limiting AI Responses with Max Tokens
+Controlling AI Creativity with Temperature
+Expanding Vocabulary with Nucleus Sampling
+Reducing Repetition with Frequency Penalty
+Encouraging Topic Diversity with Presence Penalty
+Lesson 3: Structuring Messages and Defining a System Prompt
+Exploring the HumanMessage Object Structure
+Exploring SystemMessage in LangChain
+Fixing Message Format for Chat Models
+From Strings to Structured Messages
+Creating AI Personas with System Messages
+Setting Boundaries with System Messages
+Lesson 4: Managing Conversation History with LangChain
+Creating Your First Message List
+Building a Multi-Turn Tour Guide
+Creating Reusable Conversation Functions
+Resetting Conversations with Fresh Starts
+Managing Multiple Independent Conversation Histories
