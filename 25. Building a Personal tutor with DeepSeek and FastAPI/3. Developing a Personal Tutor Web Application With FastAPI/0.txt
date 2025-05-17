@@ -1,0 +1,24 @@
+Lesson  1
+Setting Up the Basic Tutor Interface
+Setting Up FastAPI and Jinja2 for a Tutor Interface
+Creating the Basic HTML Structure for a Personal Tutor Interface
+Implementing Chat Functionality for Personal Tutor Interface
+Implement Enter Key Functionality for Chat Messages
+Implementing Session Reset Functionality
+Lesson  2
+Integrating API Requests for Dynamic Tutor Interaction
+Exploring the Tutor Interface with Fetch API
+Implementing Session Tracking with Fetch API in a Tutor Interface
+Implementing API Communication for Tutor Messages
+Lesson  3
+Simplifying User Input with Query Suggestions
+Adding a Suggestion Button to the Chat Interface
+Implementing Suggestion Button Functionality
+Updating Study Schedule Button to Use a More Conversational Prompt
+Adding Additional Suggestion Buttons to the Tutor Interface
+Lesson  4
+Styling the Personal Tutor Interface with CSS
+Styling Your Personal Tutor Interface
+Styling Suggestion Buttons with Flexbox and CSS
+Styling the Conversation Area for Your Chatbot
+Styling the Chat Input Section with CSS

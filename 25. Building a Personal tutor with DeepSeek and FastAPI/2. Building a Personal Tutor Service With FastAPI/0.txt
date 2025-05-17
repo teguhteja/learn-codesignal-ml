@@ -1,0 +1,32 @@
+Lesson  1 Developing a Robust System Prompt for a Personal Tutor
+Developing a Robust System Prompt for a Personal Tutor
+Loading System Prompts from Files for Chatbot Conversations
+Testing Error Handling for System Prompt Loading
+Updating AI Tutor Support Information in System Prompt
+Adding Guidelines to a Chatbot System Prompt
+Adding Constraints to a System Prompt
+Adding Requirements Section to Chatbot System Prompt
+Lesson  2 Building the Session Manager
+Building the Session Manager
+Implement Session Creation and Retrieval Methods
+Implementing Conversation Retrieval in the Session Manager
+Implementing Message Addition in Session Manager
+Adding Messages and Retrieving Conversations with SessionManager
+Lesson  3 Building the Tutor Service Layer
+Building the Tutor Service Layer
+Implementing Session Creation in the Tutor Service
+Implementing Query Processing for Tutor Service
+Implement AI Response Generation with DeepSeek in TutorService
+Testing Context Retention in AI Tutor Conversations
+Creating Multiple Tutoring Sessions for a Student
+Lesson  4 Streamlining Student Interaction with Tutor Controller
+Streamlining Student Interaction with Tutor Controller
+Implementing Student Session Management in TutorController
+Implementing the Create Session Method in TutorController
+Implementing the send_query Method in TutorController
+Lesson  5 Serving Your Personal Tutor with a RESTful API Using FastAPI
+Serving Your Personal Tutor with a RESTful API Using FastAPI
+Building a Simple FastAPI Welcome API
+Implementing Session Management in FastAPI TutorController
+Implementing a Tutoring Session Creation Route in FastAPI
+Implementing the Send Query API Endpoint for the Tutor Service
