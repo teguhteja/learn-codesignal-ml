@@ -1,0 +1,26 @@
+Unit 1 Transforming Text into Insights: An Introduction to TF-IDF Vectorization in Python
+Running TF-IDF Vectorization
+Debugging TF-IDF Vectorization
+Transforming Messages to TF-IDF vectors
+Implementing Complete TF-IDF Vectorization Pipeline
+
+Unit 2 Navigating the Weights of Words: Analyzing TF-IDF Scores in NLP
+Identifying High-Impact Words with TF-IDF Vectorization
+Unveiling Other Significant Words
+Debugging the TF-IDF Vectorizer
+Discovering Top TF-IDF Terms
+Mastering TF-IDF Feature Extraction
+
+Unit 3 Customizing TF-IDF Vectorization Parameters in NLP
+Customized TF-IDF Vectorization Parameters
+Updating TF-IDF Parameters for Text Vectorization
+Fixing TF-IDF Vectorization Bugs
+Customizing TF-IDF Vectorization Parameters
+Mastering Custom TF-IDF Vectorization
+
+Unit 4 Optimizing TF-IDF Vectorization by Eliminating Stop Words
+Run TF-IDF With Stop Words Removal
+Fixing TF-IDF Vectorization Stop Words
+Customizing Stop Words for TF-IDF Vectorization
+Adding Stop Words Removal to TF-IDF Vectorizer
+Mastering TF-IDF Vectorization

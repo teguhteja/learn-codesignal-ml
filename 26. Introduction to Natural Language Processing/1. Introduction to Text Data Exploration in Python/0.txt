@@ -1,0 +1,22 @@
+Unit 1 Exploring Text Data: Loading and Examining the SMS Spam Collection Dataset
+Exploring Data with Pandas
+Expanding Data Preview with Python
+Spot the Data Loading Bug
+Expanding Your Data Preview Skills
+Mastering the Basics of Dataset Handling
+Unit 2 Exploring Text Data: Unveiling the Details of SMS Spam Collection
+Exploring SMS Spam Dataset Insights
+Fix the Column Reference Error
+Extracting Information and Columns from Dataset
+Unlocking Insights: SMS Spam Data Exploration
+Mastering Pandas with SMS Spam Data
+Unit 3 Detecting Missing Data and Understanding Data Types in NLP
+Exploring Missing Values and Types
+Identify Missing Values in the SMS Spam Collection Dataset
+Understanding Column Data Types
+Mastering Data Inspection Essentials
+Unit 4 Visualizing Text Data: Understanding Class Distribution with Seaborn in NLP
+Visualizing Spam and Ham Distribution
+Visualizing Class Distribution Correctly
+Counting Label to Data Visualization
+Visualizing Spam Message Distribution

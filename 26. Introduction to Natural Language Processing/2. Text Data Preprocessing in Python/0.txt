@@ -1,0 +1,30 @@
+Unit 1 Lowercasing Text for Uniformity in NLP
+Introduction to Lowercase Text Conversion
+Lowercasing Spam Dataset Messages
+Transforming Text to Lowercase for Data Uniformity
+Mastering Text Lowercasing in Python
+
+Unit 2 Punctuating Punctuation: Streamlining Text for NLP
+Removing Text Punctuation Simplified
+Removing Commas from Text
+Debugging Punctuation Removal Exercise
+Crafting Clean Text Data
+
+Unit 3 Tokenizing Text Data in NLP with Python and NLTK
+Efficient Text Preprocessing with NLTK
+Streamlining Text Processing with NLTK
+Implementing Tokenization Basics
+Mastering Tokenization with NLTK
+
+Unit 4 Demystifying Stop Words in Natural Language Processing
+Stop Words Demystified in NLP
+Adapting Stop Words Removal for Spanish
+Debugging Stop Words Removal
+Setting the Stage for Stop Words Removal in Text Data
+Mastering Stop Words Removal
+
+Unit 5 Mastering Stemming in NLP with NLTK
+Putting Stemming into Action
+Debugging Data Preprocessing Steps
+Applying Stemming to Normalize Text
+Mastering Text Preprocessing Techniques

@@ -30,8 +30,8 @@ finish_notebook() {
 
 # Read through the text file line by line
 while IFS= read -r line; do
-    # Check if the line starts with "Lesson", indicating a new file and new markdown cell
-    if [[ $line == Lesson* ]]; then
+    # Check if the line starts with "Unit", indicating a new file and new markdown cell
+    if [[ $line == Unit* ]]; then
         # Finish the previous notebook if any
         finish_notebook
 

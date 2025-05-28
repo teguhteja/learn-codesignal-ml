@@ -1,0 +1,29 @@
+Unit 1 Training a Naive Bayes Classifier for Text Categorization
+Running the Naive Bayes Classifier
+Adjusting Classifier Test Size
+Mastering the Naive Bayes Classifier
+Crafting a Naive Bayes Classifier
+
+Unit 2 Classifying Text with Logistic Regression in Python
+Putting Logistic Regression to Work
+Debugging Logistic Regression Model
+Mastering Text Classification with Logistics Regression
+
+Unit 3 Mastering Cross-Validation for Text Classification in Python
+Running Cross-Validation on Text Data
+Elevating Cross-Validation to 10-Folds
+Fixing Cross-Validation in Naive Bayes
+Implementing Cross-Validation in Python
+Mastering Text Classification with Naive Bayes
+
+Unit 4 Fine-Tuning Text Classification Models with Grid Search in Python
+Optimizing Naive Bayes with Grid Search
+Expanding Alpha Range in Grid Search
+Debugging Grid Search Implementation
+Tuning Naive Bayes with Grid Search
+Mastering Grid Search in Text Classification
+
+Unit 5 Deciphering Model Accuracy with the Confusion Matrix in NLP
+Evaluating Classifier Performance
+Filling in the Confusion Matrix
+Mastering Confusion Matrix Evaluation
