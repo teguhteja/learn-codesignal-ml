@@ -1,0 +1,30 @@
+Unit 1 Logistic Regression Basics
+Diagnosing Diseases with Logistic Regression
+Complete the Logistic Regression Model
+Feature Scaling for Logistic Regression
+Logistic Regression Wine Classification
+
+Unit 2 Decision Tree Classifier Basics
+Adjust Decision Tree Depth
+Train and Predict with Decision Tree Classifier
+Train the Decision Tree Classifier
+Comparing Logistic Regression and Decision Tree Models
+
+Unit 3 K-Nearest Neighbors (KNN) Basics
+KNN Flower Classification with Iris Dataset
+Adjust K Value for KNN Classifier
+Complete the KNN Classifier for Iris Dataset
+Classify Iris Flowers with KNN
+Flower Classification with KNN
+
+Unit 4 Naive Bayes Basics
+Detective Model Accuracy Calculation
+Detective Work: Fix the Clue Classification
+Train Naive Bayes Classifier
+Comparison of Logistic Regression and Naive Bayes
+
+Unit 5 Support Vector Machine (SVM) Basics
+Changing SVM Kernel
+Complete the Wine Classification SVM
+Bringing Out the Power of the RBF Kernel
+Tuning and Comparing Models Performances

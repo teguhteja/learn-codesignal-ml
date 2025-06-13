@@ -1,0 +1,32 @@
+Unit 1 Handling Missing Values
+Impute Missing Values Using Median Strategy
+Fixing Missing Data in House Prices Dataset
+Handle Missing Values in House Prices Dataset
+Handling Missing Values in House Prices Dataset
+Handling Missing Values for House Prices and Features
+
+Unit 2 Encoding Categorical Features
+Encoding Car Brands and Colors
+Encoding Car Brands and Colors
+Changing OneHotEncoder to LabelEncoder
+Encoding Car Brands with OneHotEncoder
+Encode Car Brands and Colors
+
+Unit 3 Feature Scaling
+Scaling Recipe Ingredients
+Standardize Ingredient Quantities
+Feature Scaling for Recipe Measurements
+Recipe Data Scaling
+
+Unit 4 Train-Test Split
+Adjusting Test Set Size
+Debug the Fruit Dataset Split
+Splitting the Fruit Dataset
+Splitting the Iris Dataset
+
+Unit 5 Building Full Preprocessing Pipeline for the Titanic Dataset
+Drop Unwanted Titanic Columns
+Handle Missing Values in Titanic Dataset
+Encode Categorical Features and Concatenate
+Handle Missing Values and Feature Scaling
+Final Titanic Preprocessing Challenge

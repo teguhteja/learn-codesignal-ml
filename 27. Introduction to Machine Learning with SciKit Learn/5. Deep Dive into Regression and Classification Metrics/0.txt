@@ -1,0 +1,23 @@
+Unit 1 Understanding MSE, MAE, RMSE and Their Differences
+Changing RMSE to MAE Calculation
+Calculating House Price Errors
+Compare MSE and MAE effects
+Complete the Linear Regression Code and Calculate MAE
+
+Unit 2 R-squared Metric
+Update Predictions for R-Squared Calculation
+Calculating R-squared for House Prices
+Compare R-sqared to MSE
+
+Unit 3 Classification Metrics
+Confusion Matrix Values in Spam Classification
+Calculate Precision and Recall
+Calculate Accuracy for Email Classification
+Calculate Classification Metrics
+Compute Confusion Matrix and F1-Score
+
+Unit 4 Building and Understanding AUC-ROC
+Calculating TPR and FPR
+Calculate AUC-ROC for Medical Test
+Calculating AUC-ROC for Medical Diagnosis
+ROC Curve Plotting and AUC Calculation

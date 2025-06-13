@@ -1,0 +1,25 @@
+Unit 1 Cross-Validation in Machine Learning
+Using F1 Score for Cross-Validation
+Complete the Cross-Validation Process
+Comparing Models Using Cross-Validation
+Exploring Ensemble Models with Cross-Validation
+
+Unit 2 Grid Search: Finding Optimal Model Parameters
+Perform Grid Search for Model Parameters
+Baking the Perfect Cake with Grid Search: Part 1
+Baking the Perfect Cake with Grid Search: Part 2
+Hypertune Two Models with Grid Search
+Complete the Grid Search Process for Decision Tree Regressor
+
+Unit 3 Random Search in Machine Learning
+Tuning Iterations in Random Search
+Fill in the Random Search for Best Parameters
+Randomized Search for Logistic Regression Parameters
+Tune the DecisionTree Classifier
+Implement Model Competition
+
+Unit 4 Hyperparameter Tuning for Ensembles
+Discover Best Hyperparameters for Wine Classification
+Hyperparameter Tuning for Wine Classification
+Update AdaBoost
+Final Challenge

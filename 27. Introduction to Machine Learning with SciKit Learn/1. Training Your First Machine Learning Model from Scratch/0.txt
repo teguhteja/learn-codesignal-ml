@@ -1,0 +1,30 @@
+Unit 1 Introduction to Machine Learning
+House Area and Price Relationship
+Enhance Data Visualization by Changing Sample Size
+Complete the Data Generation and Visualization
+
+Unit 2 Training a Linear Regression Model
+Training the Linear Regression Model
+Adjust Base Price and Price per Square Foot
+Predicting House Prices with Linear Regression
+Training a Linear Regression Model from Scratch
+Train Your Linear Regression Model
+
+Unit 3 Making Predictions and Visualizing Results
+Predicting and Visualizing House Prices
+Visualize Predicted Prices Using Line Plot
+Predict House Prices
+Debugging House Price Predictions
+Making Predictions from Scratch
+
+Unit 4 Evaluating Your Model's Performance
+Evaluating House Price Predictions
+Removing Noise from Synthetic Data
+Predict House Prices and Calculate MSE
+Calculating and Comparing Mean Squared Error (MSE)
+
+Unit 5 Applying Linear Regression to the Real Dataset
+Predicting California House Prices
+Modifying Feature Selection to Evaluate MSE
+California Housing Model Debugging
+Preparing Data and Making Predictions

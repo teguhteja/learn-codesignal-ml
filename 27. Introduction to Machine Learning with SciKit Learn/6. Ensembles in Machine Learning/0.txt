@@ -1,0 +1,29 @@
+Unit 1 Bagging in Machine Learning
+Adjust the Number of Estimators
+Train and Evaluate Bagging Classifier
+Optimize Bagging Classifier for Wine Classification
+Enhance Your Bagging Classifier
+
+Unit 2 Random Forest in Machine Learning
+Adjusting Random Forest Tree Depth
+Complete the Random Forest Classifier for Wine Dataset
+Improving Random Forest for Wine Classification
+Evaluate Random Forest Accuracy with Varying Depths
+
+Unit 3 Boosting with AdaBoost in Machine Learning
+Change the Weak Classifier in AdaBoost
+Train and Predict with AdaBoost
+AdaBoost vs RandomForest
+
+Unit 4 Gradient Boosting in Machine Learning
+Adjust Gradient Boosting Estimators
+Complete the Gradient Boosting Setup for Digit Classification
+Gradient Boosting vs. AdaBoost on Synthetic Data
+Comparing Models Efficiency
+Gradient Boosting with Varying Estimators
+
+Unit 5 Stacking in Machine Learning
+Change Meta-Model to Gradient Boosting
+Change the Meta-Model in Stacking Classifier
+Complete the Stacking Classifier
+Tune the Stacking Classifier

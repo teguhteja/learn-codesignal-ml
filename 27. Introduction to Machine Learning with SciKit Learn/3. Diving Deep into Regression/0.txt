@@ -1,0 +1,28 @@
+Unit 1 Recall of the Linear Regression Basics
+Print the First 10 Predictions
+Complete the Linear Regression Model
+Predicting Diabetes Health Metrics
+
+Unit 2 Polynomial Regression
+Adjust Polynomial Degree to Enhance Regression
+Polynomial Features for House Sizes
+Predicting House Prices with Polynomial Regression
+Predict House Prices Using Polynomial Regression
+
+Unit 3 Ridge Regression
+Adjust the Regularization Term for Ridge Regression
+Complete the Ridge Regression Model
+Comparing Performance of Linear Regression and Ridge
+Ridge Regression with Diabetes Dataset
+
+Unit 4 Lasso Regression
+Modifying Lasso Regularization Strength
+Lasso Coefficients for House Prices
+Comparing LinearRegression to Lasso
+Predict Health Metrics using Lasso Regression
+
+Unit 5 Elastic Net Regression
+Adjust Elastic Net Regularization
+Adjust Elastic Net's l1_ratio Parameter
+Elastic Net Regression with Diabetes Data
+Complete Elastic Net Initialization and Fitting
