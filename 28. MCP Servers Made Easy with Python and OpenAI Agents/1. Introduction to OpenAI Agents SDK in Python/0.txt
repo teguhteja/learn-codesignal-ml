@@ -1,0 +1,24 @@
+Unit 1 Getting Started with OpenAI Agents SDK
+Customizing Agent Inputs and Retrieving Outputs
+Async Agent Execution in Action
+Debugging Agent Execution
+Streaming Agent Events
+Design Your Own Custom Agent
+Unit 2 Deep Dive into Agent Results and Chaining
+Extracting Input and Final Output
+Exploring Agent Steps and Messages
+Viewing the Full Conversation Context
+Chaining Agents for Creative Workflows
+Tracking the Final Agent Output
+Unit 3 Managing Multi-Turn Agentic Conversations
+Starting a Conversation History
+Updating the Conversation History
+Continuing the Conversation with Your Agent
+Reviewing the Full Conversation History
+Handling Multiple Queries in Conversation
+Unit 4 Extending Agent Capabilities with Built-In and Custom Tools
+Adding a Built-In Tool to Your Agent
+Exploring Agent Reasoning Steps
+Build a Custom Calculation Tool
+Exploring Tool Metadata in Agents
+Combining Tools for Smarter Agents

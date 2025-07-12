@@ -1,0 +1,20 @@
+Unit 1 Efficient Multi-Query Agent Flow With Tool Caching
+Watching Tool Requests in Action
+Speeding Up Agent Conversations
+Refreshing the Agent Tool Cache
+
+Unit 2 Integrating Multiple MCP Servers to an OpenAI Agent
+Switching Agent’s MCP Server
+Integrating Multiple MCP Servers
+Mixing MCP Server Connection Types
+
+Unit 3 Mounting an MCP Server in a FastAPI ASGI Application
+Running a FastAPI App
+Integrating MCP Server with FastAPI
+Fixing Agent Connection Settings
+Customizing Your MCP Server Path
+
+Unit 4 Securing Your MCP Server with API Key Authentication
+Securing MCP Tools with Middleware
+Authenticating Your Agent Connection
+Selective Protection for MCP Tools

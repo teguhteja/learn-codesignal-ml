@@ -1,0 +1,26 @@
+Unit 1 Discovering MCP Servers in Python
+Building a Basic MCP Server
+Customizing MCP Inspector Ports
+Switching Your MCP Server to SSE
+Setting a Custom Port for MCP
+MCP Inspector with SSE
+
+Unit 2 Exploring MCP Primitives: Tools, Resources, and Prompts
+Connecting Your First MCP Client
+Discovering Server Tools in MCP
+Adding and Discovering Server Resources
+Personalized Prompts for User Interaction
+Complete Client Workflow with MCP
+
+Unit 3 Developing a MCP Server for a Shopping List Service
+Creating an MCP Tool for a Service
+Calling Tools and Handling Responses
+Expanding Your Shopping List Server
+Fetching and Filtering Shopping List Items
+Testing All Shopping List Tools
+
+Unit 4 Integrating MCP Servers to an OpenAI Agent
+Connecting Your Agent to MCP Server
+Switching to Remote SSE Integration
+Multi Step Shopping List Challenge
+Chaining Multi Turn Agent Conversations
