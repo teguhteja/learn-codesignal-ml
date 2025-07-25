@@ -1,0 +1,18 @@
+Unit 1 Building the CNN Model for Sketch Recognition
+Adding Dense Layer to the Model
+Building the CNN Foundation
+Completing the CNN Architecture
+Unit 2 Training the CNN Model
+Compiling and Training Your Sketch Recognizer
+Evaluating Model Performance and Generalization
+Saving and Loading Your Sketch Recognizer
+Unit 3 Evaluating the Model and Visualizing the Predictions
+Visualizing Loss and Accuracy Together
+Creating Confusion Matrix for Sketch Recognition
+Finding Most Confused Category Pairs
+Detailed Metrics for Sketch Recognition Performance
+Visualizing Misclassified Sketches in Action
+Unit 4 Improving the Model Performance
+Preventing Overfitting with Dropout and EarlyStopping
+Automatic Training Termination with EarlyStopping
+Enhancing CNN Models with Regularization Techniques

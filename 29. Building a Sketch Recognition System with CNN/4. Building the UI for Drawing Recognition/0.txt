@@ -1,0 +1,14 @@
+Unit 1 Building a Simple Flask App with a Drawing Canvas
+Preparing Flask for Drawing Recognition
+Creating the Drawing Canvas Interface
+Styling Your Drawing App Interface
+Unit 2 Implementing Canvas Functionality using JavaScript
+Implementing Drawing with Mouse Events
+Adding Canvas Clear Functionality
+Capturing Canvas Data for AI Processing
+Unit 3 Integrating the CNN Model with Your Drawing App
+Processing Images for AI Recognition
+Preparing Images for AI Recognition
+Creating Debug Images for AI Visualization
+Preparing Images for Neural Network Analysis
+Making AI Recognize Your Drawings

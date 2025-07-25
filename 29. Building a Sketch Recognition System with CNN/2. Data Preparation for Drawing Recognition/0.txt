@@ -1,0 +1,15 @@
+Unit 1 Loading and Understanding the Dataset
+Expanding Categories for Drawing Recognition
+Inspecting Dataset Structure and Properties
+Visualizing Drawings with Matplotlib
+Analyzing Drawing Dataset Distribution
+Unit 2 Preprocessing the Data
+Loading and Labeling Drawing Data
+Shuffling and Normalizing Drawing Data
+Implementing Data Augmentation for Drawing Recognition
+Unit 3 Implementing Data Augmentation
+Basic Image Augmentation for Drawings
+Enhanced Data Augmentation for Drawings
+Visualizing Multiple Augmentations of One Drawing
+Comparing Fill Modes for Drawing Augmentation
+Saving Augmented Drawings to Disk

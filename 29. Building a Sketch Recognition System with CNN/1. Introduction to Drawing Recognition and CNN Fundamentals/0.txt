@@ -1,0 +1,9 @@
+Unit 1 Understanding the Problem of Drawing Recognition
+Exploring MNIST Dataset Structure
+Visualizing MNIST Digits with Matplotlib
+Analyzing Digit Distribution in MNIST
+Unit 2 CNN Fundamentals
+Building Your First CNN Model
+Training and Evaluating Your CNN Model
+Building Enhanced CNN with Sequential API
+Making Predictions with Your CNN Model
