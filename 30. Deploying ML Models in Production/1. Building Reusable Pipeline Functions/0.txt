@@ -1,0 +1,28 @@
+Unit 1 Building Reusable Data Processing Functions
+Fix the Data Processing Bug
+Loading Diamonds Dataset Correctly
+Identifying Data Columns Efficiently
+Building a Robust Preprocessing Pipeline
+Building a Data Processing Module
+
+Unit 2 Model Training and Prediction Functions in ML Pipelines
+Setting Default Hyperparameters in Models
+Linear Regression Model Training
+Consistent Model Predictions
+Enhance Prediction Function Reliability
+Building a Complete ML Pipeline
+
+Unit 3 Model Evaluation: Completing the Machine Learning Pipeline
+Debugging Model Evaluation Metrics
+Enhance Model Evaluation Function
+Generate Predictions for Model Evaluation
+Model Evaluation with Key Metrics
+Building a Complete ML Pipeline
+
+Unit 4 Model Persistence: Saving and Loading Machine Learning Models
+Enhance Model Metadata Storage
+Enhance Model Loading Resilience
+Enhance Your Model Saving Skills
+Saving Model Metadata to Disk
+Loading Models with Precision
+Model Persistence with Joblib and JSON

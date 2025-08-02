@@ -1,0 +1,22 @@
+Unit 1 Building a Basic FastAPI Application for Diamond Price Prediction
+Setting Up FastAPI Metadata
+Enhance Your FastAPI Root Endpoint
+Enhance Your API Health Check
+Running Your API with Uvicorn
+Enhance API with Asynchronous Endpoints
+Building a FastAPI Application
+
+Unit 2 Integrating Machine Learning Models with FastAPI for Predictions
+Converting Features for Prediction
+Loading and Managing ML Models
+Defining Diamond Data Structure
+Dependency Injection with FastAPI
+Enhance API Response Structure
+Create a Diamond Price Predictor
+
+Unit 3 Testing FastAPI Applications with pytest
+Testing FastAPI with Pytest
+Testing Your API's Welcome Message
+Mocking Models with Pytest Fixtures
+Testing API Resilience with Invalid Inputs
+Testing Predict Endpoint with Valid Inputs

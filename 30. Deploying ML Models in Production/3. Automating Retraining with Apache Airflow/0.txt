@@ -1,0 +1,27 @@
+Unit 1 Introduction to Apache Airflow and DAGs
+Transform a Function into a DAG
+Turn Functions into Airflow Tasks
+Controlling Workflow Timing in Airflow
+Adding a Third Task to Your DAG
+Measuring Your Workflow Output
+Build a Time Formatting Workflow
+Build a Three Step Greeting Workflow
+
+Unit 2 Designing an ML Pipeline with Apache Airflow
+Model Validation Logic in Airflow
+Archiving Models in Your Pipeline
+Adding Rollback to Your ML Pipeline
+Build a Complete ML Pipeline DAG
+
+Unit 3 Testing and Running ML Pipelines with Airflow CLI
+Discover Your Airflow Pipelines
+Inspecting Your ML Pipeline Structure
+Test Your Full ML Pipeline
+See All Tasks in Your Pipeline
+Test an Individual Pipeline Task
+
+Unit 4 Building an Automated ML Retraining Pipeline with Apache Airflow
+Unpacking Data for ML Pipelines
+Ensuring Data Flow in Model Training
+Adding a Model Quality Gate
+Build a Complete ML Retraining Pipeline
