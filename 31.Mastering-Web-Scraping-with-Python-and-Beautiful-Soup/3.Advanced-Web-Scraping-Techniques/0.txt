@@ -1,0 +1,33 @@
+Unit 1
+Handling Pagination in Web Scraping with Python and Beautiful Soup
+Scraping Quotes with Pagination
+Enhance Quote Scraping Script
+Enhance Pagination Handling Script
+Handle Next Button
+Handle Pagination in Web Scraping
+Creating a Pagination Scraper
+
+Unit 2
+Scraping Data Within HTML Tables
+Scraping Quotes and Handling Errors
+Modify the Number of Quotes
+Filter Quotes by Tag
+Fill in the Scraping Blanks
+Extracting Quotes and Tags
+Scraping Quotes and Tags
+
+Unit 3
+Scraping HTML Lists with Beautiful Soup
+Run Web Scraping Code
+Enhance Web Scraping Skills
+Add Book Availability Status
+Complete the Webpage Parsing Task
+Scrape Book Titles Efficiently
+Scrape Book Titles with Robustness
+
+Unit 4
+Extracting and Saving Images from Web Pages
+Downloading the First Image
+Save the Second Image
+Complete the Image Downloader
+Extract and Save Web Images

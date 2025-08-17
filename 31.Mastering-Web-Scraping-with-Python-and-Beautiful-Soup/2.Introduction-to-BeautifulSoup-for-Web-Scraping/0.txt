@@ -1,0 +1,36 @@
+Unit 1
+Mastering HTML Parsing with BeautifulSoup in Python
+Extracting the Main Heading with BeautifulSoup
+Modify the BeautifulSoup Code to Extract a Paragraph Text
+Parse the Travel Agency's Name from HTML Using BeautifulSoup
+
+Unit 2
+Mastering Text Extraction from HTML Elements with BeautifulSoup
+Extracting Adventure Stories from a Travel Blog Web Page
+Adjust the BeautifulSoup Code for Div Element Extraction
+Extracting Paragraph Text with BeautifulSoup
+Scrape Adventure Stories from HTML Content
+Extracting Travel Tales from a Blog with BeautifulSoup
+
+Unit 3
+Navigating HTML Trees with BeautifulSoup
+Exploring a Travel Booking Website with Beautiful Soup
+Navigating Sibling Elements with BeautifulSoup
+Navigating the Travel Booking Website HTML Tree
+Navigating the HTML Tree on a Travel Booking Site
+Navigating HTML Elements with BeautifulSoup
+
+Unit 4
+Mastering CSS Selectors with BeautifulSoup in Python Web Scraping
+List Electronic Products with BeautifulSoup
+Adjust Product Name Extraction in Soup Inventory
+Add the Correct CSS Selector for Product Names in Web Scraping Code
+Inventory Products Extraction Challenge
+Extract Item Names from HTML Using BeautifulSoup and CSS Selectors
+
+Unit 5
+Mastering Attribute Extraction with BeautifulSoup
+Extracting a Link's Href Attribute with BeautifulSoup
+Extract the ID Attribute from an HTML Element Using BeautifulSoup
+Extract Navigation Link Attributes Using BeautifulSoup
+Extracting Hyperlink URL with BeautifulSoup

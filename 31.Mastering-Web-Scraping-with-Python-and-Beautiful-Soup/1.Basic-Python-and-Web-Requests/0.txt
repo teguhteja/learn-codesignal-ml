@@ -1,0 +1,29 @@
+Unit 1
+Exploring Data Retrieval with Python's 'requests' Library
+Fetching and Displaying Website Content with Python Requests
+Switch to Love Quotes
+Fetch Webpage Content Using Python Requests
+Fetching Web Content with Python Requests
+
+Unit 2
+Navigating the Web: Mastering HTTP Status Codes with Python Requests
+Check Online Bookstore Availability Using Web Requests
+Check for Missing Page with HTTP Status Code 404
+Handling HTTP Status Codes in Online Bookstore Check
+Check the Online Bookstore Status
+Add Error Handling to Web Request Scenario
+
+Unit 3
+Exploring HTTP Response Headers with Python's requests Library
+Inspecting Content-Type Header in Python Web Requests
+Inspect and Modify Response Headers in Python
+Inspecting the Content-Type Header in Response
+Inspecting Web Response Headers in Python
+
+Unit 4
+Mastering Data Retrieval: Query Parameters and REST APIs in Python
+Exploring Mars with Python and Wikipedia API
+Switch to Jupiter: Update Space Data Retrieval Code
+Add Query Parameters for Mars Data Retrieval from Wikipedia API
+Navigating the Stars: Retrieving Lunar Data with Python
+

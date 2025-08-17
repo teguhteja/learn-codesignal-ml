@@ -1,0 +1,29 @@
+Unit 1
+Handling Issues During Web Scraping
+Run and Observe Error Handling
+Fix the Scraping Script
+Handling Errors in Web Scraping
+Web Scraping Error Handling
+
+Unit 2
+Advanced Link Navigation and URL Management in Web Scraping
+Navigate and Scrape with Python
+Adding Quote Tags for More Detail
+Navigating Linked Author Pages
+Scrape Books and Author Bios
+Navigate and Scrape Author Details
+
+Unit 3
+Structured Data Extraction and Storage with Python
+Store Scraped Data in CSV
+Adding Author's Description
+Complete the Scraping Code
+Add Extra Data in Scraping
+Scrape and Save Quotes Data
+
+Unit 4
+Scraping Best Practices
+Best Practices of Web Scraper in Action
+Fix the Web Scraper Bugs
+Complete the Web Scraper
+Build an Optimized Web Scraper
