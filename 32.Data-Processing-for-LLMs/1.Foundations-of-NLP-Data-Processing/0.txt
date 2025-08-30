@@ -1,0 +1,22 @@
+Unit 1 Text Cleaning and Normalization in NLP
+Text Cleaning with Regular Expressions
+Text Normalization in Action
+Refine Your Text Cleaning Skills
+Stemming vs Lemmatization Showdown
+
+Unit 2 Bag-of-Words and N-Grams in NLP
+Bag-of-Words Model Implementation
+Enhance Text Analysis with N-Grams
+Text Classification with Bag-of-Words
+
+Unit 3 Introduction to TF-IDF Vectorization in NLP
+Uncover Key Terms with TF-IDF
+Enhance Text Analysis with Bigrams
+Trigram Analysis with TF-IDF
+Comparing BoW and TF-IDF
+
+Unit 4 Introduction to Word Embeddings
+Exploring Word Similarity with GloVe
+Exploring Word Synonyms with Embeddings
+Word Analogy with GloVe
+Visualize Word Embeddings with PCA
