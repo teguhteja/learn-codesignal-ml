@@ -1,0 +1,37 @@
+Unit 1
+4 practices
+16 min
+Introduction to Tokenization (Rule-Based Tokenization)
+Preview
+Tokenize Text with NLTK
+Sentence Tokenization with NLTK
+Extract Monetary Values with Regex
+Tokenization Showdown with NLTK and spaCy
+
+Unit 2
+3 practices
+13 min
+Byte-Pair Encoding (BPE) – Subword Tokenization
+Preview
+Exploring Pre-trained Tokenizers with GPT-2
+Using Pre-trained Tokenizers with RoBERTa
+Comparing Tokenization with GPT-2 and RoBERTa
+
+Unit 3
+4 practices
+16 min
+Comparing BPE, WordPiece, and SentencePiece in NLP
+Preview
+WordPiece Tokenization Challenge
+Tokenization Techniques in Action
+Tokenization Techniques in Action
+Tokenization Techniques for Special Texts
+
+Unit 4
+3 practices
+13 min
+Tokenization and Out-of-Vocabulary (OOV) Handling in NLP
+Preview
+Tokenization Showdown BERT vs GPT2
+Multilingual Tokenization Challenge
+Multilingual Tokenization and OOV Reduction

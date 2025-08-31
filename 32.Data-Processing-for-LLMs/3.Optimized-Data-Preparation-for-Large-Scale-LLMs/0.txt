@@ -1,0 +1,37 @@
+Unit 1
+3 practices
+13 min
+Efficient Data Storage for Large-Scale LLMs
+Preview
+Efficient Streaming of Wikipedia Dataset
+Saving Wikipedia Dataset in JSONL Format
+Saving Wikipedia Data as Parquet
+
+Unit 2
+4 practices
+16 min
+Dataset Deduplication and Redundancy Removal
+Preview
+Removing Exact Duplicates Efficiently
+Creating MinHash Signatures
+Detect Near-Duplicates with LSH
+Detecting Near-Duplicates with Cosine Similarity
+
+Unit 3
+4 practices
+16 min
+Dataset Filtering and Toxicity Detection
+Preview
+Language Detection and Reporting
+Filter English Texts with Langdetect
+Detect and Filter Toxic Texts
+Filter English and Non-Toxic Texts
+
+Unit 4
+3 practices
+13 min
+Data Augmentation Techniques for Large-Scale LLM Training
+Preview
+Synonym Replacement with WordNet
+Easy Data Augmentation Techniques
+Back-Translation Augmentation Task

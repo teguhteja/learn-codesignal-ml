@@ -1,0 +1,37 @@
+Unit 1
+4 practices
+16 min
+Chunking and Storing Text for Efficient LLM Processing
+Preview
+Implementing Fixed Length Text Chunking
+Sentence Boundaries for Smarter Chunking
+Chunking Methods Head to Head
+Preserving Document Structure with Paragraph Chunking
+
+Unit 2
+3 practices
+13 min
+Advanced Chunking Techniques for LLMs
+Preview
+Exploring Separator Configurations
+Exploring Overlap in Text Chunking
+Token-Based Chunking Implementation
+
+Unit 3
+3 practices
+13 min
+Converting and Storing Text Chunks in JSONL Format
+Preview
+Convert Text Chunks to JSONL
+Filter Text Chunks with JSONL
+Text Processing Pipeline with JSONL
+
+Unit 4
+4 practices
+16 min
+Chunking and Storing Text for Efficient LLM Processing with Chroma DB
+Preview
+Converting Text Chunks to Vector Embeddings
+Initializing ChromaDB for Vector Storage
+Storing Embeddings in ChromaDB
+Persisting Vector Databases for Production
