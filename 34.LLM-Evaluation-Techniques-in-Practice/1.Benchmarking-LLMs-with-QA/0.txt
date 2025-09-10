@@ -1,0 +1,35 @@
+Unit 1
+4 practices
+16 min
+
+Introduction to LLM Benchmarking & Basic QA Evaluation
+Loading and Exploring TriviaQA Dataset
+Text Normalization for Fair Comparisons
+Comparing Answers Beyond Surface Formatting
+Evaluating a Single LLM Response
+
+Unit 2
+4 practices
+16 min
+Prompting Styles: Zero-shot, One-shot, and Few-shot
+Creating Your First Zero Shot Prompt
+Creating Your First One Shot Prompt
+Making Accuracy Functions More Flexible
+Implementing Few Shot Prompting
+
+Unit 3
+4 practices
+16 min
+Improving Evaluation: Fuzzy Answer Matching
+Building Your First Fuzzy Matcher
+Evaluating Model Responses with Fuzzy Matching
+Finding the Perfect Similarity Threshold
+Prompting Strategies Showdown with Fuzzy Matching
+
+Unit 4
+3 practices
+13 min
+Comparing GPT-3.5, GPT-4, and Davinci with Smart Scoring
+Implementing Few Shot Learning with GPT4
+Threshold Impact on Model Evaluation
+Building a Model Performance Leaderboard
