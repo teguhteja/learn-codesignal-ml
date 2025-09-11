@@ -1,0 +1,32 @@
+Unit 1
+3 practices
+13 min
+Measuring and Interpreting Token Usage in LLMs
+Comparing Token Counts to Prompt and Answer Lengths
+Exploring Prompt Length and Token Usage
+Refactoring Token Usage for Cleaner Code
+
+Unit 2
+3 practices
+13 min
+Exploring Temperature Sensitivity in LLM Outputs
+Comparing Low and High Temperature Outputs
+Exploring the Temperature Creativity Spectrum
+Comparing Models at Same Temperature
+
+Unit 3
+3 practices
+13 min
+Measuring Model Consistency Across Reruns
+Refactoring for Cleaner Consistency Checks
+Parameterizing Consistency Test Runs
+Tracking Response Patterns with Frequency Analysis
+
+Unit 4
+4 practices
+16 min
+Using LLMs as Fact-Checkers for Hallucination Detection
+Generating Answers with GPT Models
+Building a Complete Fact-Checking Pipeline
+Building a Complete Fact Checking Pipeline
+Organizing Fact Check Results for Clarity

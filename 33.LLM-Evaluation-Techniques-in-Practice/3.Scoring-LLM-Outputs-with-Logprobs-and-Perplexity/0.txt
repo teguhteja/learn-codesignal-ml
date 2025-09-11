@@ -1,0 +1,33 @@
+Unit 1
+3 practices
+13 min
+Extracting Log Probabilities for Tokens
+Preview
+Fixing Token Probability Display Code
+Making Token Probabilities Dynamic
+Filtering Tokens by Probability Threshold
+
+Unit 2
+3 practices
+13 min
+Comparing Sentence Likelihoods Using Log Probabilities
+Extracting Log Probabilities from Responses
+Comparing Sentences with Log Probabilities
+Finding the Most Plausible Sentence
+
+Unit 3
+4 practices
+16 min
+Calculating Perplexity in Language Models
+Implementing the Perplexity Formula
+Applying Perplexity to Real Sentences
+Flexible Token Generation for Perplexity Analysis
+Error Handling for Perplexity Calculations
+
+Unit 4
+3 practices
+13 min
+Model Fluency Comparison in Language Models
+Extracting Token Text from API Responses
+Calculating Perplexity for Model Comparison
+Evaluating Multiple Sentences for Fluency

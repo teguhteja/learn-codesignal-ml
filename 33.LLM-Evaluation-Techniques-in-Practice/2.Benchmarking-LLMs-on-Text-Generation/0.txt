@@ -1,0 +1,24 @@
+Unit 1
+3 practices
+13 min
+Prompting for Summarization with LLMs
+Reading CSV Files with Python
+Simplifying Prompts for Better Summaries
+Crafting Custom Prompts for Better Summaries
+
+Unit 2
+4 practices
+16 min
+Scoring and Comparing Models with ROUGE
+Loading Data for ROUGE Evaluation
+Setting Up ROUGE for Summary Evaluation
+Evaluating Summaries with ROUGE Metrics
+Evaluating GPT-4 Summarization with ROUGE-L
+
+Unit 3
+3 practices
+13 min
+Semantic Evaluation with Embeddings
+Implementing Cosine Similarity for Vector Comparison
+Creating Text Embeddings with OpenAI
+Building a Semantic Comparison Pipeline
