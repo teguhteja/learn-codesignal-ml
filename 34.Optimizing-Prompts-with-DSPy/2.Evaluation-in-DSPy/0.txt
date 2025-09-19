@@ -1,0 +1,25 @@
+Unit 1
+1 practice
+14 min
+Steps in Evaluation
+DSPy Evaluation Steps Quiz
+
+Unit 2
+5 practices
+38 min
+Data Handling with Example Objects in DSPy
+Creating and Exploring Example Objects
+Building a Mini Dataset with Examples
+Separating Inputs and Labels Programmatically
+Filtering Example Data by Specific Criteria
+Transforming Example Data While Preserving Structure
+
+Unit 3
+5 practices
+38 min
+Creating Metrics in DSPy
+Implementing a Case Insensitive Metric
+Flexible Answer Matching for Multiple Formats
+Passage Matching for Retrieval Systems
+Building a Holistic QA Evaluation Metric
+Semantic Evaluation with F1 Score

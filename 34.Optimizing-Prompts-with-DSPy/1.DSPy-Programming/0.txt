@@ -1,0 +1,35 @@
+Unit 1
+2 practices
+20 min
+Introduction to DSPy
+Installing DSPy for Language Models
+DSPy Framework Introduction Quiz
+
+Unit 2
+4 practices
+32 min
+Using Language Models in DSPy
+Basic LM Operations and History
+Switching Models with Context Managers
+Structured Messages and History Exploration
+Customizing LM Parameters for Creative Output
+
+Unit 3
+5 practices
+38 min
+Creating Your Own Signature in DSPy
+Your First Sentiment Classifier Signature
+Creating Your First Summarization Signature
+Building a Multi-Input Question Answering Signature
+Creating Emotion Classifiers with Class Signatures
+Building a Fact Checking Signature
+
+Unit 4
+5 practices
+38 min
+Modules: The DSPy Building Blocks
+Building Your Second Sentiment Classifier
+Step by Step Math Reasoning
+Code Powered Candy Distribution
+Tools and Reasoning with ReAct
+Comparing Paths for Better Answers

@@ -1,0 +1,35 @@
+Unit 1
+5 practices
+38 min
+Introduction to Optimization with DSPy
+Splitting Data for Prompt Optimization
+Loading External Data for Optimization
+Implementing the DSPy Data Split Ratio
+Working with Built-in DSPy Datasets
+DSPy Optimization Basics Quiz
+
+Unit 2
+4 practices
+32 min
+Automatic Few-Shot Learning with DSPy
+Implementing Your First Few-Shot Optimizer
+Self Generated Examples with BootstrapFewShot
+Finding Optimal Examples with Random Search
+Dynamic Example Selection with KNNFewShot
+
+Unit 3
+4 practices
+32 min
+Automatic Instruction Optimization with DSPy
+Tuning COPRO Parameters for Better Instructions
+Optimizing QA with COPRO Parameters
+Comparing Few-Shot and Zero-Shot Optimization
+Balancing Optimization Intensity for Better Results
+
+Unit 4
+3 practices
+26 min
+Finishing Optimization: Saving and Loading DSPy Programs
+Saving Your DSPy Optimization Work
+Loading Optimized DSPy Programs
+Quiz on DSPy Optimization Steps
