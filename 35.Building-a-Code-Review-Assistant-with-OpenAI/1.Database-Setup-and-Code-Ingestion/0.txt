@@ -1,0 +1,49 @@
+Unit 1
+5 practices
+38 min
+Introduction and Project Overview
+Creating Dataclass Instances for Code Review
+Extending Dataclasses with New Fields
+Counting Files by Programming Language
+Adding Methods to Dataclasses
+Linking Commits to Their File Changes
+
+Unit 2
+5 practices
+38 min
+Codebase Scanner Development
+Detecting Languages by File Extension
+Expanding Language Detection Capabilities
+Optimizing Directory Traversal for Speed
+Robust File Reading with Error Handling
+Debugging the Codebase Scanner
+
+Unit 3
+5 practices
+38 min
+Git History Extraction with Python
+Customizing Git Commit Display Format
+Filtering Git History by Author
+Identifying Hot Spots in Git History
+Filtering Git History by File Type
+Generating Repository Activity Insights at Scale
+
+Unit 4
+5 practices
+38 min
+CLI Integration and Data Analysis
+Adding Output Options to CLI Tool
+Adding Fast Scan Mode to CLI
+Making Your CLI Tool Error Proof
+Enhancing CLI Output with Detailed Statistics
+Building Robust CLI Error Handling
+
+Unit 5
+5 practices
+38 min
+Database Integration and Persistence
+Completing SQLAlchemy Models for Code Files
+Fixing Database Initialization Missing Import
+Storing Code Files in SQLAlchemy Database
+Integrating Git History with Database Storage
+Synchronizing Repository Files with Database

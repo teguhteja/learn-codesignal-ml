@@ -1,0 +1,19 @@
+Database Setup and Code Ingestion
+5 lessons
+25 practices
+Learn to build the foundation by setting up a database to store codebase information and git history. This course covers database design, code scanning, and git data extraction.
+Continue learning
+See details
+1%
+
+Course 2
+AI Integration and Analysis
+4 lessons
+20 practices
+Learn to integrate with OpenAI's API to analyze code changes and provide intelligent suggestions. This course covers prompt engineering, changeset analysis, and context gathering.
+See details
+Course 3
+Web Application and API
+4 lessons
+20 practices
+Build a web application to interact with the code review system. This course covers FastAPI backend development, React frontend, and integrating all components.
