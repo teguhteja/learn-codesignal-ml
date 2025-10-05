@@ -1,0 +1,31 @@
+Unit 1
+FastAPI Backend Setup for a Code Review Assistant
+Creating Your First FastAPI Endpoint
+Setting Up Database Models with SQLAlchemy
+Creating Pydantic Schemas for Validation
+Implementing the Changeset Submission Endpoint
+Implementing Background Tasks for Asynchronous Reviews
+
+Unit 2
+Changeset Management API in FastAPI
+Implementing a Simple Health Check Endpoint
+Implementing Basic Changeset Listing Endpoint
+Adding Filtering and Limiting Features
+Detailed Changeset Retrieval with Error Handling
+Repository Scan with Error Handling
+
+Unit 3
+Error Handling and Validation
+Add Email Validation with Pydantic
+Create Custom Exception Class
+Implement Custom Exception Handler Function
+Add Database Transaction Error Handling
+Build Production Ready Changeset Endpoint
+
+Unit 4
+GitHub Webhook Integration
+Building Your First Webhook Endpoint
+Debugging Webhook Security Verification
+Completing Webhook Payload Data Extraction
+Storing Webhook Data in Database
+Completing the Webhook to Review Pipeline

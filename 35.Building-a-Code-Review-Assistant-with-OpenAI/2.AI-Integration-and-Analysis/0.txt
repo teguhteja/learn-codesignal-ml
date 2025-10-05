@@ -1,0 +1,31 @@
+Unit 1
+OpenAI Client Setup for Code Review
+Setting Up Your OpenAI Client
+Making Your First API Call
+Adding Error Handling to API Calls
+Implementing Retry Logic with Exponential Backoff
+Building a Code Review Prompt Template
+
+Unit 2
+Diff Parser: Breaking Down Code Changes for Review
+Processing Diff Lines for Code Review
+Extracting File Paths from Diff Headers
+Parsing Hunk Headers for Diff Analysis
+Parsing Complete Hunks for Code Review
+Handling Multiple Hunks in Diff Parsing
+
+Unit 3
+Context Generator: Building Useful Context for AI Code Review
+Handling Empty Files in Context Generation
+Handling Empty Files with Grace
+Truncating Long Files for Better Context
+Tracking Code History for AI Review
+Discovering Related Files for AI Context
+
+Unit 4
+Review Engine: Bringing Automated Code Review Together
+Building Context for Better Reviews
+Building Context for Better Reviews
+Fixing Context Format for Better Reviews
+Scaling Up The Review Engine
+Error Proofing Your Review Engine
