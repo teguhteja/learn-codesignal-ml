@@ -1,0 +1,45 @@
+Unit 1
+3 practices
+26 min
+Setting Up the Basic Structure for DeepResearcher
+Building the DeepResearcher Framework
+Implementing the Main Research Workflow
+Adding Error Handling to DeepResearcher
+
+Unit 2
+4 practices
+32 min
+Generating Search Queries with OpenAI
+Designing Prompts for Search Generation
+Generating and Parsing Search Queries
+Validating AI Responses for Robust Research
+Testing Your Search Query Generator
+
+Unit 3
+5 practices
+38 min
+Parsing and Selecting Useful Information
+Collecting Web Content for Research
+Creating Prompts for Content Relevance Evaluation
+Evaluating Content Relevance with AI
+Designing Prompts for Information Extraction
+Extracting Gold from Web Content
+
+Unit 4
+5 practices
+38 min
+Iterative Search: Refining Research Through Multiple Rounds
+Building the Iterative Research Loop
+Accumulating Knowledge Across Research Rounds
+Creating the Research Planner Brain
+Safely Parsing LLM Query Responses
+Testing Your Iterative Research System
+
+Unit 5
+4 practices
+32 min
+Creating the Final Research Report
+Crafting Prompts for Research Reports
+Implementing the Final Report Generator
+Print the Final Report
+Testing Your AI Research Assistant

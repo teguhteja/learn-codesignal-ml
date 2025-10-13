@@ -1,0 +1,41 @@
+Unit 1
+4 practices
+32 min
+Searching the Web with DDGS in Python
+Preview
+Your First Web Search with DDGS
+Extracting URLs from Search Results
+Fetching Web Content with httpx
+Converting HTML to Readable Markdown
+
+Unit 2
+6 practices
+44 min
+Creating the Web Searcher Module
+Preview
+Building the Web Searcher Function
+Enhancing Web Searcher for Multiple Results
+Adding a Parameter to control Multiple Results
+Adding Timeouts for Web Requests
+Structuring Search Results for Better Context
+Adding Robust Error Handling
+
+Unit 3
+4 practices
+32 min
+Avoiding Common Pitfalls in Our Web Searcher
+Preview
+Skipping Duplicate URLs for Efficiency
+Graceful Error Handling for Web Requests
+Resetting URL Tracking for Fresh Searches
+Customizing Search Results with Parameters
+
+Unit 4
+4 practices
+32 min
+Making the Web Search Reliable and Safe
+Preview
+Adding Logging to Your Web Searcher
+Handling Web Errors Like a Pro
+Automatic Retries for Web Requests
+Specify when to retry with Tenacity

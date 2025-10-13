@@ -1,0 +1,47 @@
+Unit 1
+0 practices
+8 min
+Design of Our Deep Researcher
+Preview
+
+Unit 2
+5 practices
+38 min
+Making Basic LLM Calls
+Preview
+Setting Up Your OpenAI Client
+Changing Personas with System Prompts
+Crafting Effective User Prompts
+Controlling Randomness with Temperature Settings
+Selecting the Right LLM Model
+
+Unit 3
+4 practices
+32 min
+Prompt Structure and Variables
+Preview
+Loading Templates from Files
+Replacing Placeholders with Regular Expressions
+Integrating the Prompt Generation Pipeline
+Creating a Recipe Generator with Templates
+
+Unit 4
+4 practices
+32 min
+Creating the Prompt Manager
+Preview
+Implementing Template Variable Substitution
+Adding Template Logging Functionality
+Complex Templates for Dynamic Prompts
+Executing the prompt
+
+Unit 5
+5 practices
+38 min
+Creating the LLM Manager
+Preview
+Adding Prompt Logging for Debugging
+Enhancing API Error Handling
+Optimizing Boolean Response Detection
+Validating Environment Variables for Security
+Creating a Flexible LLM Wrapper Function
