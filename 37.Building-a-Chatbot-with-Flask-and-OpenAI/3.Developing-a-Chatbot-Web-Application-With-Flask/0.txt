@@ -1,0 +1,31 @@
+Unit 1
+Setting Up the Basic Chat Interface
+Render a Chat HTML Template
+Building the Chat Elements
+Enhance Chat with JavaScript
+Adding Enter Key Message Functionality
+Implement Chat Reset Functionality
+
+Unit 2
+Integrating API Requests for Dynamic Chat Interaction
+Dynamic Chat Interaction in Action
+Initializing Chat Sessions with Fetch API
+Sending Messages to the Backend API
+
+Unit 3
+Simplifying User Input with Message Suggestions
+Adding Your First Suggestion Button
+Making Suggestion Buttons Interactive
+Modifying Button Prompts for Clarity
+Expanding Your Chat Suggestion Options
+
+Unit 4
+Styling the Chatbot Interface with CSS
+Linking CSS Styles
+Styling Suggestion Buttons for Better UX
+Styling the Chat Conversation Flow
+Styling Input Area for User Interaction
+
+Unit 5
+Celebrating Your Achievement
+What's Next?

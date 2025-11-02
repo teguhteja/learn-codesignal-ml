@@ -1,0 +1,38 @@
+Unit 1
+Sending a Simple Message to OpenAI
+Ask GPT for Fun Facts
+Change the AI Model Used
+Fix the AI Response Extraction
+Handling Multiple Choices
+Complete the OpenAI Interaction
+
+Unit 2
+Exploring Model Parameters
+Observe AI's Default Response
+Control AI Response Length
+Adjust AI Creativity
+Understanding High Temperatures
+Enhance Conversation Dynamic
+Control Repetition of Words
+
+Unit 3
+Message Types and Conversation History
+Creating Conversation History
+Conversation History in Action
+Continuing Conversation Follow-up Interactions
+Visualize the Conversation History
+Streamline Conversation Management
+
+Unit 4
+Personalizing AI's Behavior with System Prompts
+Creating a New AI Persona
+Extending the Poetic Conversation
+Fix the AI's Personality Bug
+Creating a New AI Persona
+
+Unit 5
+Managing Multiple Chat Sessions with OpenAI
+Unique Chat Session Creation
+Updating Chat Session History
+Integrating GPT-4 for Dynamic Chatbot Responses
+Managing Multiple Chat Sessions

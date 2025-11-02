@@ -1,0 +1,36 @@
+Unit 1
+Developing a Robust System Prompt
+Defining the Chatbot's Role
+Error Handling with System Prompts
+Updating Contextual Information
+Guiding Chatbot Interactions
+Adding Constraints to Chatbot Responses
+Enhancing Chatbot Requirements
+
+Unit 2
+Implementing a Chat Manager for Efficient Data Handling
+Implementing Chat Creation and Retrieval
+Retrieve Full Chat Conversation
+Enhance ChatManager with Messaging
+Managing Chat Data with Ease
+
+Unit 3
+Handling AI Interactions with the Chat Service Layer
+Creating Unique Chat Sessions
+Implementing the Process Message Method
+Integrate AI Responses in Chat
+Testing AI Context Retention
+Creating Multiple Chat Sessions
+
+Unit 4
+Streamlining User Interaction with Chat Controller
+Ensuring Unique User Sessions
+Creating Chat Sessions Made Easy
+Implementing the Send Message Method
+
+Unit 5
+Serving Your Chatbot with a RESTful API Using Flask
+Building a Basic Flask App
+Integrating Session Management
+Create a Chat Route in Flask
+Define a Message Route in Flask
