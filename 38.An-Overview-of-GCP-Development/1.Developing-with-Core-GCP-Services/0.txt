@@ -1,0 +1,35 @@
+Unit 1
+5 practices
+38 min
+Introducing Google Cloud Platform
+Initialize Your First GCP Client
+Creating Your First Cloud Document
+Reading Your Created Documents
+Making Your Cloud Code Bulletproof
+Build Your Complete Connection Test
+Unit 2
+5 practices
+38 min
+Working with Cloud Firestore
+Add a User Document to a New Firestore Collection
+Fix Firestore Document Read Output
+Fixing Firestore Document Update Syntax
+Complete the Delete and Verification Steps for Firestore CRUD
+Cleaning Up: Deleting a Firestore Collection After CRUD Operations
+Unit 3
+5 practices
+Working with Cloud Datastore
+Your First Cloud Datastore Entity
+Debugging Cloud Datastore Entity Access
+Building Your First Datastore Query
+Complete the Entity Update
+Building Complete Datastore Operations
+Unit 4
+5 practices
+38 min
+Messaging with Pub/Sub
+Extracting Resource Names from Pub/Sub Creation Responses
+Fix the Bug in Pub/Sub Producer Message Format
+Complete the Pub/Sub Consumer: Processing and Acknowledging Messages
+Publish Processed Results to a Pub/Sub Topic
+Fixing Order Categorization Logic in Pub/Sub Processing

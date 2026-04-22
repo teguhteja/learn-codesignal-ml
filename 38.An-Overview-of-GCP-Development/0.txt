@@ -1,0 +1,17 @@
+Course 1
+Developing with Core GCP Services
+4 lessons
+20 practices
+Get productive with Google Cloud client libraries for Python and core services used in most applications. You'll use Application Default Credentials (ADC) via service accounts (no hardcoded keys), work with Cloud Storage for object storage, Firestore for NoSQL CRUD, and Pub/Sub for asynchronous messaging.
+See details
+Course 2
+Building Serverless GCP Applications
+4 lessons
+19 practices
+Design event-driven, fully managed applications on GCP. You'll build Cloud Functions triggered by HTTP requests, define infrastructure with gcloud CLI, run locally with Functions Framework, deploy to the cloud, and orchestrate multi-step workflows with Workflows.
+See details
+Course 3
+Developer Security & Observability
+4 lessons
+19 practices
+Secure applications and make them observable. Remove hardcoded secrets by using service accounts and Secret Manager, secure API endpoints with API Gateway and in-function validation, publish custom metrics and dashboards in Cloud Monitoring, and add distributed tracing with Cloud Trace across HTTP requests, Cloud Functions, and Firestore.
