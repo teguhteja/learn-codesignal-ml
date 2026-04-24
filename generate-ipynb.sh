@@ -81,6 +81,8 @@ for i in "${!lines[@]}"; do
         else
             filename="$unit_number"
         fi
+        # Ensure generated filename is filesystem-safe (e.g. Pub/Sub -> Pub-Sub)
+        filename="${filename//\//-}"
         current_file="${filename}.ipynb"
 
         # Start a new notebook JSON structure
