@@ -1,0 +1,35 @@
+Unit 1
+5 practices
+38 min
+Serverless Applications on GCP
+Update the Tax Rate in a Cloud Function
+Fix the JSON Response Format in a Google Cloud Function
+Add tax_rate Field to Cloud Function API Response
+Add Input Validation to Your Cloud Function
+Transform the Tax Calculator
+Unit 1
+5 practices
+38 min
+Building Serverless APIs
+Fix the OpenAPI Configuration for Cloud Function Endpoint
+Fix the Test Event Data for Cloud Function
+Complete the OpenAPI Specification
+Build and Configure a Complete GCP Serverless Tax Calculator API
+Unit 1
+5 practices
+38 min
+Building Multi Step Workflows
+Fixing Order Amount Validation in Cloud Function
+Preserving Data Fields Across Workflow Steps in Cloud Functions
+Adding Error Handling to a Google Cloud Workflow
+Adding a Notification Step to a Google Cloud Workflow
+Building a Multi-Step Returns Workflow
+Unit 1
+5 practices
+38 min
+Direct API to Workflows
+Fixing Static Execution Names for Workflow Runs in Python
+Add Input Validation for customerId in Python API
+Transforming Workflow API Responses
+Enhanced Error Handling for Workflow Execution API
+Dynamic Workflow Routing in a Python API Handler
