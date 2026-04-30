@@ -1,0 +1,35 @@
+Unit 1
+5 practices
+38 min
+Secure Credential Management
+Update the Secret Payload with Port and New Password
+Parsing Secret Payloads from Google Cloud Secret Manager
+Use Constants for Secret Names Instead of Hardcoded Strings
+Handle missing secrets gracefully with Google Cloud Secret Manager
+Validating Retrieved Secrets for Required Fields and Data Integrity
+Unit 2
+5 practices
+38 min
+Securing API Endpoints with Firebase Authentication
+Fix Authorization Header Casing in API Token Check
+Complete the Token Validation Logic for API Authorization
+Complete the Authorization Result for Protected API Endpoints
+Enhance the Protected API Handler with User and Request Details
+Making Your API Authorization Function Bulletproof with Error Handling
+Unit 3
+5 practices
+38 min
+Google Cloud Monitoring Essentials
+Create a Histogram and Record Values
+Batch Emitting Multiple Metrics in a Single Call
+Fix OTel Configuration and Export Timing
+Build a Complete Application Monitoring Workflow in Python
+Unit 4
+5 practices
+38 min
+Distributed Tracing Fundamentals
+Fixing the Tracing Configuration
+Enable Automatic Tracing with OpenTelemetry Instrumentation
+Add a Custom Span to Trace a Datastore Write Operation
+Tracing Multiple Operations with Named Spans
+Fixing Broken OpenTelemetry Tracing for Google Cloud Firestore Operations
