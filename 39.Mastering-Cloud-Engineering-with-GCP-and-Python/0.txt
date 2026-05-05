@@ -1,0 +1,31 @@
+Course 1
+Introduction to Google Cloud SDK for Python
+4 lessons
+13 practices
+Tailored for professionals versed in GCP and Python, this course delves into the practicalities of the Google Cloud Python SDKs. Explore the capabilities of Google Cloud’s Python libraries through hands-on exercises designed to teach you how to automate GCP services effectively and interestingly.
+Continue learning
+See details
+3%
+Course 2
+Mastering Google Cloud Storage with Python
+4 lessons
+19 practices
+In this course, we focus on Google Cloud Storage, an essential service for storing and retrieving data in GCP. Students will learn how to create and manage buckets, handle objects, and utilize advanced features of Cloud Storage with Python. Prior experience with GCP SDK (Python) or familiarity with cloud computing is expected for optimal comprehension.
+See details
+Course 3
+Introduction to Google Cloud Firestore with Python
+6 lessons
+28 practices
+Designed for beginners to NoSQL, this course introduces Google Cloud Firestore and its integration with Python. Students will learn to set up databases, manage collections, and perform CRUD operations, gaining practical skills in cloud database management.
+See details
+Course 4
+Mastering Messaging with Google Cloud Pub/Sub and Python
+5 lessons
+23 practices
+This course is structured to introduce Google Cloud Pub/Sub for clear understanding and practical application. Starting with the basics, the course progresses through creating, configuring, and effectively using Pub/Sub with Python.
+See details
+Course 5
+GCP Secrets and Key Management with Python
+4 lessons
+19 practices
+In this course, students will delve into the practical aspects of Google Secret Manager and Cloud KMS, learning effective ways to manage application secrets. By the end of the course, students will have hands-on experience with these GCP services, and will be capable of integrating their features using Python.

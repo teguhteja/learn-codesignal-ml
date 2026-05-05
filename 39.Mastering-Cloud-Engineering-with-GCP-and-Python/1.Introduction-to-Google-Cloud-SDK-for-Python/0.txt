@@ -1,0 +1,29 @@
+Unit 1
+5 practices
+38 min
+Getting Started with GCP
+Google Cloud SDK Service Discovery
+GCP Client Initialization with Google Cloud SDK
+Set Up a Firestore Client with Explicit Project Configuration
+Initialize GCP Firestore Clients
+Unit 2
+5 practices
+38 min
+Advanced Client Configurations
+Configuring Google Cloud Firestore Client with Automatic Retry Strategy
+Configure Google Cloud Firestore Client with Custom Retry Strategy and Local Emulator
+Configuring Google Cloud Firestore Client for Local Emulation
+Unit 3
+5 practices
+38 min
+Exception Handling Essentials
+Accessing a Non-Existent Firestore Document: Observing Exception Handling
+Google Cloud Firestore Exception Handling
+Enhancing Firestore Script with RetryError Exception Handling
+Unit 4
+5 practices
+38 min
+Cloud SDK Logging
+Enable and Observe Firestore Debug Logging with Python
+Enable Debug Logging for Google Cloud Firestore Operations
+Configure DEBUG Logging for Google Cloud Firestore Operations
