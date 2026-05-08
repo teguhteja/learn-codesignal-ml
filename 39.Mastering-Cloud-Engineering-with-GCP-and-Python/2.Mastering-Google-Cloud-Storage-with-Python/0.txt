@@ -1,0 +1,35 @@
+Unit 1
+5 practices
+38 min
+Google Cloud Storage Fundamentals and Client Setup
+Exploring Google Cloud Storage Client Initialization and Authentication
+Creating Custom and Default Google Cloud Storage Clients
+Google Cloud Storage Client Configuration
+Unit 2
+5 practices
+38 min
+Managing Storage Buckets
+Google Cloud Storage Bucket Management Operations
+Configure Google Cloud Storage Bucket Region
+Creating Regional GCP Storage Buckets for Space Mission Archives
+Delete Cloud Storage Bucket
+Final Mission: Complete Cloud Storage Bucket Management
+Unit 3
+5 practices
+38 min
+Managing Cloud Storage Objects
+Google Cloud Storage Digital Asset Management
+Upload Image to Google Cloud Storage Bucket
+Download Image from Google Cloud Storage Bucket
+Exploring Google Cloud Storage Operations
+Google Cloud Storage Bucket Cleanup
+Google Cloud Storage Bucket Lifecycle Management Challenge
+Unit 4
+5 practices
+38 min
+File Versioning in Cloud Storage
+Exploring Google Cloud Storage Document Versioning
+Enable Cloud Storage Bucket Versioning
+Suspend Versioning on GCS Bucket
+Google Cloud Storage Versioned Object Retrieval
+Google Cloud Storage Object Versioning and Sequential Upload Management
