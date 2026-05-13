@@ -1,0 +1,53 @@
+Unit 1
+5 practices
+38 min
+Introduction to Firestore
+Initializing Google Cloud Firestore Clients in Python
+Implement Default Authentication for Google Cloud Firestore
+Creating Default Google Cloud Firestore Clients with Automatic Project Detection
+Creating and Configuring Multiple Firestore Client Instances
+Unit 2
+5 practices
+38 min
+Firestore Collections and Documents
+Reading and Executing Firestore Collection Creation Script
+Creating Firestore Collections with Multiple Data Types
+Fix Firestore Field Name Case Sensitivity Issue in Python Script
+Creating Firestore Products Collection with ProductId and Manufacturer Fields
+Creating Firestore Collections with Key Fields
+Unit 3
+5 practices
+38 min
+Adding Data in Firestore
+Firestore Student Data Insertion and Collection Creation
+Updating Student Document in Firestore
+Adding a Student Record to Firestore Collection
+Firestore Batch Operations for Student Documents
+Google Cloud Firestore Students Collection Management
+Unit 4
+5 practices
+38 min
+Retrieving Data from Firestore
+Firestore Movies Collection Script Execution
+Retrieving Single and Multiple Documents from Firestore.
+Implementing Firestore Document Retrieval with Field Projection
+Implementing Firestore get_all for Batch Document Retrieval
+Firestore Document Retrieval Operations in Python
+Unit 5
+5 practices
+38 min
+Updating and Deleting Data
+Firestore Collection Management and Document Operations
+Updating Firestore Document Fields
+Firestore Document Deletion Techniques
+Firestore Document Updates and Deletions
+Unit 6
+5 practices
+38 min
+Advanced Firestore Queries
+Executing Firestore Query and Scan Operations
+Firestore Compound Queries with Multiple Conditions
+Firestore Compound Where Queries with Multiple Filter Conditions
+Firestore Where Clause Query Implementation
+Implementing Firestore Querying Operations for Movies
+
