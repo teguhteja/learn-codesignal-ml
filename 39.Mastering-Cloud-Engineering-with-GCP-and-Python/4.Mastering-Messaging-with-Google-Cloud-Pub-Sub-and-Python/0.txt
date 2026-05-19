@@ -1,0 +1,43 @@
+Unit 1
+5 practices
+38 min
+Getting Started with GCP Messaging
+Creating Google Cloud Pub/Sub and Cloud Tasks Clients
+Modifying Google Cloud Resource Location Parameters
+Create Cloud Tasks and Pub/Sub Subscriber Clients
+Creating Google Cloud Pub/Sub Clients
+Unit 2
+5 practices
+38 min
+Creating Messaging Resources
+Creating Google Cloud Pub/Sub Topics and Subscriptions with Different Configurations
+Configure Google Cloud Pub/Sub Subscription Attributes
+Debug Google Cloud Pub/Sub Topic Creation Script
+Google Cloud Pub/Sub Subscription with Acknowledgment Deadline Configuration
+Google Cloud Pub/Sub Configuration for Effective Message Processing
+Unit 3
+5 practices
+38 min
+Google Cloud Messaging Essentials
+Run Google Cloud Pub/Sub Messaging Script
+Add StartingDate Attribute to Google Cloud Pub/Sub Message
+Complete Google Cloud Pub/Sub Message Pull and Acknowledgment Script
+Send Multiple Messages to Google Cloud Pub/Sub with Message Group ID
+Reading and Acknowledging Pub/Sub Messages
+Unit 4
+5 practices
+38 min
+Working with Messaging Topics
+Google Cloud Pub/Sub Topic Creation with Python
+Update Google Cloud Pub/Sub Topic Display Name Label
+Listing Google Cloud Pub/Sub Topics
+Create Pub/Sub Topic and Set Labels
+Unit 5
+5 practices
+38 min
+Implementing the Fan Out Pattern
+Building a Messaging System with Google Cloud Pub/Sub
+Creating Google Cloud Pub/Sub Topics and Subscriptions
+Google Cloud Pub/Sub Message Publishing and Receiving
+Google Cloud Pub/Sub Multiple Subscription Setup
+Google Cloud Pub/Sub Heartbeat Monitoring
