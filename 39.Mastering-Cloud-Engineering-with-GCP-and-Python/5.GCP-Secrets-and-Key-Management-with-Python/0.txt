@@ -1,0 +1,35 @@
+Unit 1
+5 practices
+38 min
+GCP Secrets Management Basics
+Initialize GCP Secret Manager and KMS Clients
+Creating GCP Service Clients with Custom Credentials
+Initialize GCP Service Clients with Default and Custom Credentials
+Unit 2
+5 practices
+38 min
+Google Cloud Secrets Management
+Google Cloud Secret Manager Operations Demo
+Creating Secrets in Google Cloud Secret Manager
+Updating Party Details with Google Cloud Secret Manager
+Delete Secret from Google Cloud Secret Manager
+Google Cloud Secret Manager Complete Operations Practice
+Unit 3
+5 practices
+38 min
+Advanced Secrets Management
+Google Cloud Secret Manager Operations with Python
+Secure Password Generation for Google Cloud Secret Manager
+Update Google Cloud Secret Manager with Auto-Generated Secure Password
+Labeling Secrets with Creator Information in Google Cloud Secret Manager
+Retrieving and Accessing Secret Versions
+Restoring Labels on a Secret
+Unit 4
+5 practices
+38 min
+Google Cloud Key Management
+Creating Google Cloud KMS Key with Python SDK
+Google Cloud KMS Data Key Generation with Envelope Encryption
+Fetch Google Cloud KMS Key Metadata and Display State
+Enable Key Rotation with Google Cloud KMS
+Google Cloud KMS Complete Lifecycle Implementation
