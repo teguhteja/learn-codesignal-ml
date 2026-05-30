@@ -1,0 +1,24 @@
+Course 1
+Understanding the 12-Factor Agents Methodology
+4 lessons
+12 practices
+Discover why reliable AI agents require more than delegating work to off‑the‑shelf frameworks. This foundational course introduces the 12‑Factor Agents methodology, distilling lessons that separate flashy demos from production systems. Learn how well‑engineered software augmented with targeted LLM integration—and twelve clear principles—yields maintainable, scalable, and trustworthy agentic apps.
+See details
+Course 2
+Foundations of Agentic Tool Use in Python
+4 lessons
+20 practices
+Master the practical building blocks of agentic systems in Python. Covering Factors 1, 3, 4, 8, and 9, you’ll prompt for structured outputs, define and validate tool schemas, own the context window, and run explicit loops that you control. You’ll also compact execution errors back into context for self-correction, turning natural language requests into reliable tool executions.
+See details
+Course 3
+Developing a Stateless Agent in Python
+3 lessons
+14 practices
+Turn scripts into reusable components by embracing stateless design. With Factors 2, 5, 10, and 12, you’ll externalize prompts, unify execution and business state, and build a reducer-style agent that takes state in and returns state out.
+See details
+Course 4
+Exposing Agents with Simple APIs in Python
+5 lessons
+14 practices
+Expose agents as services reachable from any interface. With Factors 5, 6, 7, and 11, you’ll persist unified state in a database, orchestrate runs via background tasks and REST endpoints, and add pause/resume controls. Wire human responses back into waiting workflows and decouple triggers from UI so web apps, bots, and systems can launch, monitor, and resume runs at scale.
+See details

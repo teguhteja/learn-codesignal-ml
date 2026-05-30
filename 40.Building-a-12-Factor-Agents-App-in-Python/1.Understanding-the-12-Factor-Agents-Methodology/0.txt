@@ -1,0 +1,28 @@
+Unit 1
+5 practices
+38 min
+Why Principles Matter for Reliable Agent Systems
+Fill in the Blanks about Agent Reliability
+Quiz on Reliable AI Agent Principles
+Clarifying the Core Reliability Problem
+Unit 2
+5 practices
+38 min
+Factors 1-4: Structure Prompts, Tools, and Context
+Fill in the Blanks about Agent Foundations
+Quiz on Reliable LLM Agent Foundations
+Making Sense of Structured Interactions
+Unit 3
+5 practices
+38 min
+Factors 5-8: Manage State and Control Flow
+Fill in the Blanks on Agent Control
+Quiz on Agent State and Control Flow
+Understanding State and Control Flow
+Unit 4
+5 practices
+38 min
+Factors 9-12: Keep Agents Small and Stateless
+Fill in the Blanks about Agent Architecture
+Quiz on Scalable Agent Architecture
+Demystifying Production Architecture
