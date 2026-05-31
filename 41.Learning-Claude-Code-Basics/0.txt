@@ -1,0 +1,29 @@
+Course 1
+Getting Started with Claude Code
+5 lessons
+15 practices
+Learn what Claude Code is and master the basics: launch sessions, understand how Claude uses tools autonomously, and navigate the file system. You'll see Claude create files, run code, and manage conversations—all from your terminal.
+See details
+Course 2
+Customizing Claude Code for Your Projects
+4 lessons
+12 practices
+Learn to customize Claude Code for specific workflows. Create persistent instructions with CLAUDE.md, control what Claude sees with context management, configure settings, and handle errors effectively. You'll work with a sales analysis project throughout this course.
+See details
+Course 3
+Advanced Claude Code Features
+4 lessons
+10 practices
+Master power-user features: understand the evolution of Claude Code extensions, manage tool permissions, use Plan Mode for safe refactoring, delegate work to subagents, and leverage web access tools effectively.
+See details
+Course 4
+Extending Claude's Capabilities with Agent Skills
+4 lessons
+8 practices
+Learn the Skills system—Claude's most powerful extension mechanism. Understand how Skills differ from custom commands, create practical skills for real workflows, and build multi-skill workflows where Claude automatically selects the right skill for each task.
+See details
+Course 5
+Claude Code: Applying What You've Learned
+3 lessons
+8 practices
+Apply your Claude Code skills to a real project through progressive, hands-on exercises. You'll configure Claude Code for an existing codebase, implement multiple features using skills you created in previous courses, and practice error recovery techniques—all while building confidence with real-world workflows.

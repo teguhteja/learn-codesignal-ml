@@ -1,0 +1,35 @@
+Unit 1
+5 practices
+38 min
+Understanding Claude Code
+Understanding Claude Code Basics
+Unit 2
+5 practices
+38 min
+Starting Claude Code Sessions
+Launch Your First Claude Session
+Clearing History for a Fresh Start
+Closing Sessions with the Exit Command
+Resuming Previous Conversations with Claude
+Mastering the Complete Session Workflow
+Unit 3
+5 practices
+38 min
+Essential Commands and Navigation
+Checking Your Current Session State
+Switching Between AI Model Options
+Inspecting What Claude Can See
+Exploring All Three Model Options
+Unit 4
+5 practices
+38 min
+Understanding Agentic Tools
+Discovering and Using Claude's Tools
+Chaining Tools to Complete Tasks
+When to Write and When to Edit
+Unit 5
+5 practices
+38 min
+Exploring Conversation History
+Watch Conversation History Come to Life
+Search Your Conversation History Like a Pro
