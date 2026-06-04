@@ -1,0 +1,28 @@
+Unit 1
+5 practices
+38 min
+Mastering Project Instructions
+Initialize Your First Project Context
+Teaching Claude Your Coding Standards
+Separating Team and Personal Instructions
+Unit 2
+5 practices
+38 min
+Managing Project Context
+Cleaning Up Your Project Context
+Excluding Dependencies and Build Artifacts
+Unit 3
+5 practices
+38 min
+Mastering Project Settings
+Discovering Your Claude Baseline Settings
+Creating Your First Project Configuration
+Personal Overrides with Local Settings
+Automating Safe Commands with Allow Patterns
+Unit 4
+5 practices
+38 min
+Mastering Error Recovery
+Recovering from Ambiguous Deletion Requests
+Rewinding Through a Multi Step Mistake
+Clearing Context to Fix Confusion
