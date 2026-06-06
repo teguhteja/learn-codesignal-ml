@@ -1,0 +1,26 @@
+Unit 1
+5 practices
+38 min
+Custom Slash Commands
+Unit 2
+5 practices
+38 min
+Managing Tool Permissions
+Configuring Auto Approval for Safe Tools
+Adding Pattern Based Confirmation Rules
+Enforcing Permissions with CLI Flags
+Understanding Permission Priority with Overlapping Rules
+Unit 3
+5 practices
+38 min
+Plan Mode Task Delegation
+Preview Before You Leap with Plans
+Delegating Verbose Work to Task Subagents
+Unit 4
+5 practices
+38 min
+Web Access Tool Optimization
+Discovering WebSearch and WebFetch Together
+Securing Web Access with Domain Controls
+Choosing the Right Tool Wisely
+Batching Operations and Session Persistence
