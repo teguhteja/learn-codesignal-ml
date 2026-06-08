@@ -1,0 +1,24 @@
+Unit 1
+5 practices
+38 min
+Understanding Claude Skills
+Discovering the Skills System Foundation
+Unit 2
+5 practices
+38 min
+Creating Practical Skills
+Building Your First Skill File
+Building a CSV Analysis Skill
+Enforcing Publication Standards with Skills
+Unit 3
+5 practices
+38 min
+Advanced Skill Design Patterns
+Building Complex Multi Phase Workflows
+Debugging and Fixing Broken Skills
+Unit 4
+5 practices
+38 min
+Orchestrating Multi Skill Workflows
+Building Your First Multi Skill Pipeline
+Debugging a Broken Skill Workflow
