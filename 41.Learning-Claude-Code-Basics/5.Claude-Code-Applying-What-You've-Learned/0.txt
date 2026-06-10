@@ -1,4 +1,3 @@
-Extending Claude's Capabilities with Agent Skills
 Unit 1
 3 practices
 13 min
@@ -14,8 +13,8 @@ Adding Your First API Field
 Adding Tags and Query Filtering
 Adding Multi Component API Features
 Unit 3
-2 practices
-10 min
+3 practices
+13 min
 Practicing Error Recovery
 Recovering from Overly Strict Validation
 Fixing Bugs in Completion Tracking
