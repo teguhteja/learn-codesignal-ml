@@ -1,0 +1,34 @@
+Unit 1
+5 practices
+38 min
+Getting Started with Anthropic API
+Making Your First Claude Request
+Extracting Key Information from Responses
+Building Multi Turn Conversations with Claude
+Handling Multiple Content Blocks Safely
+Exploring Claude's Internal Thinking Process
+Unit 2
+5 practices
+38 min
+Breaking Down Tasks with Prompt Chaining
+Building Your First Chain Link
+Adding Guardrails to Your Chain
+Tightening Guardrails for Better Control
+Completing Your Translation Chain Link
+Adding Quality Review to Your Chain
+Unit 3
+5 practices
+38 min
+Building Intelligent Task Routers
+Writing a Task Router Prompt
+Mapping Router Decisions to Specialists
+Completing the Intelligent Routing Workflow
+Enhancing Router Decisions with Extended Thinking
+Scaling Routing Systems with New Specialists
+Unit 4
+3 practices
+26 min
+Speeding Up Workflows with Parallelization
+Converting Sync to Async Claude Calls
+Building a Parallel Claude Workflow
+Adding Result Synthesis to Parallel Workflows

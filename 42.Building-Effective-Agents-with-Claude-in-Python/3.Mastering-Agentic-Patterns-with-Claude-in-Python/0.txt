@@ -1,0 +1,8 @@
+Course 3
+Mastering Agentic Patterns with Claude in Python
+3 lessons
+12 practices
+
+Build sophisticated multi-agent systems where specialized agents collaborate to solve complex problems. Learn patterns for agent coordination, orchestration, and delegation to create systems greater than the sum of their parts.
+
+URL: https://codesignal.com/learn/courses/mastering-agentic-patterns-with-claude

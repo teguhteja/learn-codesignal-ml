@@ -1,0 +1,8 @@
+Course 2
+Developing Claude Agents with Tool Integration in Python
+4 lessons
+19 practices
+
+Discover how to enhance Claude's capabilities by integrating custom tools and functions. Progress from creating tool schemas to building autonomous agents that can interact with external systems through iterative tool use.
+
+URL: https://codesignal.com/learn/courses/developing-claude-agents-with-tool-integration
