@@ -1,60 +1,40 @@
 """Web scraper for CodeSignal course structure.
 
-This script parses course information from a local HTML file.
+This script fetches and parses course information from a CodeSignal URL using Playwright.
 
 Usage:
-    python codesignal_scraper.py --local output.md <course_url> output.txt
+    python codesignal_scraper.py <output_file> <course_url>
 
 Example:
-    python codesignal_scraper.py --local output.md "https://codesignal.com/learn/courses/exploring-workflows-with-claude" output.txt
+    python codesignal_scraper.py course/0.txt https://codesignal.com/learn/courses/exploring-workflows-with-claude
 """
 
 import sys
 import re
 from pathlib import Path
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 
-def parse_course_from_html(html_path, course_url=None):
-    """Parse course structure from local HTML file.
-
-    Args:
-        html_path: Path to the HTML file
-        course_url: Optional course URL to filter specific course content
-    """
-    with open(html_path, 'r', encoding='utf-8') as f:
-        html_content = f.read()
-
+def parse_course_from_html(html_content):
+    """Parse course structure from HTML content."""
     soup = BeautifulSoup(html_content, 'html.parser')
     results = []
 
-    # Find all accordions (course detail sections)
     accordions = soup.find_all('div', attrs={'data-headlessui-state': True})
 
     for accordion in accordions:
-        # Check if this accordion is related to the specified course URL
-        if course_url:
-            # Find links in this accordion
-            links = accordion.find_all('a', href=True)
-            course_links = [a for a in links if course_url.split('/')[-1] in a.get('href', '')]
-            if not course_links:
-                continue
-
-        # Find unit header within this accordion
         unit_header = accordion.find('div', class_=lambda x: x and 'text-h-2xs' in x)
         if not unit_header:
             continue
 
         unit_text = unit_header.get_text(strip=True)
-        # Clean up HTML comments
         unit_text = re.sub(r'<!--.*?-->', '', unit_text).strip()
 
-        # Extract unit number
         unit_match = re.search(r'Unit\s*(\d+)', unit_text, re.IGNORECASE)
         if unit_match:
             results.append(f"Unit {unit_match.group(1)}")
 
-            # Find practice count and time from text-2xs class divs
             practice_divs = accordion.find_all('div', class_=lambda x: x and 'text-2xs' in x)
 
             for div in practice_divs:
@@ -73,7 +53,6 @@ def parse_course_from_html(html_path, course_url=None):
                         results.append(f"{num_match.group(1)} min")
                         break
 
-            # Find practice names - look for divs with text-theme-strong text-xs class
             practice_names = accordion.find_all('div', class_=lambda x: x and 'text-theme-strong' in x and 'text-xs' in x)
             for name_div in practice_names:
                 name_text = name_div.get_text(strip=True)
@@ -83,23 +62,50 @@ def parse_course_from_html(html_path, course_url=None):
     return results
 
 
+def scrape_course(url):
+    """Scrape course structure from URL using Playwright."""
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+
+        print(f"Loading: {url}")
+        page.goto(url, wait_until='networkidle', timeout=60000)
+
+        # Expand all collapsed accordions
+        page.wait_for_timeout(1000)
+        accordions = page.query_selector_all('[data-headlessui-state]')
+        print(f"Found {len(accordions)} accordion elements")
+        for accordion in accordions:
+            state = accordion.get_attribute('data-headlessui-state')
+            if not state or 'open' not in state:
+                try:
+                    accordion.click()
+                    page.wait_for_timeout(300)
+                except Exception:
+                    pass
+
+        page.wait_for_timeout(500)
+        html_content = page.content()
+        browser.close()
+
+    return parse_course_from_html(html_content)
+
+
 def main():
-    if len(sys.argv) < 4 or sys.argv[1] != '--local':
-        print("Usage: python codesignal_scraper.py --local <html_file> <course_url> <output_file>")
-        print("\nExample:")
-        print('  python codesignal_scraper.py --local output.md "https://codesignal.com/learn/courses/exploring-workflows-with-claude" output.txt')
+    if len(sys.argv) < 3:
+        print("Usage: python codesignal_scraper.py <output_file> <course_url>")
         sys.exit(1)
 
-    html_file = sys.argv[2]
-    course_url = sys.argv[3] if len(sys.argv) > 4 else None
-    output_path = Path(sys.argv[-1])
+    output_file = sys.argv[1]
+    url = sys.argv[2]
 
-    print(f"Parsing local file: {html_file}")
-    if course_url:
-        print(f"Course URL: {course_url}")
+    content = scrape_course(url)
 
-    content = parse_course_from_html(html_file, course_url)
+    if not content:
+        print("No course content found. The page structure may have changed.")
+        sys.exit(1)
 
+    output_path = Path(output_file)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(output_path, 'w', encoding='utf-8') as f:

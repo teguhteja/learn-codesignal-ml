@@ -1,8 +1,35 @@
-Course 2
-Developing Claude Agents with Tool Integration in Python
-4 lessons
-19 practices
-
-Discover how to enhance Claude's capabilities by integrating custom tools and functions. Progress from creating tool schemas to building autonomous agents that can interact with external systems through iterative tool use.
-
-URL: https://codesignal.com/learn/courses/developing-claude-agents-with-tool-integration
+Unit 1
+4 practices
+32 min
+Writing Tool Schemas for Claude
+Building a Well Documented Tool Function
+Writing a Tool Schema for Claude
+Working with Multiple Tools
+Mapping Schema Tools to Functions
+Unit 2
+5 practices
+38 min
+Understanding How Claude Uses Tools
+Making Tools Available to Claude
+Guiding Claude with System Prompts
+Parsing Claude's Tool Use Responses
+Observing Multiple Tool Requests Together
+Using Different Tool Types Together
+Unit 3
+4 practices
+32 min
+Completing the Tool Use Cycle
+Detecting Claude Tool Use Requests
+Executing Tools and Formatting Results
+Completing Tool Execution Cycle
+Visualizing Complete Conversation History Flow
+Unit 4
+6 practices
+44 min
+Building an Autonomous Claude Agent
+Setting the Agent Foundation
+Building the Tool Execution Engine
+Understanding Basic Stateless Design
+Implementing the Autonomous Agent Loop
+Completing the Autonomous Agent Loop
+Testing Agent Limits with Complex Equations

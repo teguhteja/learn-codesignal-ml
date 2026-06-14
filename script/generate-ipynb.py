@@ -76,10 +76,11 @@ def generate_notebooks(input_file):
     with open(input_path, 'r', encoding='utf-8') as f:
         lines = f.read().splitlines()
     
+    output_dir = input_path.parent
     current_file = None
     lesson_started = False
     last_line = ""
-    
+
     for i, line in enumerate(lines):
         line = line.strip()
         
@@ -112,7 +113,7 @@ def generate_notebooks(input_file):
             else:
                 filename = f"{unit_number}.ipynb"
             
-            current_file = filename
+            current_file = output_dir / filename
             
             # Create new notebook
             notebook = create_notebook(lines)
