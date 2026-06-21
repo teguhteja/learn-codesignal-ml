@@ -1,8 +1,24 @@
-Course 4
-Parallelizing Claude Agentic Systems in Python
-3 lessons
-12 practices
-
-Scale Claude-powered systems to handle high-throughput workloads through asynchronous programming. Master async function execution, concurrent API calls, and parallel tool processing. Learn to support multiple specialized agents working simultaneously, enabling efficient multi-task processing and coordination without blocking on individual requests.
-
-URL: https://codesignal.com/learn/courses/parallelizing-claude-agentic-systems-in-python
+Unit 1
+5 practices
+38 min
+Going Async with Claude Agents
+Observing Sequential Agent Execution Patterns
+Adding Async Syntax Without Async Client
+Completing the Async Agent Transformation
+Calling Your Async Agent Correctly
+Orchestrating Concurrent Agent Conversations
+Unit 2
+4 practices
+32 min
+Implementing Async Tool Execution
+Making Tool Execution Async
+Testing Parallel Tool Execution
+Integrating Parallel Tool Execution
+Creating a Synchronous Agent Wrapper
+Unit 3
+3 practices
+26 min
+Orchestrating Parallel Agent Systems
+Completing the Parallel Agent Orchestrator
+Exploring Async vs Sync Agent Tools
+Making Agent Tools Fully Asynchronous
