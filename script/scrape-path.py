@@ -2,21 +2,21 @@
 
 This script:
 1. Scrapes a CodeSignal learning path page to get course information
-2. Can also parse from a saved HTML file (for pages requiring JavaScript)
-3. Creates folders with course names (with sequence number prefix)
-4. Generates .ipynb files for each course
+2. Creates folders with course names (with sequence number prefix)
+3. Generates .ipynb files for each course
 
 Usage:
-    python scrape_path.py "https://codesignal.com/learn/paths/..." [output_folder] [--local html_file]
-    python scrape_path.py --local output.md [output_folder]
+    python scrape_path.py "https://codesignal.com/learn/paths/..." --output .
 """
 
+import argparse
 import sys
 import re
 import json
 import requests
 from pathlib import Path
 from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 
 def parse_html_content(html_content):
@@ -108,14 +108,15 @@ def parse_html_content(html_content):
 
 def scrape_path_page(url):
     """Scrape course list from a CodeSignal learning path page."""
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
-    
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    
-    return parse_html_content(response.text)
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.goto(url, wait_until="networkidle", timeout=60000)
+        page.wait_for_timeout(1000)
+        html_content = page.content()
+        browser.close()
+
+    return parse_html_content(html_content)
 
 
 def create_course_structure(base_path, path_data):
@@ -152,39 +153,27 @@ def create_course_structure(base_path, path_data):
 
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python scrape_path.py <path_url> [output_folder] [--local html_file]")
-        print("       python scrape_path.py --local <html_file> [output_folder]")
-        print("\nExample:")
-        print('  python scrape_path.py "https://codesignal.com/learn/paths/..."')
-        print('  python scrape_path.py --local output.md')
-        sys.exit(1)
-    
-    use_local = False
-    html_file = None
-    output_folder = "."
-    url = None
-    
-    if sys.argv[1] == '--local':
-        use_local = True
-        html_file = sys.argv[2]
-        output_folder = sys.argv[3] if len(sys.argv) > 3 else "."
-    else:
-        url = sys.argv[1]
-        output_folder = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith('--') else "."
-        if len(sys.argv) > 3 and sys.argv[2] == '--local':
-            html_file = sys.argv[3]
-            use_local = True
-    
     try:
-        if use_local and html_file:
-            print(f"Parsing local file: {html_file}")
-            with open(html_file, 'r', encoding='utf-8') as f:
-                html_content = f.read()
-            path_data = parse_html_content(html_content)
-        else:
-            print(f"Scraping: {url}")
-            path_data = scrape_path_page(url)
+        parser = argparse.ArgumentParser(
+            prog="scrape-path.py",
+            description="Scrape a CodeSignal learning path (or parse a saved HTML file) and create course folders.",
+        )
+        parser.add_argument(
+            "path_url",
+            help="Path URL, e.g. https://codesignal.com/learn/paths/building-effective-agents-claude-python",
+        )
+        parser.add_argument(
+            "-o",
+            "--output",
+            dest="output_folder",
+            default=".",
+            help="Output folder where the path directory will be created (default: current directory).",
+        )
+
+        args = parser.parse_args()
+
+        print(f"Scraping: {args.path_url}")
+        path_data = scrape_path_page(args.path_url)
         
         print(f"\nPath: {path_data['path_title']}")
         print(f"Courses found: {len(path_data['courses'])}")
@@ -194,7 +183,7 @@ def main():
             print(f"     Lessons: {course['lessons']}, Practices: {course['practices']}")
             print(f"     URL: {course['url']}")
         
-        result_folder = create_course_structure(output_folder, path_data)
+        result_folder = create_course_structure(args.output_folder, path_data)
         print(f"\nStructure created in: {result_folder}")
         
     except Exception as e:

@@ -1,0 +1,31 @@
+Unit 1
+21 min
+What is the Claude Agent SDK?
+Discovering Claude Code Powers
+Unit 2
+6 practices
+66 min
+Streaming One-Shot Queries
+Getting Familiar with anyio
+Your First Streaming Agent Call
+Extracting Text from Agent Responses
+Discovering Agent Tool Permission Limits
+Extracting Metrics from Agent Interactions
+Understanding Stateless Agent Query Calls
+Unit 3
+4 practices
+48 min
+Customizing Agents with ClaudeAgentOptions
+Configuring Your First Agent Model
+Comparing Model Performance and Cost
+Configuring a Terse Engineer Persona
+Observing Agent Behavior at Turn Limits
+Unit 4
+5 practices
+57 min
+Enabling Built-In Tools
+Observing Agent Tool Calls in Action
+Displaying Tool Execution Results
+Unlocking Your Agent's Action Potential
+Granting Broader Tool Permission
+Setting the Agent Working Directory

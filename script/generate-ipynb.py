@@ -13,6 +13,47 @@ import re
 from pathlib import Path
 
 
+def sanitize_filename_component(name):
+    name = name.strip()
+    name = re.sub(r'[<>:"/\\\\|?*]', '-', name)
+    name = re.sub(r'[\x00-\x1f]', '-', name)
+    name = re.sub(r'\s+', ' ', name).strip()
+    name = name.rstrip('. ')
+
+    if not name:
+        return "untitled"
+
+    upper = name.upper()
+    reserved = {
+        "CON",
+        "PRN",
+        "AUX",
+        "NUL",
+        "COM1",
+        "COM2",
+        "COM3",
+        "COM4",
+        "COM5",
+        "COM6",
+        "COM7",
+        "COM8",
+        "COM9",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LPT7",
+        "LPT8",
+        "LPT9",
+    }
+    if upper in reserved:
+        return f"_{name}"
+
+    return name
+
+
 def should_skip_line(line):
     """Check if line should be skipped (contains practices, min, or Preview)."""
     line = line.strip()
@@ -107,8 +148,7 @@ def generate_notebooks(input_file):
             
             # Create filename: Unit number + next valid line
             if next_valid_line:
-                # Replace spaces and slashes with hyphens
-                safe_name = next_valid_line.replace(" ", "-").replace("/", "-")
+                safe_name = sanitize_filename_component(next_valid_line).replace(" ", "-")
                 filename = f"{unit_number}.{safe_name}.ipynb"
             else:
                 filename = f"{unit_number}.ipynb"

@@ -1,0 +1,24 @@
+Unit 1
+4 practices
+48 min
+Intercepting Agent Execution with Hooks
+Building Your First Agent Hook
+Blocking Dangerous Prompts with a Custom Guardrail Hook
+Creating a Simple Tool Logger Hook
+Building Your First Bash Safety Hook
+Unit 2
+4 practices
+48 min
+Project Configuration with Source Files
+Creating Your First Agent Configuration
+Configuration Hierarchy with Multiple Files
+Personal Configuration with Local Overrides
+Understanding System Prompt Override Behavior
+Unit 3
+4 practices
+48 min
+Extending Claude with Skills
+Triggering Your First Agent Skill
+Updating References to Renamed Skills
+Discovering Skills Through Natural Prompts
+Building Your First Custom Skill

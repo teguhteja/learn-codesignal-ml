@@ -1,0 +1,34 @@
+Unit 1
+5 practices
+57 min
+Maintaining Agent State with ClaudeSDKClient
+From Stateless Queries to Session Clients
+Building a Reusable Response Display Helper
+Verifying Session State with Follow-Up Queries
+Manual Session Lifecycle with Connect and Disconnect
+Interrupting Agents for Better Control
+Unit 2
+4 practices
+48 min
+Integrating External MCP Servers
+Guiding Your Agent Towards MCP Tools
+Troubleshooting MCP Tool Access
+Renaming Servers for Better Clarity
+Connecting External Documentation Search Tools
+Unit 3
+4 practices
+48 min
+Creating Custom MCP Tools
+Testing Planning Tools Manually
+Decorating Functions as MCP Tools
+Connecting Your First Custom Tools
+Configuring Agent for File Organization Task
+Unit 4
+5 practices
+57 min
+Building Multi Agent Systems
+Creating Your First Agent Specialist
+Delegating Analysis to Your Specialist
+Observing Agent Delegation in Action
+Building Your Code Review Team
+Delegating MCP Tools to Specialists
