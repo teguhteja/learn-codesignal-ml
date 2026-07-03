@@ -1,0 +1,22 @@
+Unit 1
+3 practices
+39 min
+Capstone Project Kickoff
+Building Your Application Blueprint
+Generate and Refine Functional Specification
+Building Your Technical Orchestration Framework
+Unit 2
+4 practices
+48 min
+Orchestrated Multi Task Execution
+Initialize RecipeBox Foundation Models
+Complete Data Layer and One Route or Orchestration Cycle
+Implement Advanced Recipe Services
+Run One Orchestration Cycle and Quality Step
+Unit 3
+3 practices
+39 min
+Reflecting on SDD Mastery
+Writing User Focused Feature Descriptions
+Documenting Critical Architecture Decisions
+Calculating Real Development Efficiency Gains

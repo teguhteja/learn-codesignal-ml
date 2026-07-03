@@ -1,0 +1,36 @@
+Unit 1
+4 practices
+48 min
+Technical Plans: Bridging Specification and Implementation
+Break Down Task Comments into Atomic Tasks
+Execute Task Comments with Test-First Workflow
+Debug Task Scope Creep
+When Do You Need a Technical Plan?
+Unit 2
+3 practices
+39 min
+Atomic Task Design
+Analyzing Three Task Decomposition Approaches
+Analyzing Task Attachments Decomposition
+Creating Task Tags Decomposition from Scratch
+Unit 3
+3 practices
+39 min
+Breaking Down Task Comments
+Your First Atomic Task Execution
+Building the Repository Layer with Mocks
+Spotting and Splitting Bloated Tasks
+Unit 4
+3 practices
+39 min
+Building Multi Component Systems
+Write Technical Plan for Task Attachments
+Decompose into 13 Tasks with Dependency Graph
+Building a File Attachment System
+Unit 5
+3 practices
+39 min
+Parallel Execution and Handoffs
+Identifying Parallel Tasks and Critical Paths
+Planning and Building Bulk Status Updates
+Real-Time Notifications with Three Tracks

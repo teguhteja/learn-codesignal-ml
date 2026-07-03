@@ -1,0 +1,38 @@
+Unit 1
+3 practices
+39 min
+Understanding Spec Driven Development
+Integration Failure Analysis
+Conversation Analysis - When Do You Need a Spec?
+Spotting Ambiguous Requirements
+Unit 2
+4 practices
+48 min
+Building Project Constitutions
+Create and Validate Project Constitution
+AI Drift Recovery Patterns
+Constitution Enhancement - Add Pagination Standard
+Constitution Evolution - Adding New Patterns
+Unit 3
+3 practices
+39 min
+PRD as Persistent Documentation
+Analyze PRD vs Specification Differences
+Generate Architecture-Aware PRD with Claude
+PRD Review and Business Validation
+Unit 4
+4 practices
+48 min
+Complete Specification Breakdown
+Spec Scavenger Hunt - Reading TaskMaster Specifications
+Feature Requirements Analysis - What's Missing?
+Spotting Gaps in Incomplete Specifications
+Identifying Missing Specification Sections
+Unit 5
+4 practices
+48 min
+AI-Assisted Specification Generation and Review
+Generate and Refine Functional Specification
+Detecting Ambiguous Language and Vague Terms
+Compare and Consolidate AI Specifications
+AI-Assisted Multi-Dimension Evaluation

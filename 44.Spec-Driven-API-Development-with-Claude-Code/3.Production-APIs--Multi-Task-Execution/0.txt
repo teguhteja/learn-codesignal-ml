@@ -1,0 +1,38 @@
+Unit 1
+3 practices
+39 min
+Context Decay Problem and Agent Solution
+Execute Feature Without and With Orchestration
+Create and Test Context Reporter Agent
+Build Three-Level Validation Strategy
+Unit 2
+4 practices
+48 min
+Specialized Agent Design
+Build Your Task Executor Agent
+Build Your Test Enhancement Agent
+Create Orchestration Template
+Execute 6-Task Feature with Full Orchestration
+Unit 3
+4 practices
+48 min
+Two-Track Parallel Development
+Analyzing Features for Parallel Development
+Building the Shared Foundation
+Building Two Features Side by Side
+Detecting and Resolving Parallel Work Conflicts
+Unit 4
+4 practices
+48 min
+Coverage and Security Review
+Closing the Gaps in Test Coverage
+Performing a Security Audit
+Building a Performance Testing Script
+Creating a Production Quality Checklist
+Unit 5
+3 practices
+39 min
+Documenting Architecture Decisions
+Build an ADR-Writing Agent
+Build a Documentation Audit Agent
+Complete Documentation for Production Deployment

@@ -1,14 +1,9 @@
 """Web scraper for CodeSignal course structure.
 
 This script fetches and parses course information from a CodeSignal URL using Playwright.
-
-Usage:
-    python codesignal_scraper.py <output_file> <course_url>
-
-Example:
-    python codesignal_scraper.py course/0.txt https://codesignal.com/learn/courses/exploring-workflows-with-claude
 """
 
+import argparse
 import sys
 import re
 from pathlib import Path
@@ -92,12 +87,30 @@ def scrape_course(url):
 
 
 def main():
-    if len(sys.argv) < 3:
-        print("Usage: python codesignal_scraper.py <output_file> <course_url>")
-        sys.exit(1)
+    parser = argparse.ArgumentParser(
+        prog="scrape-url-list-learn.py",
+        description="Scrape a CodeSignal course page and save the unit/lesson list into a text file.",
+        epilog=(
+            "Example:\n"
+            "  python scrape-url-list-learn.py "
+            "\"course/0.txt\" "
+            "\"https://codesignal.com/learn/courses/exploring-workflows-with-claude\""
+        ),
+        formatter_class=argparse.RawTextHelpFormatter,
+    )
+    parser.add_argument(
+        "output_file",
+        help="Path to the output text file, e.g. course/0.txt",
+    )
+    parser.add_argument(
+        "course_url",
+        help="CodeSignal course URL to scrape",
+    )
 
-    output_file = sys.argv[1]
-    url = sys.argv[2]
+    args = parser.parse_args()
+
+    output_file = args.output_file
+    url = args.course_url
 
     content = scrape_course(url)
 
