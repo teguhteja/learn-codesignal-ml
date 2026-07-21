@@ -1,0 +1,38 @@
+Unit 1
+4 practices
+16 min
+Creating and Managing a Story Prompt Template
+Reading and Displaying a Story Prompt Template in Python
+Implementing Prompt Formatting for Story Generation
+Testing Error Handling in PromptManager
+Comprehensive PromptManager Testing
+Unit 2
+4 practices
+16 min
+Building and Managing the Story Manager
+Fix the get_story_by_id Method in StoryManager Class
+Testing the StoryManager with Multiple Stories
+Implementing Error Handling for Invalid Story IDs
+Implementing Keyword Search for Story Manager
+Unit 3
+3 practices
+13 min
+Generating and Managing Stories with the StoryGeneratorService
+Adding Input Validation to StoryGeneratorService
+Implementing Mock Responses for Story Generator Testing
+Implementing Structured Error Logging in the Story Generator Service
+Unit 4
+4 practices
+16 min
+Implementing the Story Generator Controller
+Implementing Input Validation for Story Generator
+Implementing Error Handling in the Story Generator Controller
+Implementing Structured JSON Responses in the Story Generator API
+Creating Integration Tests for Story Generator Controller
+Unit 5
+3 practices
+13 min
+Building a FastAPI Application for the Short Story Generator
+Implementing a Health Check Endpoint in FastAPI
+Implementing CORS for our Story Generation API
+Implementing Custom 404 Error Handler in FastAPI

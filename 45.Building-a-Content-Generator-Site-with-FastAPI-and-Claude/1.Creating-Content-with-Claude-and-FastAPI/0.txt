@@ -1,0 +1,34 @@
+Unit 1
+5 practices
+19 min
+Generating Simple Content with Claude
+Setting Up Your Anthropic Client
+Crafting Your First AI Prompt
+Making Your First API Call
+Extracting and Displaying Generated Content
+Tuning Parameters for Better Content Results
+Unit 2
+5 practices
+19 min
+Crafting Effective Prompts for Desired Outputs
+Enhancing Prompts for Better Results
+Comparing Basic and Detailed Prompt Results
+Refactoring Prompt Code for Maintainability
+Adding Error Handling to API Calls
+Building an Interactive Prompt Generator
+Unit 3
+3 practices
+13 min
+Exploring Styles with Tone Modifiers
+Expanding Your Style Tone Palette
+Timing the Content Generation Flow
+Storing Results Before Displaying Content
+Unit 4
+5 practices
+19 min
+Using Contextual Modifiers in Content Generation
+Iterating Through Contextual Modifiers List
+Expanding Your Contextual Modifiers Collection
+Simulating API Responses for Testing
+Adding Better Error Handling to API Calls
+Creating Interactive Content Selection Menus

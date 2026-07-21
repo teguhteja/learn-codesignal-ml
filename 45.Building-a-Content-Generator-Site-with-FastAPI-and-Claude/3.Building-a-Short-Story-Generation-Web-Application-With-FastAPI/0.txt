@@ -1,0 +1,37 @@
+Unit 1
+6 practices
+22 min
+Setting Up the HTML Structure and Project Layout with FastAPI
+Mounting the Static Directory
+Creating the HTML Document Foundation
+Adding Tab Navigation to Interface
+Building the Story Generation Form
+Creating the Story History Interface
+Linking JavaScript to Complete the Interface
+Unit 2
+5 practices
+19 min
+Styling the User Interface with FastAPI Static Files
+Setting Up Basic Page Styling
+Creating a Responsive Content Container
+Styling Interactive Navigation Tabs
+Enhancing Form Elements for User Interaction
+Styling Content for Story Display Areas
+Unit 3
+5 practices
+19 min
+Handling User Input and Building API Endpoints with FastAPI
+Implementing Tab Navigation with DOM Manipulation
+Accessing DOM Elements for Story Generation
+Adding Validation and UI Feedback
+Connecting Frontend to Backend with Fetch
+Handling API Responses and Displaying Content
+Unit 4
+5 practices
+19 min
+Adding a Story History Tab and API Endpoint with FastAPI
+Setting Up the History Interface
+Initializing the History Loading Function
+Implementing API Calls for History Tab
+Displaying Stories from API Response
+Adding Error Handling to History Tab
