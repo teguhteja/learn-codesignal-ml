@@ -1,0 +1,29 @@
+Unit 1
+4 practices
+32 min
+Estimating Homography with RANSAC
+Preparing Points for Homography Estimation
+Completing the Homography Estimator
+Wiring Up the Command Line
+Running the Full Alignment Pipeline
+Unit 2
+3 practices
+26 min
+Visualize Inliers and Outliers
+Diagnosing Alignment Quality from Matches
+Reporting Match Statistics in Main
+Showing Inliers and Outliers Side by Side
+Unit 3
+3 practices
+26 min
+Warping Images into Alignment
+Mapping Corners Across Two Images
+Building the Full Warp Pipeline
+Previewing the Aligned Image Blend
+Unit 4
+3 practices
+26 min
+Tune the Alignment
+Sweeping Through Ratio Values
+Sweeping Through RANSAC Thresholds
+Quiz on Parameter Sweep Basics

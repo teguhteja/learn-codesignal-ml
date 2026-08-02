@@ -1,0 +1,38 @@
+Unit 1
+0 practices
+8 min
+Conceptually designing our Image Stitcher Pipeline
+Unit 2
+4 practices
+32 min
+See Corner Structure with Harris
+Setting Up the Command Line Interface
+Painting Corners onto the Image
+Wiring the Harris Pipeline Together
+Tuning the Harris Detector Parameters
+Unit 3
+5 practices
+38 min
+Create the Feature Detector Module
+Wiring Up the Command Line
+Building the Feature Detector Factory
+Detecting Keypoints and Computing Descriptors
+Bringing the Detection Pipeline to Life
+Timing the Three Detectors
+Unit 4
+5 practices
+38 min
+Match Descriptors Between Two Views
+Choosing the Right Feature Detector
+Detecting Keypoints and Computing Descriptors
+Matching Descriptors with Lowes Ratio Test
+Wiring Up the Matching Pipeline
+Tuning the Matching Report Defaults
+Unit 5
+4 practices
+32 min
+Build a Matching Report
+Parsing Arguments for the Report
+Gathering the Matching Report Data
+Writing the Diagnostic Function
+Showing the Final Matching Report

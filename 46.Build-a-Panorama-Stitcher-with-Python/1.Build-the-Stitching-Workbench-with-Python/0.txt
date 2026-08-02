@@ -1,0 +1,31 @@
+Unit 1
+5 practices
+38 min
+Loading and Displaying Images
+Loading Your First Image Safely
+Inspecting Image Properties at a Glance
+Shrinking Images for a Cleaner Preview
+Bringing the Preview Window to Life
+Testing the tool
+Unit 2
+6 practices
+44 min
+Building The CV Toolkit
+Loading Color Images from Disk
+Guaranteeing Three Channels for Every Image
+Stamping Labels on Every Image
+Padding Images to a Target Height
+Assembling the Preview Panel
+Showing Two Tiles Side by Side
+Unit 3
+4 practices
+32 min
+Preparing Images for Feature Detection
+Boosting Contrast for Sharper Features
+Comparing CLAHE Parameter Sweeps
+Smoothing Out the Noisy Grain
+Comparing Blur Strengths Side by Side
+Unit 4
+14 min
+Inspect an Image Pair
+Finding a Good Pair of Images

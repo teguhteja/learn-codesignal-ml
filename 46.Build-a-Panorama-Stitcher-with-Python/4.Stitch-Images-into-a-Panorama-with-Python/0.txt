@@ -1,0 +1,21 @@
+Unit 1
+3 practices
+26 min
+Compositing Aligned Images
+Blending Two Canvases into One
+Trimming Away the Empty Borders
+Wiring the Stitching Pipeline Together
+Unit 2
+3 practices
+26 min
+Building the Pair Stitcher
+Diagnosing the Quality of a Stitch
+Building the Master Stitch Function
+Wiring the Stitcher into Action
+Unit 3
+3 practices
+26 min
+Sequential Panorama Stitching
+Reporting Every Stitch Step
+Building the Stitching Loop
+Watch Your Panorama Come Together
