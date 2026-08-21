@@ -16,7 +16,7 @@ import json
 import requests
 from pathlib import Path
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 
 def parse_html_content(html_content):
@@ -32,7 +32,10 @@ def parse_html_content(html_content):
         path_title = "Unknown Path"
     
     # Find all course cards - look for the specific card structure
-    course_cards = soup.find_all('div', class_=lambda x: x and 'rounded-8' in x and 'bg-white' in x)
+    course_cards = soup.find_all(
+        'div',
+        class_=lambda x: x and 'rounded-8' in x and 'border-1.5' in x and 'p-12' in x,
+    )
     
     for card in course_cards:
         # Find the course number label
@@ -111,7 +114,11 @@ def scrape_path_page(url):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto(url, wait_until="networkidle", timeout=60000)
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        try:
+            page.wait_for_selector("#courses", timeout=30000)
+        except PlaywrightTimeoutError:
+            pass
         page.wait_for_timeout(1000)
         html_content = page.content()
         browser.close()
