@@ -1,8 +1,36 @@
-Course 2
-Building Serverless Applications
-4 lessons
-20 practices
-
-Design event-driven, fully managed applications on AWS. You’ll build Lambda functions fronted by Amazon API Gateway, define infrastructure with AWS SAM, run locally, deploy to the cloud, and orchestrate multi-step workflows with Step Functions.
-
-URL: https://codesignal.com/learn/courses/building-serverless-applications
+Unit 1
+5 practices
+38 min
+Lambda and API Gateway Basics
+Modify Lambda Tax Calculation Rate
+Fix the Broken API Response
+Enhance Lambda Response with Tax Rate
+Add Input Validation to Lambda Function
+Convert Tax Calculator to Tip Calculator
+Unit 2
+5 practices
+38 min
+Deploying Serverless APIs
+Fix the Broken API Configuration
+Fix the Test Event Data
+Complete the Lambda Function Properties
+Add SAM Template Outputs Section
+Build Complete Serverless Application from Scratch
+Unit 3
+5 practices
+38 min
+Orchestrating Serverless Workflows
+Fix the Validation Bug
+Maintaining Data Flow Across Workflows
+Adding Error Handling to Workflows
+Extending Workflows with New Steps
+Building a Complete Returns Workflow
+Unit 4
+5 practices
+38 min
+Direct Step Functions Integration
+Generate Unique Step Function Names
+Add Input Validation Logic
+Transform API Response Format
+Handle Step Functions Error Responses
+Implement Dynamic Workflow Routing

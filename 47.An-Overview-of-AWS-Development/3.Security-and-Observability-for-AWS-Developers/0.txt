@@ -1,8 +1,36 @@
-Course 3
-Security and Observability for AWS Developers
-4 lessons
-20 practices
-
-Secure applications and make them observable. Remove hardcoded secrets by using IAM roles and AWS Secrets Manager, secure API endpoints with a Lambda authorizer, publish custom metrics and dashboards in CloudWatch, and add distributed tracing with X-Ray across API Gateway, Lambda, and DynamoDB.
-
-URL: https://codesignal.com/learn/courses/developer-security-observability
+Unit 1
+5 practices
+38 min
+Secure Credentials Management
+Updating Database Connection Details
+Parsing JSON Secrets from AWS
+Using Constants for Secret Names
+Handling Missing Secrets Gracefully
+Validating Retrieved Secret Data Integrity
+Unit 2
+5 practices
+38 min
+Lambda Authorizer Implementation
+Fix the Broken Authorization Header
+Complete the Token Validation Logic
+Complete the IAM Policy Structure
+Enhance API Response with Context Data
+Add Error Handling and Edge Cases
+Unit 3
+5 practices
+38 min
+CloudWatch Metrics and Dashboards
+Complete Your First CloudWatch Metric
+Adding Metric Dimensions for Better Organization
+Batching Multiple Metrics Efficiently
+Fix Broken Dashboard Widget Configuration
+Build Complete Monitoring Application
+Unit 4
+5 practices
+38 min
+Distributed Tracing with X-Ray
+Configure Your X-Ray Service
+Enable Automatic AWS SDK Tracing
+Add Custom Subsegment Tracing
+Trace Multiple Operations with Subsegments
+Debug Broken X-Ray Integration

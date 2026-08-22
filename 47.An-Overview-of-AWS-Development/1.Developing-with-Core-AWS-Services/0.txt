@@ -1,8 +1,45 @@
-Course 1
-Developing with Core AWS Services
-5 lessons
-25 practices
-
-Get productive with the AWS SDK for Python (boto3) and core services used in most applications. You’ll configure credentials via IAM roles (no hardcoded keys), work with S3 for object storage, DynamoDB for NoSQL CRUD, and SQS/SNS for asynchronous messaging.
-
-URL: https://codesignal.com/learn/courses/developing-with-core-aws-services
+Unit 1
+5 practices
+38 min
+AWS Foundations: Services and the boto3 Pattern
+Initialize Your First AWS Client
+Reading the Response from AWS
+Transfer the Pattern to EC2
+Catching Errors Before They Crash
+Build the Complete Connection Test
+Unit 2
+5 practices
+38 min
+Working with AWS S3
+Customizing S3 File Upload Operations
+Fixing S3 Bucket Creation Logic
+Completing S3 Upload Function Parameters
+Filtering and Formatting S3 Object Lists
+Implementing S3 File Download and Verification
+Unit 3
+5 practices
+38 min
+DynamoDB CRUD Operations
+Fixing DynamoDB Table Creation Timing
+Extracting Data from DynamoDB Responses
+Fixing DynamoDB Update Expression Syntax
+Completing DynamoDB Delete and Verification
+Adding DynamoDB Resource Cleanup
+Unit 4
+5 practices
+38 min
+Developing with SQS and SNS
+Creating Your First AWS Resources
+Fix the Message Producer Bug
+Complete the Message Consumer
+Complete the Messaging Pipeline
+Fix the Order Processing Logic
+Unit 5
+5 practices
+38 min
+EC2 Credentials and IAM Roles
+Adding EC2 Metadata Service Information
+Customizing EC2 Launch Parameters
+Discovering Temporary Credentials in Action
+Validating Metadata Field Retrieval
+Smart Instance State Management
