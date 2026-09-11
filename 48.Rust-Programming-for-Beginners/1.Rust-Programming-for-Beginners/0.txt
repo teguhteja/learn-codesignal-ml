@@ -1,0 +1,63 @@
+Rust Programming for Beginners
+
+Unit 1
+5 practices
+19 min
+Rust Essentials: Writing Your First Program
+Greetings from Rust: Your First Cargo Run
+Personalize Your Rust Welcome Message
+Rust Syntax Debugging Challenge
+First Rust Program: Sending Your Greeting
+Rust Train System Initiation Sequence
+Unit 2
+4 practices
+16 min
+Understanding Rust Variables and Constants
+Exploring Rust Variables with Sports Data
+Defining a Rust Constant for Astronauts
+Navigating Rust Variable Naming and Debugging Challenge
+Rust Variables and Constants: Speed of Light and Moons Counter
+Unit 3
+5 practices
+19 min
+Exploring Basic Data Types in Rust
+Simulated Financial Report Using Rust Data Types
+Precision Time Tracking for Event Completion
+Rust Space Journey: Code Execution and Error Resolution
+FinCo Budget Approval
+Exploring Earth's Environmental Data in Rust
+Unit 4
+4 practices
+16 min
+Understanding Rust Comparison Operators: Navigating Data Conditions in Code
+Classroom Capacity Check Using Rust Comparison Operator
+Determining Submarine Safety Depth in Rust
+Speed Check: Rustacean Submarine vs Ocean Currents
+Navigating the Ocean: Docking and Distance Assessments
+Unit 5
+4 practices
+16 min
+Understanding Rust: Arithmetic and Logical Operations
+Analyzing the Speed and Distance Travelled by a Car
+Submarine Initialization Sequence Validation
+Library Inventory Check and Logical Assessment
+Robot Patrol: Power Check and Logical Analysis
+Unit 6
+5 practices
+19 min
+Mastering Rust Type Conversion
+Temperature Conversion in Rust
+Converting Celsius to String Representation in Rust
+Temperature Conversion Challenge
+Data Type Conversions in Rust: From Integer to String
+Convert String to Float in Rust
+Unit 7
+4 practices
+16 min
+Navigating Rust Control Structures: Conditional Voyage Through Code
+Temperature-Based Weather Classification Challenge
+Rainfall Readiness: Matching Conditions in Rust
+Asteroid Detection Software Diagnostic
+Determining the Coding Climate: a Rusty Weather Check
+
+URL: https://codesignal.com/learn/courses/rust-programming-for-beginners
