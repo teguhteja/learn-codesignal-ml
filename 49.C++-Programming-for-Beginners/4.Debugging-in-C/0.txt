@@ -1,0 +1,41 @@
+Unit 1
+5 practices
+19 min
+Understanding C++ Error Messages
+Fix the Ingredient Counter Logic
+Fix the Total Cost Calculation Program in C++
+Fix the Index Error in Ingredient List
+Fix the Cosmic Pie Ingredients Code
+Fix Null Pointer Dereference in Array Access
+Unit 2
+5 practices
+19 min
+Understanding C++ Syntax Errors
+Fix the Syntax Error in the C++ Program
+Fixing Syntax Errors in Message to the Universe
+Fix the Syntax Error in the C++ Spaceship Code
+Fix the Syntax Error in the Message Program
+Fixing a Minor Syntax Error in C++ Code
+Unit 3
+4 practices
+16 min
+Understanding Logical Errors in C++
+Fix the Logical Error in Factorial Calculation
+Fix the Logical Error in Drink Volume Calculation
+Fixing Logical Errors in Coffee Order Calculation
+Fix the Beverage Volume Calculation
+Unit 4
+4 practices
+16 min
+Understanding and Preventing Runtime Errors in C++
+Avoiding Division by Zero in C++
+Fix the Division by Zero Check
+Handling Division by Zero in C++
+Check and Handle Null Pointer in C++
+Unit 5
+3 practices
+13 min
+Throwing Exceptions in C++
+Handling Specific Exceptions in C++
+Handling Division by Zero Exception in C++
+Handle Multiple Exception Types for Negative and Out-of-Stock Orders

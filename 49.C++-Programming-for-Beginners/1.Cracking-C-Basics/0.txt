@@ -1,0 +1,43 @@
+Unit 1
+5 practices
+19 min
+First C++ Program with an Introduction to Comments
+Your First C++ Program: Greeting the World
+Modify Your First C++ Program Greeting Message
+Space Shuttle Code Debugging Challenge
+Send a Space Camp Greeting in C++
+Cosmic Message: Your First C++ Program
+Unit 2
+4 practices
+16 min
+Exploring Basic C++ Syntax and Data Types
+Exploring Data Types and Variables in C++
+Swap the Favorite Classroom Supply
+Add Classroom Supplies Details to Console Output
+Classroom Pencil Details in C++
+Unit 3
+5 practices
+19 min
+Navigating Inputs, Outputs, and Expressions
+Counting Fruits in the Basket
+Modify Fruit Market Inventory Code
+Fruit Market Inventory Calculation
+Calculate the Total Number of Fruits at the Market
+Fruit Market Inventory Display in C++
+Unit 4
+5 practices
+19 min
+Mastering Control Structures with If, Else, and Switch Statements
+Choosing the Right Table at a Restaurant
+Accommodating a Solo Diner
+Identify and Correct the Code Error
+Writing Case for Mexican Cuisine in a Switch Statement
+Deciding What to Order Based on Time of Day in C++
+Unit 5
+4 practices
+16 min
+Navigating the Logic Maze: Understanding C++ Logical Operators
+Logical Operators in a Classroom Scenario
+Adjust Conditions with Logical AND Operator
+Debug the School Club Eligibility Checker Program
+School Trip Eligibility Checker in C++

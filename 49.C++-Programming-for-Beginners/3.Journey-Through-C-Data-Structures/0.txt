@@ -1,0 +1,56 @@
+Unit 1
+6 practices
+22 min
+Understanding and Using Arrays in C++
+Calculating Class Average Using Arrays in C++
+Accessing the Last Element in an Array
+Correctly Access the First Element of an Array in C++
+Identify and Correct the Array Index Error
+Add New Grade Data to Classroom Array
+Enhance Student Grades Using Arrays in C++
+Unit 2
+6 practices
+22 min
+Exploring the World of C++ Vectors
+Vector Modification in a Library System
+Debugging the Library System Update
+Convert Index-Based Loop to Range-Based Loop
+Add New Book ID Update Logic to Library System
+Fix Vector Out-Of-Bounds Access
+Working with Vector Methods size, empty, and clear
+Unit 3
+6 practices
+22 min
+Navigating the World of C++ Strings
+Craft Your Party Invitation Using C++ Strings
+Personalize the Party Invitation
+Counting Characters in a String
+Capitalize the First Character in a String
+Fix the Party Invitation Code
+Modify and Concatenate Strings
+Unit 4
+5 practices
+19 min
+Navigating Multidimensional Arrays in C++
+Visualizing a Tic-Tac-Toe Board in C++
+Modify the Tic-Tac-Toe Board for a Draw Outcome
+Debugging the Tic-Tac-Toe Board Display
+Add Tic-Tac-Toe Board Initialization
+Displaying a Tic-Tac-Toe Board Using Multidimensional Arrays in C++
+Unit 5
+5 practices
+19 min
+Understanding Sets in C++
+Check Element Existence Using Count Function
+Adding Duplicate Elements to a Set
+Remove and Verify Element in Set
+Manage a To-Do List Using Sets
+Remove duplicates using a set
+Unit 6
+4 practices
+16 min
+Introduction to Maps and Unordered Maps in C++
+Adding a New Student to the Map
+Accessing Map Elements Correctly
+Managing Planet Populations with a Map
+Iterate and Print Car Prices

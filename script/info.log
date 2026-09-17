@@ -1,0 +1,201 @@
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\scrape-path-url-folder.py https://codesignal.com/learn/paths/cpp-programming-for-beginners
+Scraping: https://codesignal.com/learn/paths/cpp-programming-for-beginners
+
+Path: C++ Programming for Beginners
+Courses found: 7
+
+  Course 1. Cracking C++ Basics
+     Lessons: 5, Practices: 23
+     URL: https://codesignal.com/learn/courses/cracking-cpp-basics
+
+  Course 2. C++ Loops and Conditional Statements
+     Lessons: 5, Practices: 24
+     URL: https://codesignal.com/learn/courses/cpp-loops-and-conditional-statements
+
+  Course 3. Journey Through C++ Data Structures
+     Lessons: 6, Practices: 32
+     URL: https://codesignal.com/learn/courses/journey-through-cpp-data-structures
+
+  Course 4. Debugging in C++
+     Lessons: 5, Practices: 21
+     URL: https://codesignal.com/learn/courses/debugging-in-cpp
+
+  Course 5. Mastering Functions in C++
+     Lessons: 5, Practices: 23
+     URL: https://codesignal.com/learn/courses/mastering-functions-in-cpp
+
+  Course 6. Diving Into C++ Classes
+     Lessons: 5, Practices: 26
+     URL: https://codesignal.com/learn/courses/diving-into-cpp-classes
+
+  Course 7. Mastering OOP in C++
+     Lessons: 5, Practices: 26
+     URL: https://codesignal.com/learn/courses/mastering-oop-in-cpp
+Path folder: C++-Programming-for-Beginners
+
+  Course 1: Cracking C++ Basics
+    Folder: 1.Cracking-C-Basics
+    URL: https://codesignal.com/learn/courses/cracking-cpp-basics
+    Lessons: 5, Practices: 23
+
+  Course 2: C++ Loops and Conditional Statements
+    Folder: 2.C-Loops-and-Conditional-Statements
+    URL: https://codesignal.com/learn/courses/cpp-loops-and-conditional-statements
+    Lessons: 5, Practices: 24
+
+  Course 3: Journey Through C++ Data Structures
+    Folder: 3.Journey-Through-C-Data-Structures
+    URL: https://codesignal.com/learn/courses/journey-through-cpp-data-structures
+    Lessons: 6, Practices: 32
+
+  Course 4: Debugging in C++
+    Folder: 4.Debugging-in-C
+    URL: https://codesignal.com/learn/courses/debugging-in-cpp
+    Lessons: 5, Practices: 21
+
+  Course 5: Mastering Functions in C++
+    Folder: 5.Mastering-Functions-in-C
+    URL: https://codesignal.com/learn/courses/mastering-functions-in-cpp
+    Lessons: 5, Practices: 23
+
+  Course 6: Diving Into C++ Classes
+    Folder: 6.Diving-Into-C-Classes
+    URL: https://codesignal.com/learn/courses/diving-into-cpp-classes
+    Lessons: 5, Practices: 26
+
+  Course 7: Mastering OOP in C++
+    Folder: 7.Mastering-OOP-in-C
+    URL: https://codesignal.com/learn/courses/mastering-oop-in-cpp
+    Lessons: 5, Practices: 26
+
+Structure created in: C++-Programming-for-Beginners
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> cd .\49.C++-Programming-for-Beginners\1.Cracking-C-Basics\
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml\49.C++-Programming-for-Beginners\1.Cracking-C-Basics> python ..\..\script\scrape-url-list-learn.py --help
+usage: scrape-url-list-learn.py [-h] output_file course_url
+
+Scrape a CodeSignal course page and save the unit/lesson list into a text file.
+
+positional arguments:
+  output_file  Path to the output text file, e.g. course/0.txt
+  course_url   CodeSignal course URL to scrape
+
+options:
+  -h, --help   show this help message and exit
+
+Example:
+  python scrape-url-list-learn.py "course/0.txt" "https://codesignal.com/learn/courses/exploring-workflows-with-claude"
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml\49.C++-Programming-for-Beginners\1.Cracking-C-Basics> python ..\..\script\scrape-url-list-learn.py .\0.txt https://codesignal.com/learn/courses/cracking-cpp-basics
+Loading: https://codesignal.com/learn/courses/cracking-cpp-basics
+Traceback (most recent call last):
+  File "C:\Users\user\Projects\PythonProjects\learn-codesignal-ml\script\scrape-url-list-learn.py", line 133, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\user\Projects\PythonProjects\learn-codesignal-ml\script\scrape-url-list-learn.py", line 115, in main
+    content = scrape_course(url)
+  File "C:\Users\user\Projects\PythonProjects\learn-codesignal-ml\script\scrape-url-list-learn.py", line 67, in scrape_course
+    page.goto(url, wait_until='networkidle', timeout=60000)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\sync_api\_generated.py", line 9612, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        )
+        ^
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_page.py", line 557, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_frame.py", line 156, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://codesignal.com/learn/courses/cracking-cpp-basics", waiting until "networkidle"
+
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml\49.C++-Programming-for-Beginners\1.Cracking-C-Basics> python ..\..\script\scrape-url-list-learn.py .\0.txt https://codesignal.com/learn/courses/cracking-cpp-basics
+Loading: https://codesignal.com/learn/courses/cracking-cpp-basics
+Output saved to: 0.txt
+Total lines: 43
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml\49.C++-Programming-for-Beginners\1.Cracking-C-Basics> cd ../..                                                                                            
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\scrape-url-list-learn.py .\49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\0.txt https://codesignal.com/learn/courses/cpp-loops-and-conditional-statements
+Loading: https://codesignal.com/learn/courses/cpp-loops-and-conditional-statements
+Output saved to: 49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\0.txt
+Total lines: 44
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\scrape-url-list-learn.py .\49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\0.txt https://codesignal.com/learn/courses/journey-through-cpp-data-structures    
+Loading: https://codesignal.com/learn/courses/journey-through-cpp-data-structures
+Output saved to: 49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\0.txt
+Total lines: 56
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\scrape-url-list-learn.py .\49.C++-Programming-for-Beginners\4.Debugging-in-C\0.txt https://codesignal.com/learn/courses/debugging-in-cpp 
+Loading: https://codesignal.com/learn/courses/debugging-in-cpp
+Output saved to: 49.C++-Programming-for-Beginners\4.Debugging-in-C\0.txt
+Total lines: 41
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\scrape-url-list-learn.py .\49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\0.txt https://codesignal.com/learn/courses/mastering-functions-in-cpp
+Loading: https://codesignal.com/learn/courses/mastering-functions-in-cpp
+Output saved to: 49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\0.txt
+Total lines: 43
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\scrape-url-list-learn.py .\49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\0.txt https://codesignal.com/learn/courses/diving-into-cpp-classes      
+Loading: https://codesignal.com/learn/courses/diving-into-cpp-classes
+Output saved to: 49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\0.txt
+Total lines: 46
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\scrape-url-list-learn.py .\49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\0.txt https://codesignal.com/learn/courses/mastering-oop-in-cpp      
+Loading: https://codesignal.com/learn/courses/mastering-oop-in-cpp
+Output saved to: 49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\0.txt
+Total lines: 46
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\generate-ipynb.py .\49.C++-Programming-for-Beginners\1.Cracking-C-Basics\0.txt
+Generated notebook: 49.C++-Programming-for-Beginners\1.Cracking-C-Basics\1.First-C++-Program-with-an-Introduction-to-Comments.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\1.Cracking-C-Basics\2.Exploring-Basic-C++-Syntax-and-Data-Types.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\1.Cracking-C-Basics\3.Navigating-Inputs,-Outputs,-and-Expressions.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\1.Cracking-C-Basics\4.Mastering-Control-Structures-with-If,-Else,-and-Switch-Statements.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\1.Cracking-C-Basics\5.Navigating-the-Logic-Maze--Understanding-C++-Logical-Operators.ipynb
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\generate-ipynb.py .\49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\0.txt
+Generated notebook: 49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\1.Looping-Through-Code-with-C++-While-Loops.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\2.Delving-into-C++-Do-While-Loops.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\3.Exploring-C++-For-Loops--From-Basics-to-Practical-Application.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\4.Mastering-Nested-Loops-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\2.C-Loops-and-Conditional-Statements\5.Mastering-C++--Loops-and-Conditional-Statements-Final-Review.ipynb
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\generate-ipynb.py .\49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\0.txt 
+Generated notebook: 49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\1.Understanding-and-Using-Arrays-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\2.Exploring-the-World-of-C++-Vectors.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\3.Navigating-the-World-of-C++-Strings.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\4.Navigating-Multidimensional-Arrays-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\5.Understanding-Sets-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\3.Journey-Through-C-Data-Structures\6.Introduction-to-Maps-and-Unordered-Maps-in-C++.ipynb
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\generate-ipynb.py .\49.C++-Programming-for-Beginners\4.Debugging-in-C\0.txt                   
+Generated notebook: 49.C++-Programming-for-Beginners\4.Debugging-in-C\1.Understanding-C++-Error-Messages.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\4.Debugging-in-C\2.Understanding-C++-Syntax-Errors.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\4.Debugging-in-C\3.Understanding-Logical-Errors-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\4.Debugging-in-C\4.Understanding-and-Preventing-Runtime-Errors-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\4.Debugging-in-C\5.Throwing-Exceptions-in-C++.ipynb
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\generate-ipynb.py .\49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\0.txt
+Generated notebook: 49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\1.Understanding-References-and-Pointers.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\2.Mastering-the-Basics-of-Functions-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\3.Understanding-Scope-and-Object-Lifecycle-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\4.Mastering-Parameters---Default-Values-and-References.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\5.Mastering-Functions-in-C\5.Mastering-Recursion--Simplifying-Complexity-in-C++.ipynb
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\generate-ipynb.py .\49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\0.txt
+Generated notebook: 49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\1.Understanding-Classes---Definition,-Creation,-and-Usage.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\2.Defining-and-Utilizing-Methods.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\3.Constructors-in-C++-Classes.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\4.Encapsulation-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\6.Diving-Into-C-Classes\5.Classes-Composition-in-C++.ipynb
+PS C:\Users\user\Projects\PythonProjects\learn-codesignal-ml> python .\script\generate-ipynb.py .\49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\0.txt
+Generated notebook: 49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\1.Working-with-Dynamic-Memory--Creating-Objects-in-Heap.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\2.Destructors-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\3.Understanding-Inheritance-in-C++.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\4.Access-Specifiers-in-Inheritance.ipynb
+Generated notebook: 49.C++-Programming-for-Beginners\7.Mastering-OOP-in-C\5.Polymorphism-Basics-in-C++.ipynb

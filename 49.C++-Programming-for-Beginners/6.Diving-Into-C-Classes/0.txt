@@ -1,0 +1,46 @@
+Unit 1
+6 practices
+22 min
+Understanding Classes - Definition, Creation, and Usage
+Creating and Using a Car Class in C++
+Modify Car Attributes and Print
+Add a New Attribute
+Fix the Car Class Attributes Display
+Creating and Using a Book Class in C++
+Creating and Using Car Objects in C++
+Unit 2
+6 practices
+22 min
+Defining and Utilizing Methods
+Modify the Launch Method in Spaceship Class
+Create a Person Class with an Introduce Method
+Extend Calculator with Multiplication and Division Methods
+SpaceShip Methods Implementation
+Define and Use Spaceship Class with Method
+Defining and Using Car Methods
+Unit 3
+4 practices
+16 min
+Constructors in C++ Classes
+Change Parameterized Constructor to Default Constructor
+Add a Default Constructor to BankAccount Class
+Add a Parameterized Constructor to the Person Class
+Implement the Copy Constructor for BankAccount Class
+Unit 4
+4 practices
+16 min
+Encapsulation in C++
+Calculate the Volume of a Box with Encapsulation
+Make Radius Private
+Encapsulated Circle Area Calculation
+Encapsulate Rectangle Attributes and Methods
+Unit 5
+6 practices
+22 min
+Classes Composition in C++
+Class Composition with Car, Engine, and Wheel
+Enhance Car Class with Transmission Attribute
+Smartphone Specifications with Class Composition
+Understanding Class Composition with Car and Engine
+Defining the Point Class
+Implementing the Line

@@ -177,13 +177,18 @@ def generate_notebooks(input_file):
             continue
             
         elif lesson_started and current_file:
-            # Check if this is the actual last content line
+            # Look ahead to the next non-blank line only. If it starts a new
+            # Unit (or we hit the end of the list), the current line is the
+            # last content line of this unit and must stay deferred so it's
+            # added exactly once, via finish_notebook() below.
             is_last_content_line = True
             for k in range(i + 1, len(lines)):
                 next_line = lines[k].strip()
-                if next_line and not next_line.startswith("Unit"):
+                if not next_line:
+                    continue
+                if not next_line.startswith("Unit"):
                     is_last_content_line = False
-                    break
+                break
             
             if is_last_content_line:
                 # Store as potential last line

@@ -4,15 +4,108 @@ This script fetches and parses course information from a CodeSignal URL using Pl
 """
 
 import argparse
+import json
 import sys
 import re
 from pathlib import Path
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 
 
-def parse_course_from_html(html_content):
-    """Parse course structure from HTML content."""
+def _iter_next_f_payloads(html_content):
+    """Yield the unescaped string payloads pushed via Next.js's self.__next_f.push(...)."""
+    pattern = re.compile(r'self\.__next_f\.push\(\[\d+,\s*"((?:[^"\\]|\\.)*)"\]\)')
+    for raw in pattern.findall(html_content):
+        try:
+            yield json.loads('"' + raw + '"')
+        except (json.JSONDecodeError, ValueError):
+            continue
+
+
+def _extract_json_array_after_key(text, key):
+    """Return the balanced `[...]` substring following `"key":` in text, string-aware."""
+    marker = f'"{key}":['
+    idx = text.find(marker)
+    if idx == -1:
+        return None
+
+    start = idx + len(marker) - 1  # position of the opening '['
+    depth = 0
+    in_string = False
+    escape = False
+
+    for i in range(start, len(text)):
+        ch = text[i]
+        if in_string:
+            if escape:
+                escape = False
+            elif ch == '\\':
+                escape = True
+            elif ch == '"':
+                in_string = False
+            continue
+
+        if ch == '"':
+            in_string = True
+        elif ch == '[':
+            depth += 1
+        elif ch == ']':
+            depth -= 1
+            if depth == 0:
+                return text[start:i + 1]
+
+    return None
+
+
+def extract_course_units(html_content):
+    """Extract the course's unit/practice list from the embedded Next.js RSC JSON payload.
+
+    CodeSignal course pages embed the full course structure as JSON inside
+    `self.__next_f.push([...])` script tags. This is far more robust than scraping
+    the rendered accordion DOM, whose CSS classes/attributes change over time.
+    """
+    for payload in _iter_next_f_payloads(html_content):
+        if '"units":[' not in payload:
+            continue
+        array_text = _extract_json_array_after_key(payload, "units")
+        if not array_text:
+            continue
+        try:
+            units = json.loads(array_text)
+        except json.JSONDecodeError:
+            continue
+        if units:
+            return units
+    return None
+
+
+def units_json_to_lines(units):
+    """Convert the parsed units JSON into the same flat line format the DOM parser produces."""
+    lines = []
+    for unit in sorted(units, key=lambda u: u.get("position", 0)):
+        lines.append(f"Unit {unit.get('position')}")
+
+        practices = unit.get("practices") or []
+        lines.append(f"{len(practices)} practices")
+
+        minutes = unit.get("minutesToComplete")
+        if minutes is not None:
+            lines.append(f"{minutes} min")
+
+        title = unit.get("title")
+        if title:
+            lines.append(title)
+
+        for practice in sorted(practices, key=lambda p: p.get("position", 0)):
+            practice_title = practice.get("title")
+            if practice_title:
+                lines.append(practice_title)
+
+    return lines
+
+
+def parse_course_from_dom(html_content):
+    """Fallback: parse course structure from the rendered accordion DOM."""
     soup = BeautifulSoup(html_content, 'html.parser')
     results = []
 
@@ -64,10 +157,21 @@ def scrape_course(url):
         page = browser.new_page()
 
         print(f"Loading: {url}")
-        page.goto(url, wait_until='networkidle', timeout=60000)
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+        try:
+            page.wait_for_selector("h1", timeout=30000)
+        except PlaywrightTimeoutError:
+            pass
+        page.wait_for_timeout(1500)
 
-        # Expand all collapsed accordions
-        page.wait_for_timeout(1000)
+        html_content = page.content()
+
+        units = extract_course_units(html_content)
+        if units:
+            browser.close()
+            return units_json_to_lines(units)
+
+        # Fall back to expanding accordions and scraping the rendered DOM.
         accordions = page.query_selector_all('[data-headlessui-state]')
         print(f"Found {len(accordions)} accordion elements")
         for accordion in accordions:
@@ -83,50 +187,57 @@ def scrape_course(url):
         html_content = page.content()
         browser.close()
 
-    return parse_course_from_html(html_content)
+    return parse_course_from_dom(html_content)
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        prog="scrape-url-list-learn.py",
-        description="Scrape a CodeSignal course page and save the unit/lesson list into a text file.",
-        epilog=(
-            "Example:\n"
-            "  python scrape-url-list-learn.py "
-            "\"course/0.txt\" "
-            "\"https://codesignal.com/learn/courses/exploring-workflows-with-claude\""
-        ),
-        formatter_class=argparse.RawTextHelpFormatter,
-    )
-    parser.add_argument(
-        "output_file",
-        help="Path to the output text file, e.g. course/0.txt",
-    )
-    parser.add_argument(
-        "course_url",
-        help="CodeSignal course URL to scrape",
-    )
+    try:
+        parser = argparse.ArgumentParser(
+            prog="scrape-url-list-learn.py",
+            description="Scrape a CodeSignal course page and save the unit/lesson list into a text file.",
+            epilog=(
+                "Example:\n"
+                "  python scrape-url-list-learn.py "
+                "\"course/0.txt\" "
+                "\"https://codesignal.com/learn/courses/exploring-workflows-with-claude\""
+            ),
+            formatter_class=argparse.RawTextHelpFormatter,
+        )
+        parser.add_argument(
+            "output_file",
+            help="Path to the output text file, e.g. course/0.txt",
+        )
+        parser.add_argument(
+            "course_url",
+            help="CodeSignal course URL to scrape",
+        )
 
-    args = parser.parse_args()
+        args = parser.parse_args()
 
-    output_file = args.output_file
-    url = args.course_url
+        output_file = args.output_file
+        url = args.course_url
 
-    content = scrape_course(url)
+        content = scrape_course(url)
 
-    if not content:
-        print("No course content found. The page structure may have changed.")
+        if not content:
+            print("No course content found. The page structure may have changed.")
+            sys.exit(1)
+
+        output_path = Path(output_file)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with open(output_path, 'w', encoding='utf-8') as f:
+            for line in content:
+                f.write(f"{line}\n")
+
+        print(f"Output saved to: {output_path}")
+        print(f"Total lines: {len(content)}")
+
+    except Exception as e:
+        print(f"Error: {e}")
+        import traceback
+        traceback.print_exc()
         sys.exit(1)
-
-    output_path = Path(output_file)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-
-    with open(output_path, 'w', encoding='utf-8') as f:
-        for line in content:
-            f.write(f"{line}\n")
-
-    print(f"Output saved to: {output_path}")
-    print(f"Total lines: {len(content)}")
 
 
 if __name__ == "__main__":

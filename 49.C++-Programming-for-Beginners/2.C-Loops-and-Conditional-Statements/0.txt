@@ -1,0 +1,44 @@
+Unit 1
+5 practices
+19 min
+Looping Through Code with C++ While Loops
+Simulate a Kitchen Timer With Loops
+Adjust the Egg Count Loop Condition
+Debugging the Cookie Counter
+Add Boiling Eggs Display in Loop
+Baking Cupcakes with While Loops in C++
+Unit 2
+5 practices
+19 min
+Delving into C++ Do-While Loops
+Sequential Number Guessing Game Simulation
+Adjust the Guess Increment in the Number Guessing Game
+Debug the Loop Execution in C++
+Increment and Guess the Secret Number
+Number Guessing Game Using Do-While Loop
+Unit 3
+5 practices
+19 min
+Exploring C++ For Loops: From Basics to Practical Application
+Calculating Sum of Squares Using Loops in C++
+Modify the Code to Calculate the Sum of Cubes
+Debug the Sum Calculation
+Add the Summation Logic to the For Loop
+Summing Numbers with a For Loop in C++
+Unit 4
+5 practices
+19 min
+Mastering Nested Loops in C++
+Simulate a Digital Clock with Nested Loops
+Adjust the Digital Clock from 24-Hour to 12-Hour Format
+Debug the Digital Clock Display
+Digital Clock Hour and Minute Match Simulator
+Simulate a Digital Clock in C++
+Unit 5
+4 practices
+16 min
+Mastering C++: Loops and Conditional Statements Final Review
+Identify Prime Numbers with C++ Nested Loops
+Refine the Prime Checker Code
+Add Prime Check Condition to Loop
+Prime Number Checker in C++

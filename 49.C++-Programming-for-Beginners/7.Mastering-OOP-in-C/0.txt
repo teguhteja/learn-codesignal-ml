@@ -1,0 +1,46 @@
+Unit 1
+5 practices
+19 min
+Working with Dynamic Memory: Creating Objects in Heap
+Fixing Dynamic Memory Management
+Allocating and Deallocating a Double in the Heap
+Allocating a Dynamic Array for Scores
+Use the Arrow Operator to Access Class Methods
+Creating and Displaying a Character Object in the Heap
+Unit 2
+4 practices
+16 min
+Destructors in C++
+Add Message to Destructor for Memory Deallocation Confirmation
+Managing Dynamic Memory with Destructors in C++
+Implement Car Destructor to Manage Dynamic Memory
+Order of Destructor Execution
+Unit 3
+7 practices
+25 min
+Understanding Inheritance in C++
+Inheritance with Books and Novels
+Extend the Phone Class with a New Method
+Understanding Inheritance with Vehicles
+Employee Management System with Inheritance
+Understanding Inheritance and Encapsulation in Bank Accounts
+Implement Cat, WildCat, Tiger, and Lion Classes with Inheritance
+Implementing Destructors in an Inheritance Hierarchy
+Unit 4
+4 practices
+16 min
+Access Specifiers in Inheritance
+Accessing Protected Members in Derived Class
+Changing Inheritance Specifier from Public to Private
+Changing Public Inheritance to Protected Inheritance
+Understanding Access Specifiers with Vehicle and Car Classes
+Unit 5
+6 practices
+22 min
+Polymorphism Basics in C++
+Mark the Base Class Method as Virtual
+Extend Chess Program with Bishop Class
+Polymorphism with Shapes
+Add a to_string Method for Shape Descriptions
+Creating Polymorphic RPG Characters
+Modify the Knight Class to Include Position Information

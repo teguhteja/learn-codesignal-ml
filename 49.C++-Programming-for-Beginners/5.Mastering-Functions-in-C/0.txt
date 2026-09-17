@@ -1,0 +1,43 @@
+Unit 1
+5 practices
+19 min
+Understanding References and Pointers
+Adjust the Oil Level
+Car Maintenance Tune-Up Task
+Tune a Car's Performance Using References and Pointers
+Manipulating Car Speeds with Pointers
+Updating Car Speeds with Pointers
+Unit 2
+6 practices
+22 min
+Mastering the Basics of Functions in C++
+Using Functions to Multiply Numbers in C++
+Function Modification
+Fix Arithmetic Operation in Function
+Multiply Function Implementation
+Implement the sumOfSquares Function
+Greeting Function with Parameter
+Unit 3
+3 practices
+13 min
+Understanding Scope and Object Lifecycle in C++
+Global and Local Variables in Book Inventory Management
+Display Book Inventory for City Library
+Library Book Inventory Management
+Unit 4
+5 practices
+19 min
+Mastering Parameters - Default Values and References
+Change the displayProfile Function to Use a Reference for the Parameter
+Update and Print Personal Profiles
+Fix and Improve the Profile Printing Function
+Enhance the Profile Display Function
+Rectangle Volume
+Unit 5
+4 practices
+16 min
+Mastering Recursion: Simplifying Complexity in C++
+Counting Digits with Recursion in C++
+Fill in the Recursive Function to Sum Digits
+Counting Digits Recursively
+Sum of Even Digits Using Recursion
