@@ -1,0 +1,32 @@
+Unit 1
+3 practices
+39 min
+Assembling the Transformer Model
+Building Your First Transformer Model
+Implementing Attention Boundaries
+Your Transformer Comes Alive
+Unit 2
+5 practices
+57 min
+Data Preparation and Tokenization
+Building Your First Vocabulary System
+Building Your Translation Dataset
+Building Your Translation Dataset
+Dynamic Padding for Sequence Batches
+Building Your Complete Data Pipeline
+Unit 3
+4 practices
+48 min
+Transformer Training Essentials
+Building Your First Training Foundation
+Building Smart Training Schedules
+Building the Training Engine
+Complete Your Training Script
+Unit 4
+4 practices
+48 min
+Transformer Sequence Generation
+Creating Your First Text Generator
+Perfect Timing for Text Generation
+Implementing Core Beam Search Logic
+Exploring Beam Search Tradeoffs

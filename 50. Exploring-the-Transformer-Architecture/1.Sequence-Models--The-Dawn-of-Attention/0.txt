@@ -1,0 +1,33 @@
+Unit 1
+4 practices
+48 min
+Revisiting Sequence Models: RNNs, LSTMs, and Their Limits
+Building Your First LSTM Model
+Generate Sequential Memory Challenge
+Switching Prediction Targets
+Training Your First LSTM Model
+Unit 2
+5 practices
+57 min
+Introducing the Attention Mechanism
+Building Your First QKV Tensors
+Building Attention Score Engine
+From Scores to Context Vector
+Building Complex Attention Mechanisms
+Finishing Bahdanau Attention
+Unit 3
+4 practices
+48 min
+Scaled Dot-Product Attention and Masking in Transformers
+Building Robust Attention Mechanisms
+Building Attention Masks
+Creating Attention Boundaries
+Apply Masks to Attention Scores
+Unit 4
+4 practices
+48 min
+Building Attention Modules
+Building Your First Attention Module
+Building the Attention Core
+Implementing Attention Mask Logic
+Complete the Attention Pipeline

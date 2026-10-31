@@ -1,0 +1,33 @@
+Unit 1
+4 practices
+48 min
+Introduction to Hugging Face
+Your First Sentiment Analysis Pipeline
+Building Your First Text Generator
+Building Question Answering Pipeline
+Working with Core Transformer Components
+Unit 2
+4 practices
+48 min
+BERT Encoder Architecture
+Exploring BERT Tokenizer Fundamentals
+BERT Fills in the Blanks
+Context Changes Everything in BERT
+Building Your First BERT Classifier
+Unit 3
+4 practices
+48 min
+GPT-2 Autoregressive Generation
+GPT-2 Tokenization Pattern Analysis
+Fixing GPT-2 Text Generation Issues
+Inside GPT-2 Decision Making
+Creative versus Predictable Text Generation
+Unit 4
+5 practices
+57 min
+T5 Encoder Decoder Mastery
+T5 Tokenizer Bug Hunt
+Building Universal Text Processor
+Perfecting T5 Text Generation
+T5 Model Architecture Explorer
+Building Your T5 Task Handler

@@ -1,0 +1,42 @@
+Unit 1
+5 practices
+57 min
+Multi-Head Attention Mechanism
+Building Parallel Attention
+Building Strong Neural Foundations
+Building Selective Attention Mechanisms
+Tensor Surgery for Attention Heads
+Bringing Attention Heads Back Together
+Unit 2
+4 practices
+48 min
+Feed-Forward Networks and AddNorm
+Building Feed Forward Network Components
+Initialize Network Weights
+Building Transformer Stability Components
+Building Your First Transformer Block
+Unit 3
+4 practices
+48 min
+Positional Encodings Explained
+Building Mathematical Position Awareness
+Scaling and Combining Embeddings
+Debugging Faulty Encoding Logic
+Runtime Error Detective Work
+Unit 4
+4 practices
+48 min
+Building the Transformer Encoder
+Building the Encoder Foundation
+Bringing the Encoder to Life
+Assembling the Full Transformer Stack
+Building Your Complete Encoder Pipeline
+Unit 5
+5 practices
+57 min
+Constructing the Transformer Decoder
+Travel Through Transformers!
+Building Your First Decoder Layer
+Complete the Missing Connection
+Assembling Full Decoder Layer
+Building the Decoder Stack
