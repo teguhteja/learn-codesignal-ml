@@ -1,0 +1,45 @@
+Unit 1
+5 practices
+57 min
+Exploring the Dimensions: A Beginner's Guide to Multidimensional Arrays in Python
+Update Apartment Name in Building Directory
+Unoccupied Apartment Identifier
+Print Apartment Codes on the First Floor
+Expand the Digital Apartment Building
+Apartment Building Management in Python
+Unit 2
+5 practices
+57 min
+Columnar ZigZag and Reverse Traversal of Matrices
+Reverse the Bookshelf Traversal Pattern in Python
+Repairing the Library Bookshelf Traversal
+Add Direction Switch Logic to Bookshelf Traversal
+Vertical Library Traverse Challenge
+Zigzag Bookshelf Traversal Challenge
+Unit 3
+5 practices
+57 min
+Transposing Matrices in Python
+Restaurant Seating Arrangement Transposition
+Transpose the Seating Chart in Reverse Order
+Transpose the Restaurant Seating Arrangement in One Line
+Reflecting a Square Matrix Over Secondary Diagonal
+Transpose the Restaurant Seating Arrangement
+Unit 4
+5 practices
+57 min
+Checking Adjacent Cells in 2D Arrays in Python
+Horizontal Move Identification in a Game Board
+Spotting the Landing Area
+Assessing Strategic Placement on a Game Board
+Magical Chessboard: Discovering the Next Move
+Counting Corner 'E's in Submatrices
+Unit 5
+5 practices
+57 min
+Navigating Adjacent Cells in a Grid: An Exercise in 2D Traversal
+Enhance Hiking Trail Path Finder with Diagonal Movements
+Mountain Peak Exploration Code Correction
+Add a Function to Navigate to the Next Higher Peak
+Add Selection Logic for the Next Hiking Position Based on Elevation
+Ascending the Mountain - Grid Traversal Challenge

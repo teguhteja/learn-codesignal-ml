@@ -1,0 +1,28 @@
+Unit 1
+3 practices
+39 min
+Efficient Data Processing in Social Networking Logs Analysis
+Email Organizer
+Online Programming Competition Analysis
+Book Borrowing Duration Analysis In Library Logs
+Unit 2
+3 practices
+39 min
+Exploring Diagonal Matrix Traversal Techniques
+Zigzag Matrix Traversal and Negative Number Indices
+Spiral Traversal and Vowel Positions in a Grid
+Prime Number Identification in Matrix Zigzag Traversal
+Unit 3
+3 practices
+39 min
+Combining Submatrices for Unified Solutions
+Interleaving Columns from Submatrices
+Boundary Layer Extraction and Concatenation from Two Matrices
+Swapping Submatrices Within a 2D Matrix
+Unit 4
+3 practices
+39 min
+Parsing Complex Strings into Nested Dictionaries and Updating Values
+Parsing and Updating a Nested JSON Object in Python
+User Data Processing and Updating via Nested String Conversion
+Parsing and Updating Nested User Data

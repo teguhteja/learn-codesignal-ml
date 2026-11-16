@@ -1,0 +1,36 @@
+Unit 1
+5 practices
+57 min
+Essentials of HashMaps in Python
+Update the Library Catalog Entry
+Library Catalog Error Correction
+Check Book Availability in Library Catalog
+Update and Access Elements in a Library Catalog Dictionary
+Updating a Library Catalog Using HashMaps in Python
+Unit 2
+5 practices
+57 min
+Mastering Element Counting with Python HashMaps
+Explore Dictionary Methods for Efficient Counting
+Correct the Book Counter Code
+Update Book Counts in Library Tracker
+Counting Letter Frequency in a Library Sentence
+Counting Book Copies in a Collection Using HashMaps
+Unit 3
+5 practices
+57 min
+Aggregating Essentials: Mastering HashMaps in Python
+Calculate the Average Quantity in Inventory
+Inventory Maximum Quantity Calculation Correction
+Add Inventory Statistics Calculation to Grocery Shop System
+Inventory Stock Level Comparison to Average
+Grocery Shop Inventory Maximum Count Finder
+Unit 4
+5 practices
+57 min
+HashMaps in Action: Solving Real-World Problems in Python
+Update Library System to Handle Borrowing Logic
+Spot the Bug in Library Catalog Management
+Update Library Inventory and Check Stock Status
+Add Word Count Functionality to the HashMap
+Check Book Availability in Library Catalog

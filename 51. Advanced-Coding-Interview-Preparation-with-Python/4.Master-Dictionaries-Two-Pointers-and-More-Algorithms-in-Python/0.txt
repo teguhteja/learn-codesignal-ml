@@ -1,0 +1,35 @@
+Unit 1
+3 practices
+39 min
+Complexity Analysis: A Quick Reminder
+Summing Integers Between Two Numbers
+Finding Minimum Absolute Difference in an Array
+Closest Pair Mapping in Arrays
+Unit 2
+3 practices
+39 min
+Optimizing Performance with HashSets in Python
+Finding Common Characters with Sets
+Efficient Presence Checking in Celestial Body Lists
+Movie Recommendation Algorithm with Sets
+Unit 3
+3 practices
+39 min
+Optimizing Array Analysis with HashMaps
+String Partitioning by Unique Characters
+Character Removal for Minimal Word Count
+Finding the Minimum Distance Between Word Occurrences in a List
+Unit 4
+3 practices
+39 min
+Efficient Pair Sum Identification with the Two-Pointer Technique
+Identifying Pairs with Zero Sum Using Two-Pointer Technique
+Finding Maximum Sum Subarray Using Two-pointer Technique
+Finding the Longest Subarray with a Specified Sum Using Two-Pointer Technique
+Unit 5
+3 practices
+39 min
+Manipulating Arrays with Hashing and Two Pointers Technique
+Array Transformation Based on Closest Half-value Criterion
+Finding the Most Influential Person in a Network
+Longest Substring with At Most K Distinct Characters

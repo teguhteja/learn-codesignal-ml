@@ -1,0 +1,35 @@
+Unit 1
+3 practices
+39 min
+Estimating Algorithm Processing Time and Optimizing Brute-Force Solutions by Picking Optimal Variable for Brute Force
+Finding a Pair with Target Sum Using Hashmap Optimization
+Player Score Lookup Through ID Queries
+Finding Pair Sums in Two Arrays
+Unit 2
+3 practices
+39 min
+Optimizing Range Query Solutions with Precalculation Techniques
+Maximal Cumulative Sum in Array for Given Queries
+Finding the Length of a Substring After Removing Certain Characters
+Finding Divisors of the Closest Perfect Square
+Unit 3
+3 practices
+39 min
+Combinatorial Pair Analysis in Large Datasets
+Counting Distinct Pairs with Absolute Difference More Than 10
+Counting Pairs with Equal Values in an Array
+Three-Letter Combination Count from String
+Unit 4
+3 practices
+39 min
+Efficient Median Calculation for Array Prefixes Using Heaps
+Implementing Heap Operations on a Set of Numbers
+Heap Manipulation for Data Querying
+Finding the floor(k/3)-th Smallest Number in Each Prefix
+Unit 5
+3 practices
+39 min
+Efficient Set Operations with Sorted Data Structures
+Finding Smallest Absolute Distance Between Added Numbers
+Managing Operations on A Sorted List
+Interval Management with SortedLists in Python
